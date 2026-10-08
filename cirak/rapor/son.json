@@ -1,33 +1,325 @@
 {
  "isletmeler": {
-  "toplam": 0,
-  "dukkanlar": [],
-  "turler": [],
-  "tur_sayisi": 0
+  "toplam": 9,
+  "dukkanlar": [
+   {
+    "ad": "Araştırma Şarküter",
+    "tur": "sarkuteri",
+    "ilce": "Yenimahalle",
+    "kasa": 125733.72,
+    "seviye": null,
+    "no": 5522
+   },
+   {
+    "ad": "Araştırma Kargo",
+    "tur": "kargo",
+    "ilce": "Yenimahalle",
+    "kasa": 161933.35,
+    "seviye": null,
+    "no": 7820
+   },
+   {
+    "ad": "Araştırma Çilingir",
+    "tur": "cilingir",
+    "ilce": "Yenimahalle",
+    "kasa": 39671.68,
+    "seviye": null,
+    "no": 8338
+   },
+   {
+    "ad": "Araştırma Fotoğraf",
+    "tur": "fotografci",
+    "ilce": "Yenimahalle",
+    "kasa": 435696.3,
+    "seviye": null,
+    "no": 8397
+   },
+   {
+    "ad": "Araştırma Elektrik",
+    "tur": "elektrikci",
+    "ilce": "Yenimahalle",
+    "kasa": 106626.48,
+    "seviye": null,
+    "no": 8442
+   },
+   {
+    "ad": "Araştırma Otopark",
+    "tur": "otopark",
+    "ilce": "Yenimahalle",
+    "kasa": 53972.65,
+    "seviye": null,
+    "no": 8815
+   },
+   {
+    "ad": "Araştırma Oto Yıka",
+    "tur": "oto_yikama",
+    "ilce": "Yenimahalle",
+    "kasa": 385167.6,
+    "seviye": null,
+    "no": 8858
+   },
+   {
+    "ad": "Araştırma Oto Serv",
+    "tur": "oto_servis",
+    "ilce": "Yenimahalle",
+    "kasa": 797382.0,
+    "seviye": null,
+    "no": 9659
+   },
+   {
+    "ad": "Araştırma Emlak",
+    "tur": "emlakci",
+    "ilce": "Yenimahalle",
+    "kasa": 445589.48,
+    "seviye": null,
+    "no": 31939
+   }
+  ],
+  "turler": [
+   "cilingir",
+   "elektrikci",
+   "emlakci",
+   "fotografci",
+   "kargo",
+   "oto_servis",
+   "oto_yikama",
+   "otopark",
+   "sarkuteri"
+  ],
+  "tur_sayisi": 9
  },
  "cerez-kontrol": {
-  "tamam": false,
-  "hata": null
+  "tamam": true,
+  "oyuncu": "arastirmaci42",
+  "seviye": 6,
+  "tp": 483,
+  "nakit_kurus": 1238885612,
+  "il": {
+   "id": 6,
+   "ad": "Ankara",
+   "nufus": 5910320,
+   "kiyi": false,
+   "buyuksehir": true,
+   "bolge": "İç Anadolu",
+   "enlem": 39.9208,
+   "ulke": "TR"
+  },
+  "ilce": {
+   "id": 1723,
+   "ad": "Yenimahalle",
+   "nufus": 721531
+  },
+  "mahalle": {
+   "id": 198209,
+   "ad": "Ata Mahallesi"
+  },
+  "banka": {
+   "vadesiz": 157357478,
+   "nakit": 1238885612,
+   "vadeliler": [],
+   "krediler": [],
+   "vadeler": [
+    {
+     "gun": 7,
+     "ad": "1 hafta",
+     "faiz": 36
+    },
+    {
+     "gun": 30,
+     "ad": "1 ay",
+     "faiz": 40
+    },
+    {
+     "gun": 90,
+     "ad": "3 ay",
+     "faiz": 42
+    },
+    {
+     "gun": 365,
+     "ad": "1 yıl",
+     "faiz": 45
+    }
+   ],
+   "krediTurleri": [
+    {
+     "kod": "isletme",
+     "ad": "İşletme kredisi",
+     "simge": "💼",
+     "aciklama": "Stok, kira ve maaş gibi günlük ihtiyaçlar için.",
+     "faiz": 51,
+     "temelFaiz": 54,
+     "odaIndirimi": 3,
+     "taksitler": [
+      3,
+      6,
+      12
+     ],
+     "limit": 541000000,
+     "engel": null,
+     "enAz": 1000000
+    },
+    {
+     "kod": "makine",
+     "ad": "Makine-teçhizat kredisi",
+     "simge": "🏭",
+     "aciklama": "Tesis kurmak ve büyütmek için; en az bir tesisin olmalı.",
+     "faiz": 44,
+     "temelFaiz": 44,
+     "odaIndirimi": 0,
+     "taksitler": [
+      6,
+      12,
+      24
+     ],
+     "limit": 901600000,
+     "engel": "15. seviyede açılır.",
+     "enAz": 1000000
+    }
+   ],
+   "stopaj": 15,
+   "tahsis": 0.5,
+   "ekonomiGunuMs": 28800000,
+   "karaListe": 0,
+   "net": 157357478,
+   "krediNotu": {
+    "puan": 1117,
+    "bant": "Az riskli",
+    "renk": "#E8C21A"
+   },
+   "hesapNo": "TR06 0077 7098 0600 5694 4967 03",
+   "donuk": false,
+   "masak": null
+  },
+  "takvim": {
+   "ms": 1791475922706,
+   "yil": 2026,
+   "ay": 9,
+   "ayAdi": "Ekim",
+   "gunNo": 8,
+   "haftaGunu": "Perşembe",
+   "haftaGunuNo": 4,
+   "haftaSonu": false,
+   "saat": 16,
+   "dakika": 12,
+   "mevsim": "sonbahar",
+   "mevsimAdi": "Sonbahar",
+   "metin": "8 Ekim 2026, Perşembe"
+  }
  },
  "banka": {
-  "nakit": 0.0,
-  "vadesiz": 0.0,
-  "hesap_no": null,
-  "vadeliler": null,
-  "krediler": null,
-  "kredi_notu": null,
+  "nakit": 12388856.12,
+  "vadesiz": 1573574.78,
+  "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
+  "vadeliler": [],
+  "krediler": [],
+  "kredi_notu": {
+   "puan": 1117,
+   "bant": "Az riskli",
+   "renk": "#E8C21A"
+  },
   "ham_anahtarlar": [
-   "hata"
+   "vadesiz",
+   "nakit",
+   "vadeliler",
+   "krediler",
+   "vadeler",
+   "krediTurleri",
+   "stopaj",
+   "tahsis",
+   "ekonomiGunuMs",
+   "karaListe",
+   "net",
+   "krediNotu",
+   "hesapNo",
+   "donuk",
+   "masak"
   ]
  },
  "havale": {
-  "toplam": 0,
-  "gelenler": [],
-  "son_hareketler": [],
-  "hesap_no": null,
+  "toplam": 5,
+  "gelenler": [
+   {
+    "id": 9,
+    "kim": "Karahan",
+    "tutar": 100000.0,
+    "aciklama": null,
+    "giden": false,
+    "ts": 1791073858552
+   },
+   {
+    "id": 4,
+    "kim": "Karahan",
+    "tutar": 50000.0,
+    "aciklama": "stok yardımı",
+    "giden": false,
+    "ts": 1790933942070
+   },
+   {
+    "id": 3,
+    "kim": "Karahan",
+    "tutar": 22000.0,
+    "aciklama": null,
+    "giden": false,
+    "ts": 1790932089039
+   },
+   {
+    "id": 2,
+    "kim": "Karahan",
+    "tutar": 60000.0,
+    "aciklama": "Ortaklık Payı 😘",
+    "giden": false,
+    "ts": 1790930968873
+   }
+  ],
+  "son_hareketler": [
+   {
+    "id": 38,
+    "kim": "Karahan",
+    "tutar": 1000000.0,
+    "aciklama": "Günlük kâr payı",
+    "giden": true,
+    "ts": 1791378780681
+   },
+   {
+    "id": 9,
+    "kim": "Karahan",
+    "tutar": 100000.0,
+    "aciklama": null,
+    "giden": false,
+    "ts": 1791073858552
+   },
+   {
+    "id": 4,
+    "kim": "Karahan",
+    "tutar": 50000.0,
+    "aciklama": "stok yardımı",
+    "giden": false,
+    "ts": 1790933942070
+   },
+   {
+    "id": 3,
+    "kim": "Karahan",
+    "tutar": 22000.0,
+    "aciklama": null,
+    "giden": false,
+    "ts": 1790932089039
+   },
+   {
+    "id": 2,
+    "kim": "Karahan",
+    "tutar": 60000.0,
+    "aciklama": "Ortaklık Payı 😘",
+    "giden": false,
+    "ts": 1790930968873
+   }
+  ],
+  "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "engel": null,
   "ham": {
-   "hata": "Oturumun kapanmış, tekrar giriş yap."
+   "hesapNo": "TR06 0077 7098 0600 5694 4967 03",
+   "sinir": 100000000,
+   "bugun": 100000000,
+   "engel": null
   }
  },
  "arkadas-istek": {
@@ -35,7 +327,7 @@
   "giden_istek_var": false,
   "gelen_istek_var": false,
   "istek": {
-   "hata": "Oturumun kapanmış, tekrar giriş yap."
+   "durum": "arkadas"
   },
   "son_durum": {
    "arkadas": [],
@@ -45,75 +337,306 @@
  },
  "mesaj-oku": {
   "kisi": "Karahan",
-  "toplam": 0,
-  "gelen_adet": 0,
-  "son_gelen": null,
+  "toplam": 25,
+  "gelen_adet": 3,
+  "son_gelen": {
+   "id": 577,
+   "benden": false,
+   "metin": "8. Seviye de hangi dükkanlar açılıyor yeni özellik falan açılıyor mu?",
+   "zaman": 1791211477700
+  },
   "cevaplanan_id": 0,
-  "son_mesajlar": []
+  "son_mesajlar": [
+   {
+    "id": 441,
+    "benden": true,
+    "metin": "Günaydın! ⏰ Bu gece 00:00'da mini oyun haftası kapanıyor: #1'sin → ~205.000₺ ödül geliyor (100k haftalık + 75k Şampiyon + 30k Yıldız). Vergin için ilk büyük ödemeyi ondan sonra yapabilirsin 👍",
+    "zaman": 1791126688454
+   },
+   {
+    "id": 447,
+    "benden": false,
+    "metin": "vergiyi kapattım ben zaten ödedim sana para lazım mı?",
+    "zaman": 1791126803111
+   },
+   {
+    "id": 449,
+    "benden": true,
+    "metin": "🤖 Aldım patron! Botlar ayakta (18:15). Oyun içi mesaj beni uyandırmaz; iş/istek olursa sohbetten yaz, anında bakarım.",
+    "zaman": 1791126905368
+   },
+   {
+    "id": 456,
+    "benden": true,
+    "metin": "Sağ ol patron, şu an ACİL ihtiyacım yok! 💪 Kasam 373.931₺, vergim 352.900₺ — fazlasıyla hazır, 6-7 Ekim'de ödeyeceğim. Bu gece yarış ödülü (~120k bana) gelince de rahatlarım. Parayı kendine sakla, yeni şubelere yatır 😄 Lazım olursa ilk kapın sen olursun!",
+    "zaman": 1791128782578
+   },
+   {
+    "id": 577,
+    "benden": false,
+    "metin": "8. Seviye de hangi dükkanlar açılıyor yeni özellik falan açılıyor mu?",
+    "zaman": 1791211477700
+   },
+   {
+    "id": 578,
+    "benden": true,
+    "metin": "🤖 Aldım patron! Botlar ayakta (17:45). Oyun içi mesaj beni uyandırmaz; iş/istek olursa sohbetten yaz, anında bakarım.",
+    "zaman": 1791211528743
+   },
+   {
+    "id": 579,
+    "benden": true,
+    "metin": "📊 17:45 durum: kasa 503.576₺ · keyif 99😄 ×1.08 · sv5 TP 388/400 · Şarküteri dün net 159.897₺ · kargo bugün 188.160₺ (688 müş) · botlar ✓",
+    "zaman": 1791211531885
+   },
+   {
+    "id": 580,
+    "benden": true,
+    "metin": "Hafta kapandı: ben #2 (ödül 60.000₺ geldi 💰), sen #2 olmuşsun (2560) — EzelBayraktar son anda geçmiş (3394)! 100k yerine 40k aldın ama 'ilçenin en zengini' sertifikası da geldi bana 😄 YENİ hafta başladı: bu kez #1'i beraber alalım!",
+    "zaman": 1791211683742
+   },
+   {
+    "id": 614,
+    "benden": true,
+    "metin": "0.56.0 güncellemesi: artık havale sadece IBAN ile yapılıyor (isimle arama kalktı). Sana para göndermem gerekirse lazım olur — banka hesabının IBAN'ını atar mısın? Benimki: TR06 0077 7098 0600 5694 4967 03",
+    "zaman": 1791219559481
+   },
+   {
+    "id": 688,
+    "benden": true,
+    "metin": "📊 22:14 durum: kasa 582.414₺ · keyif 94😄 ×1.08 · sv6 TP 433/700 · Şarküteri dün net 159.897₺ · kargo bugün 218.580₺ (802 müş) · botlar ✓",
+    "zaman": 1791227657724
+   }
+  ],
+  "cevap": {
+   "tamam": true
+  },
+  "cevap_metni": "Patron kargo + lastikçi açıldı! Kasa 12388856 TL. Sıradaki: Teknik servis = 206000 TL (0 TL daha lazım). IBAN: TR06 0077 7098 0600 5694 4967 03"
  },
  "mesaj": {
   "mesajlar": []
  },
  "oda": {
-  "odalar": [],
+  "odalar": [
+   {
+    "kod": "esnaf",
+    "ad": "Esnaf ve Sanatkârlar Odası",
+    "uye": true,
+    "aktif": true,
+    "egitimAlindi": true,
+    "aidat": 25000,
+    "borc": null,
+    "baskan": null,
+    "kasa": 800000,
+    "uyeler": null,
+    "tp": null
+   },
+   {
+    "kod": "ticaret",
+    "ad": "Ticaret Odası",
+    "uye": true,
+    "aktif": true,
+    "egitimAlindi": true,
+    "aidat": 150000,
+    "borc": null,
+    "baskan": null,
+    "kasa": 450000,
+    "uyeler": null,
+    "tp": null
+   },
+   {
+    "kod": "sanayi",
+    "ad": "Sanayi Odası",
+    "uye": false,
+    "aktif": false,
+    "egitimAlindi": false,
+    "aidat": 300000,
+    "borc": null,
+    "baskan": null,
+    "kasa": 0,
+    "uyeler": null,
+    "tp": null
+   }
+  ],
   "egitim": [],
-  "uyelikler": []
+  "uyelikler": [
+   "Esnaf ve Sanatkârlar Odası",
+   "Ticaret Odası"
+  ]
  },
  "seviye-bildir": {
-  "seviye": 0,
-  "tp": null,
+  "seviye": 6,
+  "tp": 483,
   "onceki": 0,
-  "yeni_mi": false
+  "yeni_mi": true,
+  "mesaj": {
+   "tamam": true
+  },
+  "yeni_dukkanlar": [
+   "Emlakçı",
+   "Seyahat acentesi",
+   "Matbaa",
+   "Kebapçı"
+  ]
  },
  "dukkan-ac": {
   "ilce": 2034,
-  "acilanlar": [],
-  "secenekler": [],
+  "acilanlar": [
+   {
+    "tur": "teknik_servis",
+    "no": 15,
+    "toplam": 206000.0,
+    "sonuc": {
+     "hata": "Şube açmak için en az 10. seviye olmalısın."
+    }
+   },
+   {
+    "tur": "teknik_servis",
+    "no": 28,
+    "toplam": 206000.0,
+    "sonuc": {
+     "hata": "Şube açmak için en az 10. seviye olmalısın."
+    }
+   }
+  ],
+  "secenekler": [
+   {
+    "no": 15,
+    "tur": "teknik_servis",
+    "ad": "Teknik servis",
+    "seviye": 4,
+    "kilitli": false,
+    "toplam": 206000.0,
+    "kurulum": 160000.0,
+    "kira": 18000.0
+   },
+   {
+    "no": 28,
+    "tur": "teknik_servis",
+    "ad": "Teknik servis",
+    "seviye": 4,
+    "kilitli": false,
+    "toplam": 206000.0,
+    "kurulum": 160000.0,
+    "kira": 18000.0
+   }
+  ],
   "denemeler": [],
-  "bakiye": 0.0,
-  "bos_parsel": 0,
-  "kalan_bakiye": 0.0
+  "bakiye": 12389046.12,
+  "bos_parsel": 7,
+  "kalan_bakiye": 11977046.12
  },
  "bot": {
   "beklenmeyen_hata": "Traceback (most recent call last):\n  File \"/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/cirak_kosu.py\", line 1132, in main\n    ozetler[ad] = f(op, komut)\n                  ^^^^^^^^^^^^\n  File \"/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/cirak_kosu.py\", line 337, in gorev_bot\n    spec.loader.exec_module(mod)\n  File \"<frozen importlib._bootstrap_external>\", line 936, in exec_module\n  File \"<frozen importlib._bootstrap_external>\", line 1073, in get_code\n  File \"<frozen importlib._bootstrap_external>\", line 1130, in get_data\nFileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/bot_cekirdek.py'\n"
  },
  "dukkan-yonet": {
-  "toplam": 0,
-  "kasa_toplanan": 0,
-  "kasa_tl": 0.0,
-  "raf_doldurulan": 0,
+  "toplam": 9,
+  "kasa_toplanan": 9,
+  "kasa_tl": 2551773.2600000002,
+  "raf_doldurulan": 1,
   "oto_acilan": 0,
-  "detay": [],
+  "detay": [
+   {
+    "ad": "Araştırma Şarküter",
+    "id": 5522,
+    "kasa": 125733.72,
+    "oto": "acik",
+    "raf": "89/189→full"
+   },
+   {
+    "ad": "Araştırma Kargo",
+    "id": 7820,
+    "kasa": 161933.35
+   },
+   {
+    "ad": "Araştırma Çilingir",
+    "id": 8338,
+    "kasa": 39671.68
+   },
+   {
+    "ad": "Araştırma Fotoğraf",
+    "id": 8397,
+    "kasa": 435696.3
+   },
+   {
+    "ad": "Araştırma Elektrik",
+    "id": 8442,
+    "kasa": 106626.48
+   },
+   {
+    "ad": "Araştırma Otopark",
+    "id": 8815,
+    "kasa": 53972.65
+   },
+   {
+    "ad": "Araştırma Oto Yıka",
+    "id": 8858,
+    "kasa": 385167.6
+   },
+   {
+    "ad": "Araştırma Oto Serv",
+    "id": 9659,
+    "kasa": 797382.0
+   },
+   {
+    "ad": "Araştırma Emlak",
+    "id": 31939,
+    "kasa": 445589.48
+   }
+  ],
   "hatalar": [],
   "debug": []
  },
  "gunluk-gorev": {
-  "gun": null,
+  "gun": "2026-10-08",
   "alindi": false,
-  "gorevler": [],
+  "gorevler": [
+   {
+    "ad": "Bir toplu siparişi zamanında yetiştir",
+    "tamam": false,
+    "ilerleme": null,
+    "hedef": 1
+   },
+   {
+    "ad": "3 mini oyun oyna",
+    "tamam": false,
+    "ilerleme": null,
+    "hedef": 3
+   },
+   {
+    "ad": "3 iş bitir ve kazancını topla",
+    "tamam": true,
+    "ilerleme": null,
+    "hedef": 3
+   }
+  ],
   "odul_alindi": false
  },
  "mini-oyun": {
-  "oynanan": 0,
-  "puan": 0,
-  "odul_tl": 0,
-  "oyunlar": [],
-  "hatalar": [
+  "oynanan": 2,
+  "puan": 103,
+  "odul_tl": 0.0,
+  "oyunlar": [
    {
     "kod": "lokum",
-    "hata": "Oturumun kapanmış, tekrar giriş yap."
+    "puan": 42,
+    "odul": 0.0,
+    "tur": "antrenman"
    },
    {
     "kod": "sektir",
-    "hata": "Oturumun kapanmış, tekrar giriş yap."
+    "puan": 61,
+    "odul": 0.0,
+    "tur": "antrenman"
    }
-  ]
+  ],
+  "hatalar": []
  },
  "esnaf-topla": {
   "sonuc": {
-   "hata": "Oturumun kapanmış, tekrar giriş yap."
+   "hata": "Toplanacak kazanç yok."
   },
   "basarili": false,
-  "hata": "Oturumun kapanmış, tekrar giriş yap."
+  "hata": "Toplanacak kazanç yok."
  }
 }
