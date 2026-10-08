@@ -15,7 +15,7 @@
   "zincir_butce_dk": 0,
   "not": "OTOMATİK: kasa topla, raf doldur, oto tedarik aç + dükkan aç: mobilya, beyaz_esya, spor_salonu",
   "kosu": 1,
-  "hedef_sektorler": [
+  "hedefler": [
     "mobilya",
     "beyaz_esya",
     "spor_salonu"
