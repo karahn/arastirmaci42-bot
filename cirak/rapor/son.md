@@ -1,108 +1,49 @@
-# Çırak raporu — isletmeler
-
-**Zaman:** 2026-10-08 13:13:08 UTC
-
-
----
-
 # Çırak raporu — cerez-kontrol
 
-**Zaman:** 2026-10-08 13:13:08 UTC
+**Zaman:** 2026-10-08 13:24:53 UTC
 
 ## Oyuncu
 
 - Ad: **arastirmaci42**
-- Seviye: 6 · TP: 483
-- Nakit: 12388856.12 ₺
+- Seviye: 6 · TP: 486
+- Nakit: 9245841.38 ₺
 - Konum: Ankara / Yenimahalle / Ata Mahallesi
 
 
 ---
 
-# Çırak raporu — banka
+# Çırak raporu — isletmeler
 
-**Zaman:** 2026-10-08 13:13:08 UTC
-
-
----
-
-# Çırak raporu — havale
-
-**Zaman:** 2026-10-08 13:13:08 UTC
-
-
----
-
-# Çırak raporu — arkadas-istek
-
-**Zaman:** 2026-10-08 13:13:08 UTC
-
-
----
-
-# Çırak raporu — mesaj-oku
-
-**Zaman:** 2026-10-08 13:13:08 UTC
-
-
----
-
-# Çırak raporu — mesaj
-
-**Zaman:** 2026-10-08 13:13:08 UTC
-
-
----
-
-# Çırak raporu — oda
-
-**Zaman:** 2026-10-08 13:13:08 UTC
-
-
----
-
-# Çırak raporu — seviye-bildir
-
-**Zaman:** 2026-10-08 13:13:08 UTC
-
-
----
-
-# Çırak raporu — dukkan-ac
-
-**Zaman:** 2026-10-08 13:13:08 UTC
-
-
----
-
-# Çırak raporu — bot
-
-**Zaman:** 2026-10-08 13:13:08 UTC
+**Zaman:** 2026-10-08 13:24:53 UTC
 
 
 ---
 
 # Çırak raporu — dukkan-yonet
 
-**Zaman:** 2026-10-08 13:13:08 UTC
+**Zaman:** 2026-10-08 13:24:53 UTC
 
 
 ---
 
-# Çırak raporu — gunluk-gorev
+# Çırak raporu — dukkan-ac
 
-**Zaman:** 2026-10-08 13:13:08 UTC
-
-
----
-
-# Çırak raporu — mini-oyun
-
-**Zaman:** 2026-10-08 13:13:08 UTC
+**Zaman:** 2026-10-08 13:24:53 UTC
 
 
 ---
 
-# Çırak raporu — esnaf-topla
+# Çırak raporu — bot
 
-**Zaman:** 2026-10-08 13:13:08 UTC
+**Zaman:** 1791465893275 UTC
+
+## Bot koşusu
+
+| Alan | Değer |
+|---|---|
+| Süre | 0.9 dk |
+| Tur | 5 |
+| Kazanç | 387.4 ₺ |
+| Servis | 39 |
+| Bahşiş | 8 |
+| Bakiye | 9228046.32 ₺ |
