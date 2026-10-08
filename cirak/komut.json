@@ -1,21 +1,17 @@
 {
-  "hesap_adi": "Arastirmaci42",
-  "gorevler": [
-    "cerez-kontrol",
-    "isletmeler",
-    "dukkan-yonet",
-    "reklam-ve-fiyat",
-    "dukkan-ac",
-    "bot"
-  ],
-  "sure_dk": 50,
-  "bekle_sn": 15,
-  "dukkan_hedefleri": [
-    {"tur": "beyaz_esya", "oncelik": 1, "maks_maliyet": 500000},
-    {"tur": "mobilya", "oncelik": 2, "maks_maliyet": 600000},
-    {"tur": "kuyumcu", "oncelik": 3, "maks_maliyet": 700000},
-    {"tur": "eczane", "oncelik": 4, "maks_maliyet": 400000}
-  ],
-  "mevcut_dukkanlar": ["sarkuteri", "kargo", "cilingir", "fotografci", "elektrikci", "otopark", "oto_yikama", "oto_servis", "emlakci", "kebapci", "telefoncu", "yedek_parca", "teknik_servis", "bilgisayarci", "spor_magazasi", "bisikletci", "kuruyemis", "berber"],
-  "notlar": "18 dükkân zaten var. Beyaz Eşya > Mobilya > Kuyumcu > Eczane aç. Reklam ver, fiyatları optimize et."
+ "gorevler": [
+  "cerez-kontrol",
+  "banka",
+  "havale",
+  "mesaj-oku",
+  "oda",
+  "seviye-bildir",
+  "dukkan-ac",
+  "bot"
+ ],
+ "sure_dk": 50,
+ "zincir": true,
+ "zincir_butce_dk": 0,
+ "not": "VARSAYILAN (zincir) mod: mesaj oku/cevap + oda + dükkân denemesi + 50 dk grind; bitince kendini yeniden tetikler.",
+ "kosu": 1
 }
