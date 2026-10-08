@@ -1,0 +1,53 @@
+{
+  "toplam": 20,
+  "kasa_toplanan": 0,
+  "kasa_tl": 0.0,
+  "raf_doldurulan": 7,
+  "oto_acilan": 7,
+  "detay": [
+    {
+      "ad": "Araştırma Şarküter",
+      "id": 5522,
+      "oto": "acik",
+      "raf": "0/189→full"
+    },
+    {
+      "ad": "arastirmaci42 Keba",
+      "id": 43907,
+      "oto": "acik",
+      "raf": "0/750→full"
+    },
+    {
+      "ad": "arastirmaci42 Tele",
+      "id": 43911,
+      "oto": "acik",
+      "raf": "37/320→full"
+    },
+    {
+      "ad": "arastirmaci42 Bilg",
+      "id": 43923,
+      "oto": "acik",
+      "raf": "129/200→full"
+    },
+    {
+      "ad": "arastirmaci42 Spor",
+      "id": 43925,
+      "oto": "acik",
+      "raf": "32/320→full"
+    },
+    {
+      "ad": "arastirmaci42 Kuru",
+      "id": 43928,
+      "oto": "acik",
+      "raf": "22/188→full"
+    },
+    {
+      "ad": "arastirmaci42 Çiğ",
+      "id": 43932,
+      "oto": "acik",
+      "raf": "0/300→full"
+    }
+  ],
+  "hatalar": [],
+  "debug": []
+}
