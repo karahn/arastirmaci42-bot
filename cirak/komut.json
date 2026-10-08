@@ -2,7 +2,6 @@
   "hesap_adi": "Arastirmaci42",
   "gorevler": [
     "cerez-kontrol",
-    "havale-kontrol",
     "isletmeler",
     "dukkan-yonet",
     "dukkan-ac",
@@ -10,17 +9,11 @@
   ],
   "sure_dk": 50,
   "bekle_sn": 15,
-  "tezgah_oncelik": ["kokorec", "pazar", "gozleme", "kestane"],
-  "dukkan_strateji": {
-    "hedefler": ["oto_servis", "emlakci", "fotografci", "oto_yikama", "kargo"],
-    "maks_seviye": 6,
-    "minimum_nakit": 300000
-  },
-  "koordinasyon": {
-    "rol": "destek_verici",
-    "destek_verilecekler": ["Kalfa19"],
-    "transfer_limit": 1000000,
-    "mesaj_sablonu": "Kalfa19'a {miktar}₺ havale gönderdim. Dükkân açabilirsin!"
-  },
-  "notlar": "En zengin hesap (13.9M₺). Yüksek kârlı dükkanlar aç. Kalfa19'a destek ver."
+  "dukkan_hedefleri": [
+    {"tur": "oto_servis", "oncelik": 1, "maks_maliyet": 600000},
+    {"tur": "emlakci", "oncelik": 2, "maks_maliyet": 700000},
+    {"tur": "elektronik", "oncelik": 3, "maks_maliyet": 500000},
+    {"tur": "fotografci", "oncelik": 4, "maks_maliyet": 250000}
+  ],
+  "notlar": "6 dükkân zaten var. Oto Servis > Emlakçı > Elektronik > Fotoğrafçı sırasıyla aç."
 }
