@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Oturum bilgileri (ASLA commit etme)
+oturum_cerez.txt
+*.cookie
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raporlar çok büyük olabilir, sadece son 10'u tut
+cirak/rapor/son-*.json
+!cirak/rapor/son.json
