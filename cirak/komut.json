@@ -13,6 +13,11 @@
   "sure_dk": 50,
   "zincir": true,
   "zincir_butce_dk": 0,
-  "not": "OTOMATİK: kasa topla, raf doldur, oto tedarik aç, dükkan aç + bot",
-  "kosu": 1
+  "not": "OTOMATİK: kasa topla, raf doldur, oto tedarik aç + dükkan aç: mobilya, beyaz_esya, spor_salonu",
+  "kosu": 1,
+  "hedef_sektorler": [
+    "mobilya",
+    "beyaz_esya",
+    "spor_salonu"
+  ]
 }
