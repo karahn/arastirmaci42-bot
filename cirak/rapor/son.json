@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 6,
   "tp": 646,
-  "nakit_kurus": 1347641271,
+  "nakit_kurus": 1347994501,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 157357478,
-   "nakit": 1347641271,
+   "nakit": 1347994501,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791507287364,
+   "ms": 1791508548890,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -110,15 +110,15 @@
    "haftaGunu": "Cuma",
    "haftaGunuNo": 5,
    "haftaSonu": false,
-   "saat": 0,
-   "dakika": 54,
+   "saat": 1,
+   "dakika": 15,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "9 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 13476412.71,
+  "nakit": 13479945.01,
   "vadesiz": 1573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -363,8 +363,8 @@
  },
  "dukkan-yonet": {
   "toplam": 18,
-  "kasa_toplanan": 1,
-  "kasa_tl": 3532.3,
+  "kasa_toplanan": 0,
+  "kasa_tl": 0.0,
   "raf_doldurulan": 7,
   "oto_acilan": 7,
   "detay": [
@@ -373,11 +373,6 @@
     "id": 5522,
     "oto": "acik",
     "raf": "0/189→full"
-   },
-   {
-    "ad": "Araştırma Otopark",
-    "id": 8815,
-    "kasa": 3532.3
    },
    {
     "ad": "arastirmaci42 Keba",
