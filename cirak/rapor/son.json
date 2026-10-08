@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 6,
-  "tp": 615,
-  "nakit_kurus": 1258162505,
+  "tp": 646,
+  "nakit_kurus": 1348488007,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 157357478,
-   "nakit": 1258162505,
+   "nakit": 1348488007,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 587900000,
+     "limit": 590700000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 979900000,
+     "limit": 984600000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791493826363,
+   "ms": 1791497682927,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -110,15 +110,15 @@
    "haftaGunu": "Perşembe",
    "haftaGunuNo": 4,
    "haftaSonu": false,
-   "saat": 21,
-   "dakika": 10,
+   "saat": 22,
+   "dakika": 14,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "8 Ekim 2026, Perşembe"
   }
  },
  "banka": {
-  "nakit": 12581625.05,
+  "nakit": 13484880.07,
   "vadesiz": 1573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -357,14 +357,167 @@
  },
  "seviye-bildir": {
   "seviye": 6,
-  "tp": 615,
+  "tp": 646,
   "onceki": 6,
   "yeni_mi": false
+ },
+ "dukkan-yonet": {
+  "toplam": 18,
+  "kasa_toplanan": 0,
+  "kasa_tl": 0.0,
+  "raf_doldurulan": 7,
+  "oto_acilan": 7,
+  "detay": [
+   {
+    "ad": "Araştırma Şarküter",
+    "id": 5522,
+    "oto": "acik",
+    "raf": "0/189→full"
+   },
+   {
+    "ad": "arastirmaci42 Keba",
+    "id": 43907,
+    "oto": "acik",
+    "raf": "0/750→full"
+   },
+   {
+    "ad": "arastirmaci42 Tele",
+    "id": 43911,
+    "oto": "acik",
+    "raf": "37/320→full"
+   },
+   {
+    "ad": "arastirmaci42 Bilg",
+    "id": 43923,
+    "oto": "acik",
+    "raf": "129/200→full"
+   },
+   {
+    "ad": "arastirmaci42 Spor",
+    "id": 43925,
+    "oto": "acik",
+    "raf": "32/320→full"
+   },
+   {
+    "ad": "arastirmaci42 Kuru",
+    "id": 43928,
+    "oto": "acik",
+    "raf": "22/188→full"
+   },
+   {
+    "ad": "arastirmaci42 Çiğ",
+    "id": 43932,
+    "oto": "acik",
+    "raf": "0/300→full"
+   }
+  ],
+  "hatalar": [],
+  "debug": []
  },
  "dukkan-ac": {
   "ilce": 2034,
   "acilanlar": [],
-  "secenekler": [],
+  "secenekler": [
+   {
+    "no": 12,
+    "tur": "mobilya",
+    "ad": "Mobilya",
+    "seviye": 8,
+    "kilitli": true,
+    "toplam": 296000.0,
+    "kurulum": 250000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
+   },
+   {
+    "no": 12,
+    "tur": "beyaz_esya",
+    "ad": "Beyaz eşya",
+    "seviye": 9,
+    "kilitli": true,
+    "toplam": 346000.0,
+    "kurulum": 300000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
+   },
+   {
+    "no": 12,
+    "tur": "spor_salonu",
+    "ad": "Spor salonu",
+    "seviye": 8,
+    "kilitli": true,
+    "toplam": 446000.0,
+    "kurulum": 400000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
+   },
+   {
+    "no": 30,
+    "tur": "mobilya",
+    "ad": "Mobilya",
+    "seviye": 8,
+    "kilitli": true,
+    "toplam": 296000.0,
+    "kurulum": 250000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
+   },
+   {
+    "no": 30,
+    "tur": "beyaz_esya",
+    "ad": "Beyaz eşya",
+    "seviye": 9,
+    "kilitli": true,
+    "toplam": 346000.0,
+    "kurulum": 300000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
+   },
+   {
+    "no": 30,
+    "tur": "spor_salonu",
+    "ad": "Spor salonu",
+    "seviye": 8,
+    "kilitli": true,
+    "toplam": 446000.0,
+    "kurulum": 400000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
+   },
+   {
+    "no": 38,
+    "tur": "mobilya",
+    "ad": "Mobilya",
+    "seviye": 8,
+    "kilitli": true,
+    "toplam": 296000.0,
+    "kurulum": 250000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
+   },
+   {
+    "no": 38,
+    "tur": "beyaz_esya",
+    "ad": "Beyaz eşya",
+    "seviye": 9,
+    "kilitli": true,
+    "toplam": 346000.0,
+    "kurulum": 300000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
+   },
+   {
+    "no": 38,
+    "tur": "spor_salonu",
+    "ad": "Spor salonu",
+    "seviye": 8,
+    "kilitli": true,
+    "toplam": 446000.0,
+    "kurulum": 400000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
+   }
+  ],
   "denemeler": [],
   "mevcut_turler": [
    "bilgisayarci",
@@ -386,26 +539,13 @@
    "telefoncu",
    "yedek_parca"
   ],
-  "atlanan": [
-   "kargo",
-   "oto_yikama"
-  ],
-  "bakiye": 12581625.05,
+  "atlanan": [],
+  "bakiye": 13484880.07,
   "oyuncu_seviye": 6,
   "bos_parsel": 7,
-  "kalan_bakiye": 12581625.05
+  "kalan_bakiye": 13484880.07
  },
  "bot": {
-  "olay": "kosu_bitti",
-  "tur": 335,
-  "kazanc": 112972.7,
-  "servis": 2677,
-  "bahsis": 518,
-  "bakiye": 12668539.78,
-  "siparis_toplam": 81,
-  "siparis_basari": 80,
-  "gecen_dk": 50.0,
-  "bot_versiyon": "v2",
-  "ts": 1791486036128
+  "beklenmeyen_hata": "Traceback (most recent call last):\n  File \"/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/cirak_kosu.py\", line 1130, in main\n    ozetler[ad] = f(op, komut)\n                  ^^^^^^^^^^^^\n  File \"/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/cirak_kosu.py\", line 337, in gorev_bot\n    spec.loader.exec_module(mod)\n  File \"<frozen importlib._bootstrap_external>\", line 936, in exec_module\n  File \"<frozen importlib._bootstrap_external>\", line 1074, in get_code\n  File \"<frozen importlib._bootstrap_external>\", line 1004, in source_to_code\n  File \"<frozen importlib._bootstrap>\", line 241, in _call_with_frames_removed\n  File \"/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/bot_cekirdek.py\", line 392\n    self.dukkan_yonet_periodik()\n    ^^^^\nSyntaxError: expected 'except' or 'finally' block\n"
  }
 }
