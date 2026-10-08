@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791508673045,
+   "ms": 1791508715479,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -111,7 +111,7 @@
    "haftaGunuNo": 5,
    "haftaSonu": false,
    "saat": 1,
-   "dakika": 17,
+   "dakika": 18,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "9 Ekim 2026, Cuma"
@@ -579,6 +579,16 @@
   "kalan_bakiye": 13479945.01
  },
  "bot": {
-  "beklenmeyen_hata": "Traceback (most recent call last):\n  File \"/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/cirak_kosu.py\", line 1130, in main\n    ozetler[ad] = f(op, komut)\n                  ^^^^^^^^^^^^\n  File \"/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/cirak_kosu.py\", line 337, in gorev_bot\n    spec.loader.exec_module(mod)\n  File \"<frozen importlib._bootstrap_external>\", line 936, in exec_module\n  File \"<frozen importlib._bootstrap_external>\", line 1074, in get_code\n  File \"<frozen importlib._bootstrap_external>\", line 1004, in source_to_code\n  File \"<frozen importlib._bootstrap>\", line 241, in _call_with_frames_removed\n  File \"/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/bot_cekirdek.py\", line 392\n    self.dukkan_yonet_periodik()\n    ^^^^\nSyntaxError: expected 'except' or 'finally' block\n"
+  "olay": "kosu_bitti",
+  "tur": 110,
+  "kazanc": 33867.1,
+  "servis": 879,
+  "bahsis": 187,
+  "bakiye": 13506197.57,
+  "siparis_toplam": 24,
+  "siparis_basari": 24,
+  "gecen_dk": 15.0,
+  "bot_versiyon": "v2",
+  "ts": 1791498828415
  }
 }
