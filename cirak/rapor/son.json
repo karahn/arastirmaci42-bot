@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 6,
-  "tp": 646,
-  "nakit_kurus": 1347994501,
+  "tp": 653,
+  "nakit_kurus": 1350619757,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 157357478,
-   "nakit": 1347994501,
+   "nakit": 1350619757,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 590600000,
+     "limit": 591400000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 984300000,
+     "limit": 985700000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791508715479,
+   "ms": 1791509653558,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -111,14 +111,14 @@
    "haftaGunuNo": 5,
    "haftaSonu": false,
    "saat": 1,
-   "dakika": 18,
+   "dakika": 34,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "9 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 13479945.01,
+  "nakit": 13506197.57,
   "vadesiz": 1573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -357,7 +357,7 @@
  },
  "seviye-bildir": {
   "seviye": 6,
-  "tp": 646,
+  "tp": 653,
   "onceki": 6,
   "yeni_mi": false
  },
@@ -573,22 +573,22 @@
    "yedek_parca"
   ],
   "atlanan": [],
-  "bakiye": 13479945.01,
+  "bakiye": 13506197.57,
   "oyuncu_seviye": 6,
   "bos_parsel": 8,
-  "kalan_bakiye": 13479945.01
+  "kalan_bakiye": 13506197.57
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 110,
-  "kazanc": 33867.1,
-  "servis": 879,
-  "bahsis": 187,
-  "bakiye": 13506197.57,
-  "siparis_toplam": 24,
-  "siparis_basari": 24,
-  "gecen_dk": 15.0,
+  "tur": 95,
+  "kazanc": 38431.6,
+  "servis": 759,
+  "bahsis": 137,
+  "bakiye": 13534166.75,
+  "siparis_toplam": 29,
+  "siparis_basari": 27,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791498828415
+  "ts": 1791499775574
  }
 }
