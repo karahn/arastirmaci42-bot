@@ -1,7 +1,6 @@
 {
- "ts": "2026-10-08 13:13:18",
+ "ts": "2026-10-08 19:00:46",
  "sonuc": {
-  "http": 403,
-  "govde": "{\"message\":\"Resource not accessible by integration\",\"documentation_url\":\"https://docs.github.com/rest/repos/repos#create-a-repository-dispatch-event\",\"status\":\"403\"}"
+  "hata": "token_okunamadi"
  }
 }
