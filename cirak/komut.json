@@ -13,11 +13,6 @@
   "sure_dk": 15,
   "zincir": true,
   "zincir_butce_dk": 0,
-  "not": "OTOMATİK: kasa topla, raf doldur, oto tedarik aç + dükkan aç: mobilya, beyaz_esya, spor_salonu",
-  "kosu": 1,
-  "hedefler": [
-    "mobilya",
-    "beyaz_esya",
-    "spor_salonu"
-  ]
+  "not": "VARSAYILAN (zincir) mod: mesaj oku/cevap + oda + dükkân denemesi + 50 dk grind; bitince kendini yeniden tetikler.",
+  "kosu": 1
 }
