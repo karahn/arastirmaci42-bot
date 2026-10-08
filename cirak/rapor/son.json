@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 6,
-  "tp": 522,
-  "nakit_kurus": 931465573,
+  "tp": 555,
+  "nakit_kurus": 1019257767,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 157357478,
-   "nakit": 931465573,
+   "nakit": 1019257767,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 516700000,
+     "limit": 539900000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 861100000,
+     "limit": 899900000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -93,7 +93,7 @@
    "karaListe": 0,
    "net": 157357478,
    "krediNotu": {
-    "puan": 1116,
+    "puan": 1117,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791479860538,
+   "ms": 1791484090037,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -110,8 +110,8 @@
    "haftaGunu": "Perşembe",
    "haftaGunuNo": 4,
    "haftaSonu": false,
-   "saat": 17,
-   "dakika": 17,
+   "saat": 18,
+   "dakika": 28,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "8 Ekim 2026, Perşembe"
@@ -124,7 +124,7 @@
     "ad": "Araştırma Şarküter",
     "tur": "sarkuteri",
     "ilce": "Yenimahalle",
-    "kasa": 32992.34,
+    "kasa": 16262.34,
     "seviye": null,
     "no": 5522
    },
@@ -132,7 +132,7 @@
     "ad": "Araştırma Kargo",
     "tur": "kargo",
     "ilce": "Yenimahalle",
-    "kasa": 21599.05,
+    "kasa": 33059.05,
     "seviye": null,
     "no": 7820
    },
@@ -140,7 +140,7 @@
     "ad": "Araştırma Çilingir",
     "tur": "cilingir",
     "ilce": "Yenimahalle",
-    "kasa": 4491.46,
+    "kasa": 6501.46,
     "seviye": null,
     "no": 8338
    },
@@ -148,7 +148,7 @@
     "ad": "Araştırma Fotoğraf",
     "tur": "fotografci",
     "ilce": "Yenimahalle",
-    "kasa": 82371.05,
+    "kasa": 72001.05,
     "seviye": null,
     "no": 8397
    },
@@ -156,7 +156,7 @@
     "ad": "Araştırma Elektrik",
     "tur": "elektrikci",
     "ilce": "Yenimahalle",
-    "kasa": 10610.81,
+    "kasa": 19340.81,
     "seviye": null,
     "no": 8442
    },
@@ -164,7 +164,7 @@
     "ad": "Araştırma Otopark",
     "tur": "otopark",
     "ilce": "Yenimahalle",
-    "kasa": 8471.15,
+    "kasa": 5701.15,
     "seviye": null,
     "no": 8815
    },
@@ -172,7 +172,7 @@
     "ad": "Araştırma Oto Yıka",
     "tur": "oto_yikama",
     "ilce": "Yenimahalle",
-    "kasa": 42139.7,
+    "kasa": 72689.7,
     "seviye": null,
     "no": 8858
    },
@@ -180,7 +180,7 @@
     "ad": "Araştırma Oto Serv",
     "tur": "oto_servis",
     "ilce": "Yenimahalle",
-    "kasa": 64807.75,
+    "kasa": 214907.75,
     "seviye": null,
     "no": 9659
    },
@@ -188,7 +188,7 @@
     "ad": "Araştırma Emlak",
     "tur": "emlakci",
     "ilce": "Yenimahalle",
-    "kasa": 53155.64,
+    "kasa": 51155.64,
     "seviye": null,
     "no": 31939
    },
@@ -196,7 +196,7 @@
     "ad": "arastirmaci42 Keba",
     "tur": "kebapci",
     "ilce": "Yenimahalle",
-    "kasa": 66322.52,
+    "kasa": 89807.52,
     "seviye": null,
     "no": 43907
    },
@@ -204,7 +204,7 @@
     "ad": "arastirmaci42 Tele",
     "tur": "telefoncu",
     "ilce": "Yenimahalle",
-    "kasa": 99767.85,
+    "kasa": 72037.85,
     "seviye": null,
     "no": 43911
    },
@@ -212,7 +212,7 @@
     "ad": "arastirmaci42 Oto",
     "tur": "yedek_parca",
     "ilce": "Yenimahalle",
-    "kasa": 14993.27,
+    "kasa": 14074.77,
     "seviye": null,
     "no": 43914
    },
@@ -220,7 +220,7 @@
     "ad": "arastirmaci42 Tekn",
     "tur": "teknik_servis",
     "ilce": "Yenimahalle",
-    "kasa": 28934.64,
+    "kasa": 33739.64,
     "seviye": null,
     "no": 43917
    },
@@ -228,7 +228,7 @@
     "ad": "arastirmaci42 Bilg",
     "tur": "bilgisayarci",
     "ilce": "Yenimahalle",
-    "kasa": 114931.05,
+    "kasa": 43861.05,
     "seviye": null,
     "no": 43923
    },
@@ -236,7 +236,7 @@
     "ad": "arastirmaci42 Spor",
     "tur": "spor_magazasi",
     "ilce": "Yenimahalle",
-    "kasa": 63339.7,
+    "kasa": 77199.7,
     "seviye": null,
     "no": 43925
    },
@@ -244,7 +244,7 @@
     "ad": "arastirmaci42 Bisi",
     "tur": "bisikletci",
     "ilce": "Yenimahalle",
-    "kasa": 66660.13,
+    "kasa": 40115.13,
     "seviye": null,
     "no": 43927
    },
@@ -252,7 +252,7 @@
     "ad": "arastirmaci42 Kuru",
     "tur": "kuruyemis",
     "ilce": "Yenimahalle",
-    "kasa": 12995.77,
+    "kasa": 17567.77,
     "seviye": null,
     "no": 43928
    },
@@ -260,7 +260,7 @@
     "ad": "arastirmaci42 Çiğ",
     "tur": "cigkofte",
     "ilce": "Yenimahalle",
-    "kasa": 13391.04,
+    "kasa": 14558.54,
     "seviye": null,
     "no": 43932
    }
@@ -290,159 +290,298 @@
  "dukkan-yonet": {
   "toplam": 18,
   "kasa_toplanan": 18,
-  "kasa_tl": 801974.9200000002,
+  "kasa_tl": 894580.92,
   "raf_doldurulan": 7,
   "oto_acilan": 7,
   "detay": [
    {
     "ad": "Araştırma Şarküter",
     "id": 5522,
-    "kasa": 32992.34,
+    "kasa": 16262.34,
     "oto": "acik",
-    "raf": "36/189→full"
+    "raf": "9/189→full"
    },
    {
     "ad": "Araştırma Kargo",
     "id": 7820,
-    "kasa": 21599.05
+    "kasa": 33059.05
    },
    {
     "ad": "Araştırma Çilingir",
     "id": 8338,
-    "kasa": 4491.46
+    "kasa": 6501.46
    },
    {
     "ad": "Araştırma Fotoğraf",
     "id": 8397,
-    "kasa": 82371.05
+    "kasa": 72001.05
    },
    {
     "ad": "Araştırma Elektrik",
     "id": 8442,
-    "kasa": 10610.81
+    "kasa": 19340.81
    },
    {
     "ad": "Araştırma Otopark",
     "id": 8815,
-    "kasa": 8471.15
+    "kasa": 5701.15
    },
    {
     "ad": "Araştırma Oto Yıka",
     "id": 8858,
-    "kasa": 42139.7
+    "kasa": 72689.7
    },
    {
     "ad": "Araştırma Oto Serv",
     "id": 9659,
-    "kasa": 64807.75
+    "kasa": 214907.75
    },
    {
     "ad": "Araştırma Emlak",
     "id": 31939,
-    "kasa": 53155.64
+    "kasa": 51155.64
    },
    {
     "ad": "arastirmaci42 Keba",
     "id": 43907,
-    "kasa": 66322.52,
+    "kasa": 89807.52,
     "oto": "acik",
-    "raf": "484/750→full"
+    "raf": "142/750→full"
    },
    {
     "ad": "arastirmaci42 Tele",
     "id": 43911,
-    "kasa": 99767.85,
+    "kasa": 72037.85,
     "oto": "acik",
-    "raf": "252/320→full"
+    "raf": "172/320→full"
    },
    {
     "ad": "arastirmaci42 Oto",
     "id": 43914,
-    "kasa": 14993.27
+    "kasa": 14074.77
    },
    {
     "ad": "arastirmaci42 Tekn",
     "id": 43917,
-    "kasa": 28934.64
+    "kasa": 33739.64
    },
    {
     "ad": "arastirmaci42 Bilg",
     "id": 43923,
-    "kasa": 114931.05,
+    "kasa": 43861.05,
     "oto": "acik",
-    "raf": "187/200→full"
+    "raf": "173/200→full"
    },
    {
     "ad": "arastirmaci42 Spor",
     "id": 43925,
-    "kasa": 63339.7,
+    "kasa": 77199.7,
     "oto": "acik",
-    "raf": "267/320→full"
+    "raf": "201/320→full"
    },
    {
     "ad": "arastirmaci42 Bisi",
     "id": 43927,
-    "kasa": 66660.13
+    "kasa": 40115.13
    },
    {
     "ad": "arastirmaci42 Kuru",
     "id": 43928,
-    "kasa": 12995.77,
+    "kasa": 17567.77,
     "oto": "acik",
-    "raf": "165/188→full"
+    "raf": "135/188→full"
    },
    {
     "ad": "arastirmaci42 Çiğ",
     "id": 43932,
-    "kasa": 13391.04,
+    "kasa": 14558.54,
     "oto": "acik",
-    "raf": "225/300→full"
+    "raf": "120/300→full"
    }
   ],
   "hatalar": [],
   "debug": []
  },
- "dukkan-ac": {
-  "ilce": 2034,
-  "acilanlar": [
+ "reklam-ve-fiyat": {
+  "toplam": 18,
+  "reklam_verilen": 0,
+  "fiyat_ayarlanan": 0,
+  "detay": [],
+  "hatalar": [
    {
-    "tur": "kargo",
-    "no": 11,
-    "toplam": 81000.0,
-    "sonuc": {
-     "hata": "Şube açmak için en az 10. seviye olmalısın."
+    "id": 5522,
+    "ad": "Araştırma Şarküter",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 7820,
+    "ad": "Araştırma Kargo",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 8338,
+    "ad": "Araştırma Çilingir",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 8397,
+    "ad": "Araştırma Fotoğraf",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 8442,
+    "ad": "Araştırma Elektrik",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 8815,
+    "ad": "Araştırma Otopark",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 8858,
+    "ad": "Araştırma Oto Yıka",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 9659,
+    "ad": "Araştırma Oto Serv",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 31939,
+    "ad": "Araştırma Emlak",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 43907,
+    "ad": "arastirmaci42 Keba",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 43911,
+    "ad": "arastirmaci42 Tele",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 43914,
+    "ad": "arastirmaci42 Oto",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 43917,
+    "ad": "arastirmaci42 Tekn",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 43923,
+    "ad": "arastirmaci42 Bilg",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 43925,
+    "ad": "arastirmaci42 Spor",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 43927,
+    "ad": "arastirmaci42 Bisi",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 43928,
+    "ad": "arastirmaci42 Kuru",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
+    }
+   },
+   {
+    "id": 43932,
+    "ad": "arastirmaci42 Çiğ",
+    "reklam_hata": {
+     "hata": "Bulunamadı."
     }
    }
-  ],
-  "secenekler": [
-   {
-    "no": 11,
-    "tur": "kargo",
-    "ad": "Kargo şubesi",
-    "seviye": 2,
-    "kilitli": false,
-    "toplam": 81000.0,
-    "kurulum": 60000.0,
-    "kira": 8000.0
-   }
-  ],
+  ]
+ },
+ "dukkan-ac": {
+  "ilce": 2034,
+  "acilanlar": [],
+  "secenekler": [],
   "denemeler": [],
-  "bakiye": 10116630.65,
-  "bos_parsel": 5,
-  "kalan_bakiye": 10035630.65
+  "mevcut_turler": [
+   "bilgisayarci",
+   "bisikletci",
+   "cigkofte",
+   "cilingir",
+   "elektrikci",
+   "emlakci",
+   "fotografci",
+   "kargo",
+   "kebapci",
+   "kuruyemis",
+   "oto_servis",
+   "oto_yikama",
+   "otopark",
+   "sarkuteri",
+   "spor_magazasi",
+   "teknik_servis",
+   "telefoncu",
+   "yedek_parca"
+  ],
+  "atlanan": [
+   "kargo",
+   "oto_yikama"
+  ],
+  "bakiye": 11087158.59,
+  "oyuncu_seviye": 6,
+  "bos_parsel": 6,
+  "kalan_bakiye": 11087158.59
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 319,
-  "kazanc": 99169.1,
-  "servis": 2533,
-  "bahsis": 497,
-  "bakiye": 10192577.67,
-  "siparis_toplam": 77,
-  "siparis_basari": 57,
-  "gecen_dk": 50.1,
+  "tur": 229,
+  "kazanc": 79576.6,
+  "servis": 1829,
+  "bahsis": 391,
+  "bakiye": 11156458.34,
+  "siparis_toplam": 74,
+  "siparis_basari": 4,
+  "gecen_dk": 50.3,
   "bot_versiyon": "v2",
-  "ts": 1791472093854,
+  "ts": 1791476363850,
   "komut_sifirlandi": true
  }
 }
