@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 6,
   "tp": 646,
-  "nakit_kurus": 1348488007,
+  "nakit_kurus": 1347641271,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 157357478,
-   "nakit": 1348488007,
+   "nakit": 1347641271,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 590700000,
+     "limit": 590600000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 984600000,
+     "limit": 984300000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -93,7 +93,7 @@
    "karaListe": 0,
    "net": 157357478,
    "krediNotu": {
-    "puan": 1120,
+    "puan": 1121,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -102,29 +102,29 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791498240594,
+   "ms": 1791507287364,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
-   "gunNo": 8,
-   "haftaGunu": "Perşembe",
-   "haftaGunuNo": 4,
+   "gunNo": 9,
+   "haftaGunu": "Cuma",
+   "haftaGunuNo": 5,
    "haftaSonu": false,
-   "saat": 22,
-   "dakika": 24,
+   "saat": 0,
+   "dakika": 54,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
-   "metin": "8 Ekim 2026, Perşembe"
+   "metin": "9 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 13484880.07,
+  "nakit": 13476412.71,
   "vadesiz": 1573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1120,
+   "puan": 1121,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -363,8 +363,8 @@
  },
  "dukkan-yonet": {
   "toplam": 18,
-  "kasa_toplanan": 0,
-  "kasa_tl": 0.0,
+  "kasa_toplanan": 1,
+  "kasa_tl": 3532.3,
   "raf_doldurulan": 7,
   "oto_acilan": 7,
   "detay": [
@@ -373,6 +373,11 @@
     "id": 5522,
     "oto": "acik",
     "raf": "0/189→full"
+   },
+   {
+    "ad": "Araştırma Otopark",
+    "id": 8815,
+    "kasa": 3532.3
    },
    {
     "ad": "arastirmaci42 Keba",
@@ -516,6 +521,39 @@
     "kurulum": 400000.0,
     "kira": 18000.0,
     "neden_alinmadi": "kilitli"
+   },
+   {
+    "no": 39,
+    "tur": "mobilya",
+    "ad": "Mobilya",
+    "seviye": 8,
+    "kilitli": true,
+    "toplam": 296000.0,
+    "kurulum": 250000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
+   },
+   {
+    "no": 39,
+    "tur": "beyaz_esya",
+    "ad": "Beyaz eşya",
+    "seviye": 9,
+    "kilitli": true,
+    "toplam": 346000.0,
+    "kurulum": 300000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
+   },
+   {
+    "no": 39,
+    "tur": "spor_salonu",
+    "ad": "Spor salonu",
+    "seviye": 8,
+    "kilitli": true,
+    "toplam": 446000.0,
+    "kurulum": 400000.0,
+    "kira": 18000.0,
+    "neden_alinmadi": "kilitli"
    }
   ],
   "denemeler": [],
@@ -540,10 +578,10 @@
    "yedek_parca"
   ],
   "atlanan": [],
-  "bakiye": 13484880.07,
+  "bakiye": 13479945.01,
   "oyuncu_seviye": 6,
-  "bos_parsel": 7,
-  "kalan_bakiye": 13484880.07
+  "bos_parsel": 8,
+  "kalan_bakiye": 13479945.01
  },
  "bot": {
   "beklenmeyen_hata": "Traceback (most recent call last):\n  File \"/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/cirak_kosu.py\", line 1130, in main\n    ozetler[ad] = f(op, komut)\n                  ^^^^^^^^^^^^\n  File \"/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/cirak_kosu.py\", line 337, in gorev_bot\n    spec.loader.exec_module(mod)\n  File \"<frozen importlib._bootstrap_external>\", line 936, in exec_module\n  File \"<frozen importlib._bootstrap_external>\", line 1074, in get_code\n  File \"<frozen importlib._bootstrap_external>\", line 1004, in source_to_code\n  File \"<frozen importlib._bootstrap>\", line 241, in _call_with_frames_removed\n  File \"/home/runner/work/arastirmaci42-bot/arastirmaci42-bot/cirak/actions/bot_cekirdek.py\", line 392\n    self.dukkan_yonet_periodik()\n    ^^^^\nSyntaxError: expected 'except' or 'finally' block\n"
