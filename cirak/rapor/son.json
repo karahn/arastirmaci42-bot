@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 6,
-  "tp": 660,
-  "nakit_kurus": 1353416675,
+  "tp": 669,
+  "nakit_kurus": 1281108987,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -25,8 +25,8 @@
    "ad": "Ata Mahallesi"
   },
   "banka": {
-   "vadesiz": 157357478,
-   "nakit": 1353416675,
+   "vadesiz": 57357478,
+   "nakit": 1281108987,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 592200000,
+     "limit": 552100000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 987100000,
+     "limit": 920200000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -91,18 +91,22 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 157357478,
+   "net": 57357478,
    "krediNotu": {
-    "puan": 1121,
+    "puan": 1119,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
    "hesapNo": "TR06 0077 7098 0600 5694 4967 03",
    "donuk": false,
-   "masak": null
+   "masak": {
+    "tur": "gonderen",
+    "zaman": 1791500201843,
+    "itiraz": null
+   }
   },
   "takvim": {
-   "ms": 1791510601747,
+   "ms": 1791511550125,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -110,21 +114,21 @@
    "haftaGunu": "Cuma",
    "haftaGunuNo": 5,
    "haftaSonu": false,
-   "saat": 1,
-   "dakika": 50,
+   "saat": 2,
+   "dakika": 5,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "9 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 13534166.75,
-  "vadesiz": 1573574.78,
+  "nakit": 12811089.87,
+  "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1121,
+   "puan": 1119,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -147,7 +151,7 @@
   ]
  },
  "havale": {
-  "toplam": 5,
+  "toplam": 6,
   "gelenler": [
    {
     "id": 9,
@@ -183,6 +187,14 @@
    }
   ],
   "son_hareketler": [
+   {
+    "id": 45,
+    "kim": "Karahan",
+    "tutar": 1000000.0,
+    "aciklama": "kâr payı",
+    "giden": true,
+    "ts": 1791500201842
+   },
    {
     "id": 38,
     "kim": "Karahan",
@@ -229,7 +241,7 @@
   "ham": {
    "hesapNo": "TR06 0077 7098 0600 5694 4967 03",
    "sinir": 100000000,
-   "bugun": 0,
+   "bugun": 100000000,
    "engel": null
   }
  },
@@ -357,12 +369,12 @@
  },
  "seviye-bildir": {
   "seviye": 6,
-  "tp": 660,
+  "tp": 669,
   "onceki": 6,
   "yeni_mi": false
  },
  "dukkan-yonet": {
-  "toplam": 18,
+  "toplam": 20,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
   "raf_doldurulan": 7,
@@ -430,6 +442,7 @@
    "kargo",
    "kebapci",
    "kuruyemis",
+   "nakliyat",
    "oto_servis",
    "oto_yikama",
    "otopark",
@@ -443,22 +456,22 @@
    "kargo",
    "oto_yikama"
   ],
-  "bakiye": 13534166.75,
+  "bakiye": 12811089.87,
   "oyuncu_seviye": 6,
-  "bos_parsel": 8,
-  "kalan_bakiye": 13534166.75
+  "bos_parsel": 6,
+  "kalan_bakiye": 12811089.87
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 96,
-  "kazanc": 35035.3,
-  "servis": 767,
-  "bahsis": 159,
-  "bakiye": 12811089.87,
-  "siparis_toplam": 27,
-  "siparis_basari": 26,
+  "tur": 98,
+  "kazanc": 48090.6,
+  "servis": 777,
+  "bahsis": 147,
+  "bakiye": 12847519.76,
+  "siparis_toplam": 24,
+  "siparis_basari": 24,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791500722691
+  "ts": 1791501667615
  }
 }
