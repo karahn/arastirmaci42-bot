@@ -6,14 +6,11 @@
   "sure_dk": 5,
   "zincir": false,
   "uclar": [
-    "mahalle",
-    "mahalle/sokaklar",
-    "sokak",
-    "sokaklar",
-    "cadde",
     "cadde?ilce=2034",
-    "gorunum",
-    "profil",
-    "ayarlar"
+    "cadde?ilce=2034&sokak=1",
+    "cadde?sokak=1",
+    "sokak/sec?sokak=1",
+    "sokak/degis?sokak=1",
+    "sokak/1"
   ]
 }
