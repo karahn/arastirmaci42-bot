@@ -1,6 +1,6 @@
 # Çırak raporu — cerez-kontrol
 
-**Zaman:** 2026-10-09 21:40:26 UTC
+**Zaman:** 2026-10-09 21:40:57 UTC
 
 ## Oyuncu
 
@@ -14,13 +14,13 @@
 
 # Çırak raporu — ham
 
-**Zaman:** 2026-10-09 21:40:13 UTC
+**Zaman:** 2026-10-09 21:40:44 UTC
 
 ## Uçlar
 
 - `mahalle` → {"hata": "Bulunamadı."}
 - `mahalle/sokaklar` → {"hata": "Bulunamadı."}
-- `sokak` → {"sunucuZamani": 1791582016385, "olaylar": []}
+- `sokak` → {"sunucuZamani": 1791582047418, "olaylar": []}
 - `sokaklar` → {"hata": "Bulunamadı."}
 - `cadde` → {"yerler": [{"no": 1, "sira": 0, "sokak": 0, "boyut": "buyuk", "boyutAdi": "Büyük", "m2": 180, "genislik": 13.4, "kat": 5, "tohum": 414137433, "kira": 6390000, "isletme": {"id": 47900, "tur": "market", "turAdi": "Market", "simge": "🛒", "ad": "arastirmaci42 Mark", "durum": "acik", "saat": [8, 23], "s…
 - `cadde?ilce=2034` → {"yerler": [{"no": 1, "sira": 0, "sokak": 0, "boyut": "buyuk", "boyutAdi": "Büyük", "m2": 180, "genislik": 13.4, "kat": 5, "tohum": 414137433, "kira": 6390000, "isletme": {"id": 47900, "tur": "market", "turAdi": "Market", "simge": "🛒", "ad": "arastirmaci42 Mark", "durum": "acik", "saat": [8, 23], "s…
