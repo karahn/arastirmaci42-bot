@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 7,
-  "tp": 798,
-  "nakit_kurus": 1324787701,
+  "tp": 806,
+  "nakit_kurus": 1327760929,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 1324787701,
+   "nakit": 1327760929,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 565200000,
+     "limit": 566100000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 942000000,
+     "limit": 943500000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -106,7 +106,7 @@
    }
   },
   "takvim": {
-   "ms": 1791528610237,
+   "ms": 1791529569764,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -114,15 +114,15 @@
    "haftaGunu": "Cuma",
    "haftaGunuNo": 5,
    "haftaSonu": false,
-   "saat": 6,
-   "dakika": 50,
+   "saat": 7,
+   "dakika": 6,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "9 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 13247877.01,
+  "nakit": 13277609.29,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -369,7 +369,7 @@
  },
  "seviye-bildir": {
   "seviye": 7,
-  "tp": 798,
+  "tp": 806,
   "onceki": 7,
   "yeni_mi": false
  },
@@ -473,22 +473,22 @@
    "yedek_parca"
   ],
   "atlanan": [],
-  "bakiye": 13247877.01,
+  "bakiye": 13277609.29,
   "oyuncu_seviye": 7,
   "bos_parsel": 7,
-  "kalan_bakiye": 13156877.01
+  "kalan_bakiye": 13186609.29
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 116,
-  "kazanc": 40230.0,
-  "servis": 927,
-  "bahsis": 188,
-  "bakiye": 13277609.29,
-  "siparis_toplam": 26,
-  "siparis_basari": 26,
-  "gecen_dk": 15.3,
+  "tur": 103,
+  "kazanc": 42729.4,
+  "servis": 819,
+  "bahsis": 174,
+  "bakiye": 13309043.92,
+  "siparis_toplam": 28,
+  "siparis_basari": 28,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791518741227
+  "ts": 1791519685781
  }
 }
