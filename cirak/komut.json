@@ -2,7 +2,6 @@
   "gorevler": [
     "cerez-kontrol",
     "banka",
-    "havale-gonder",
     "havale",
     "mesaj-oku",
     "oda",
@@ -31,8 +30,5 @@
     "cay_ocagi",
     "market"
   ],
-  "adet": 10,
-  "havale_hedef": "TR110077704916007396897210",
-  "havale_tutar": 250000,
-  "havale_aciklama": "Dükkan açma desteği - Arastirmaci42'den Kalfa19'a"
+  "adet": 10
 }
