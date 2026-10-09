@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791592782278,
+   "ms": 1791592813010,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -111,14 +111,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 0,
-   "dakika": 39,
+   "dakika": 40,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
  "ham": {
-  "ts": "2026-10-09 21:39:42",
+  "ts": "2026-10-09 21:40:13",
   "uclar": {
    "mahalle": {
     "hata": "Bulunamadı."
@@ -127,7 +127,7 @@
     "hata": "Bulunamadı."
    },
    "sokak": {
-    "sunucuZamani": 1791581986672,
+    "sunucuZamani": 1791582016385,
     "olaylar": []
    },
    "sokaklar": {
