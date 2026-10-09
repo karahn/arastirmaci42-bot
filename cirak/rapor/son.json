@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 8,
-  "tp": 1312,
-  "nakit_kurus": 1332743486,
+  "tp": 1314,
+  "nakit_kurus": 1333451136,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 1332743486,
+   "nakit": 1333451136,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 920600000,
+     "limit": 920800000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 1534400000,
+     "limit": 1534700000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -112,7 +112,7 @@
    }
   },
   "takvim": {
-   "ms": 1791584843680,
+   "ms": 1791585805457,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -121,14 +121,14 @@
    "haftaGunuNo": 5,
    "haftaSonu": false,
    "saat": 22,
-   "dakika": 27,
+   "dakika": 43,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "9 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 13327434.86,
+  "nakit": 13334511.36,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -375,7 +375,7 @@
  },
  "seviye-bildir": {
   "seviye": 8,
-  "tp": 1312,
+  "tp": 1314,
   "onceki": 8,
   "yeni_mi": false
  },
@@ -573,22 +573,22 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 13327434.86,
+  "bakiye": 13334511.36,
   "oyuncu_seviye": 8,
   "bos_parsel": 0,
-  "kalan_bakiye": 13327434.86
+  "kalan_bakiye": 13334511.36
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 87,
-  "kazanc": 6226.5,
-  "servis": 696,
-  "bahsis": 154,
-  "bakiye": 13334511.36,
+  "tur": 104,
+  "kazanc": 54754.4,
+  "servis": 832,
+  "bahsis": 158,
+  "bakiye": 13382451.08,
   "siparis_toplam": 24,
   "siparis_basari": 24,
-  "gecen_dk": 15.1,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791574980247
+  "ts": 1791575933331
  }
 }
