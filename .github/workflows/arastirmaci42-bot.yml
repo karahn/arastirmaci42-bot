@@ -3,13 +3,6 @@ name: Arastirmaci42 Bot
 on:
   repository_dispatch:
     types: [zincir]
-  push:
-    branches:
-      - main
-    paths:
-      - 'cirak/komut.json'
-  schedule:
-    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
