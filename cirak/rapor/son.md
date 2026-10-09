@@ -1,6 +1,6 @@
 # Çırak raporu — cerez-kontrol
 
-**Zaman:** 2026-10-09 21:46:45 UTC
+**Zaman:** 2026-10-09 21:47:15 UTC
 
 ## Oyuncu
 
@@ -14,13 +14,13 @@
 
 # Çırak raporu — ham
 
-**Zaman:** 2026-10-09 21:46:32 UTC
+**Zaman:** 2026-10-09 21:47:02 UTC
 
 ## Uçlar
 
 - `mahalle` → {"hata": "Bulunamadı."}
 - `mahalle/sokaklar` → {"hata": "Bulunamadı."}
-- `sokak` → {"sunucuZamani": 1791582395426, "olaylar": [{"id": "1723:kedi:622077", "tur": "kedi", "bas": 1791583162071, "bit": 1791583342071, "tohum": 716580199, "katildi": false, "eylem": "besle"}]}
+- `sokak` → {"sunucuZamani": 1791582425779, "olaylar": [{"id": "1723:kedi:622077", "tur": "kedi", "bas": 1791583162071, "bit": 1791583342071, "tohum": 716580199, "katildi": false, "eylem": "besle"}]}
 - `sokaklar` → {"hata": "Bulunamadı."}
 - `cadde` → {"yerler": [{"no": 1, "sira": 0, "sokak": 0, "boyut": "buyuk", "boyutAdi": "Büyük", "m2": 180, "genislik": 13.4, "kat": 5, "tohum": 414137433, "kira": 6390000, "isletme": {"id": 47900, "tur": "market", "turAdi": "Market", "simge": "🛒", "ad": "arastirmaci42 Mark", "durum": "acik", "saat": [8, 23], "s…
 - `cadde?ilce=2034` → {"yerler": [{"no": 1, "sira": 0, "sokak": 0, "boyut": "buyuk", "boyutAdi": "Büyük", "m2": 180, "genislik": 13.4, "kat": 5, "tohum": 414137433, "kira": 6390000, "isletme": {"id": 47900, "tur": "market", "turAdi": "Market", "simge": "🛒", "ad": "arastirmaci42 Mark", "durum": "acik", "saat": [8, 23], "s…
