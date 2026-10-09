@@ -652,8 +652,26 @@ def gorev_dukkan_ac(op, komut):
     oyuncu_seviye = oyuncu.get("seviye") or 0
     sonuc["bakiye"] = bakiye
     sonuc["oyuncu_seviye"] = oyuncu_seviye
+    
+    # SOKAK SEÇİMİ: Önce mevcut cadde'yi kontrol et, boş parsel yoksa diğer sokakları dene
     cadde = cek(op, "cadde?ilce=%d" % ilce) or {}
+    sokak_bilgi = cadde.get("sokak", {})
+    sokak_liste = sokak_bilgi.get("liste", [])
+    secili_sokak = sokak_bilgi.get("secili", 0)
+    
     bos = [y for y in (cadde.get("yerler") or []) if not y.get("isletme")]
+    
+    # Eğer seçili sokakta boş parsel yoksa, boş parsel olan başka bir sokağa geç
+    if not bos and sokak_liste:
+        for s in sokak_liste:
+            if s.get("no") != secili_sokak and s.get("bos", 0) > 0:
+                # Bu sokağa geç
+                yeni_sokak = s.get("no")
+                cadde = cek(op, "cadde?ilce=%d&sokak=%d" % (ilce, yeni_sokak)) or {}
+                bos = [y for y in (cadde.get("yerler") or []) if not y.get("isletme")]
+                sonuc["sokak_degistirildi"] = yeni_sokak
+                break
+    
     sonuc["bos_parsel"] = len(bos)
 
     for y in bos:
@@ -750,25 +768,6 @@ def gorev_mesaj_oku(op, komut):
         except Exception as e:
             sonuc["durum_yazma_hatasi"] = repr(e)
     return sonuc
-
-
-def gorev_havale_gonder(op, komut):
-    """Belirtilen hesaba havale gönderir."""
-    hedef = komut.get("havale_hedef") or ""
-    tutar = int(komut.get("havale_tutar", 0) * 100)  # kuruş
-    aciklama = komut.get("havale_aciklama") or "Bot transfer"
-    
-    if not hedef or not tutar:
-        return {"hata": "havale_hedef ve havale_tutar gerekli"}
-    
-    sonuc = cek(op, "banka/havale", {"hesapNo": hedef, "tutar": tutar, "aciklama": aciklama})
-    return {
-        "hedef": hedef,
-        "tutar": tutar / 100,
-        "aciklama": aciklama,
-        "sonuc": sonuc,
-        "basarili": not sonuc.get("hata")
-    }
 
 
 def gorev_havale(op, komut):
@@ -1100,7 +1099,7 @@ GOREVLER = {"test": gorev_test, "durum": gorev_durum, "ham": gorev_ham, "yenilik
             "ana-js": gorev_ana_js, "cadde-tara": gorev_cadde_tara,
             "arkadas-istek": gorev_arkadas_istek, "mesaj": gorev_mesaj, "oda": gorev_oda,
             "seviye-bildir": gorev_seviye_bildir, "dukkan-ac": gorev_dukkan_ac,
-            "mesaj-oku": gorev_mesaj_oku, "havale": gorev_havale, "havale-gonder": gorev_havale_gonder, "banka": gorev_banka,
+            "mesaj-oku": gorev_mesaj_oku, "havale": gorev_havale, "banka": gorev_banka,
             "secim": gorev_secim, "kaynak-indir": gorev_kaynak_indir,
             "isletmeler": gorev_isletmeler,
             "dukkan-yonet": gorev_dukkan_yonet, "gunluk-gorev": gorev_gunluk_gorev,
