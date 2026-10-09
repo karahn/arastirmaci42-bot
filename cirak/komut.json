@@ -1,16 +1,34 @@
 {
   "gorevler": [
     "cerez-kontrol",
-    "ham"
+    "banka",
+    "havale",
+    "mesaj-oku",
+    "oda",
+    "seviye-bildir",
+    "dukkan-yonet",
+    "dukkan-ac",
+    "bot"
   ],
-  "sure_dk": 5,
-  "zincir": false,
-  "uclar": [
-    "cadde?ilce=2034",
-    "cadde?ilce=2034&sokak=1",
-    "cadde?sokak=1",
-    "sokak/sec?sokak=1",
-    "sokak/degis?sokak=1",
-    "sokak/1"
-  ]
+  "sure_dk": 15,
+  "zincir": true,
+  "zincir_butce_dk": 0,
+  "not": "VARSAYILAN (zincir) mod: mesaj oku/cevap + oda + dükkân denemesi + 50 dk grind; bitince kendini yeniden tetikler.",
+  "kosu": 1,
+  "hedefler": [
+    "bakkal",
+    "bufe",
+    "firin",
+    "lokanta",
+    "donerci",
+    "pideci",
+    "pizzaci",
+    "hamburgerci",
+    "pastane",
+    "kafe",
+    "bar",
+    "cay_ocagi",
+    "market"
+  ],
+  "adet": 10
 }
