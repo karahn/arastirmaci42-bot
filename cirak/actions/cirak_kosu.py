@@ -752,6 +752,25 @@ def gorev_mesaj_oku(op, komut):
     return sonuc
 
 
+def gorev_havale_gonder(op, komut):
+    """Belirtilen hesaba havale gönderir."""
+    hedef = komut.get("havale_hedef") or ""
+    tutar = int(komut.get("havale_tutar", 0) * 100)  # kuruş
+    aciklama = komut.get("havale_aciklama") or "Bot transfer"
+    
+    if not hedef or not tutar:
+        return {"hata": "havale_hedef ve havale_tutar gerekli"}
+    
+    sonuc = cek(op, "banka/havale", {"hesapNo": hedef, "tutar": tutar, "aciklama": aciklama})
+    return {
+        "hedef": hedef,
+        "tutar": tutar / 100,
+        "aciklama": aciklama,
+        "sonuc": sonuc,
+        "basarili": not sonuc.get("hata")
+    }
+
+
 def gorev_havale(op, komut):
     """Gelen havaleleri listeler (Karahan'in para gonderip gonderemedigini gormek icin)."""
     hv = cek(op, "banka/havale") or {}
@@ -1081,7 +1100,7 @@ GOREVLER = {"test": gorev_test, "durum": gorev_durum, "ham": gorev_ham, "yenilik
             "ana-js": gorev_ana_js, "cadde-tara": gorev_cadde_tara,
             "arkadas-istek": gorev_arkadas_istek, "mesaj": gorev_mesaj, "oda": gorev_oda,
             "seviye-bildir": gorev_seviye_bildir, "dukkan-ac": gorev_dukkan_ac,
-            "mesaj-oku": gorev_mesaj_oku, "havale": gorev_havale, "banka": gorev_banka,
+            "mesaj-oku": gorev_mesaj_oku, "havale": gorev_havale, "havale-gonder": gorev_havale_gonder, "banka": gorev_banka,
             "secim": gorev_secim, "kaynak-indir": gorev_kaynak_indir,
             "isletmeler": gorev_isletmeler,
             "dukkan-yonet": gorev_dukkan_yonet, "gunluk-gorev": gorev_gunluk_gorev,
