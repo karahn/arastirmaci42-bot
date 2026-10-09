@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791593048709,
+   "ms": 1791593075124,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -118,7 +118,7 @@
   }
  },
  "ham": {
-  "ts": "2026-10-09 21:44:08",
+  "ts": "2026-10-09 21:44:35",
   "uclar": {
    "mahalle": {
     "hata": "Bulunamadı."
@@ -127,8 +127,18 @@
     "hata": "Bulunamadı."
    },
    "sokak": {
-    "sunucuZamani": 1791582251769,
-    "olaylar": []
+    "sunucuZamani": 1791582278152,
+    "olaylar": [
+     {
+      "id": "1723:kedi:622077",
+      "tur": "kedi",
+      "bas": 1791583162071,
+      "bit": 1791583342071,
+      "tohum": 716580199,
+      "katildi": false,
+      "eylem": "besle"
+     }
+    ]
    },
    "sokaklar": {
     "hata": "Bulunamadı."
