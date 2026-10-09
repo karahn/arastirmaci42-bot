@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 8,
-  "tp": 1366,
-  "nakit_kurus": 1348371745,
+  "tp": 1374,
+  "nakit_kurus": 1355345792,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 1348371745,
+   "nakit": 1355345792,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 925300000,
+     "limit": 927400000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 1542200000,
+     "limit": 1545700000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -93,7 +93,7 @@
    "karaListe": 0,
    "net": 57357478,
    "krediNotu": {
-    "puan": 1141,
+    "puan": 1142,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791591615299,
+   "ms": 1791592584856,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -111,474 +111,3173 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 0,
-   "dakika": 20,
+   "dakika": 36,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
- "banka": {
-  "nakit": 13483717.45,
-  "vadesiz": 573574.78,
-  "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
-  "vadeliler": [],
-  "krediler": [],
-  "kredi_notu": {
-   "puan": 1141,
-   "bant": "Az riskli",
-   "renk": "#E8C21A"
-  },
-  "ham_anahtarlar": [
-   "vadesiz",
-   "nakit",
-   "vadeliler",
-   "krediler",
-   "vadeler",
-   "krediTurleri",
-   "stopaj",
-   "tahsis",
-   "ekonomiGunuMs",
-   "karaListe",
-   "net",
-   "krediNotu",
-   "hesapNo",
-   "donuk",
-   "masak"
-  ]
- },
- "havale": {
-  "toplam": 6,
-  "gelenler": [
-   {
-    "id": 9,
-    "kim": "Karahan",
-    "tutar": 100000.0,
-    "aciklama": null,
-    "giden": false,
-    "ts": 1791073858552
+ "ham": {
+  "ts": "2026-10-09 21:36:25",
+  "uclar": {
+   "mahalle": {
+    "hata": "Bulunamadı."
    },
-   {
-    "id": 4,
-    "kim": "Karahan",
-    "tutar": 50000.0,
-    "aciklama": "stok yardımı",
-    "giden": false,
-    "ts": 1790933942070
+   "mahalle/sokaklar": {
+    "hata": "Bulunamadı."
    },
-   {
-    "id": 3,
-    "kim": "Karahan",
-    "tutar": 22000.0,
-    "aciklama": null,
-    "giden": false,
-    "ts": 1790932089039
+   "sokak": {
+    "sunucuZamani": 1791581787977,
+    "olaylar": []
    },
-   {
-    "id": 2,
-    "kim": "Karahan",
-    "tutar": 60000.0,
-    "aciklama": "Ortaklık Payı 😘",
-    "giden": false,
-    "ts": 1790930968873
+   "sokaklar": {
+    "hata": "Bulunamadı."
+   },
+   "cadde": {
+    "yerler": [
+     {
+      "no": 1,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "buyuk",
+      "boyutAdi": "Büyük",
+      "m2": 180,
+      "genislik": 13.4,
+      "kat": 5,
+      "tohum": 414137433,
+      "kira": 6390000,
+      "isletme": {
+       "id": 47900,
+       "tur": "market",
+       "turAdi": "Market",
+       "simge": "🛒",
+       "ad": "arastirmaci42 Mark",
+       "durum": "acik",
+       "saat": [
+        8,
+        23
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 2,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.2,
+      "kat": 6,
+      "tohum": 686842458,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47822,
+       "tur": "ic_giyim",
+       "turAdi": "İç giyim",
+       "simge": "🧦",
+       "ad": "arastirmaci42 İç g",
+       "durum": "acik",
+       "saat": [
+        10,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 3,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9,
+      "kat": 5,
+      "tohum": 340144626,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47891,
+       "tur": "dondurmaci",
+       "turAdi": "Dondurmacı",
+       "simge": "🍦",
+       "ad": "arastirmaci42 Dond",
+       "durum": "acik",
+       "saat": [
+        10,
+        23
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 4,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.1,
+      "kat": 8,
+      "tohum": 978509327,
+      "kira": 1420000,
+      "isletme": {
+       "id": 5522,
+       "tur": "sarkuteri",
+       "turAdi": "Şarküteri",
+       "simge": "🧀",
+       "ad": "Araştırma Şarküter",
+       "durum": "acik",
+       "saat": [
+        8,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 5,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.6,
+      "kat": 8,
+      "tohum": 78534743,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47897,
+       "tur": "tesisatci",
+       "turAdi": "Su tesisatçısı",
+       "simge": "🔧",
+       "ad": "arastirmaci42 Su t",
+       "durum": "acik",
+       "saat": [
+        8,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 6,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.6,
+      "kat": 5,
+      "tohum": 896436313,
+      "kira": 1420000,
+      "isletme": {
+       "id": 35368,
+       "tur": "bufe",
+       "turAdi": "Büfe",
+       "simge": "🥤",
+       "ad": "Can Büfe",
+       "durum": "acik",
+       "saat": [
+        6,
+        24
+       ],
+       "sahip": "Can",
+       "bot": false,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 7,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.1,
+      "kat": 7,
+      "tohum": 694371672,
+      "kira": 1420000,
+      "isletme": {
+       "id": 7820,
+       "tur": "kargo",
+       "turAdi": "Kargo şubesi",
+       "simge": "📦",
+       "ad": "Araştırma Kargo",
+       "durum": "acik",
+       "saat": [
+        9,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 8,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8,
+      "kat": 8,
+      "tohum": 60837781,
+      "kira": 1420000,
+      "isletme": {
+       "id": 11495,
+       "tur": "eczane",
+       "turAdi": "Eczane",
+       "simge": "💊",
+       "ad": "Hülya Eczanesi",
+       "durum": "acik",
+       "saat": [
+        0,
+        24
+       ],
+       "ozel": "hulya",
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 9,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8,
+      "kat": 8,
+      "tohum": 355720271,
+      "kira": 1420000,
+      "isletme": {
+       "id": 36057,
+       "tur": "bilgisayarci",
+       "turAdi": "Bilgisayarcı",
+       "simge": "💻",
+       "ad": "Derece Bilgisayar",
+       "durum": "acik",
+       "saat": [
+        0,
+        24
+       ],
+       "ozel": "derece",
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 10,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9.1,
+      "kat": 8,
+      "tohum": 493892525,
+      "kira": 1420000,
+      "isletme": {
+       "id": 8338,
+       "tur": "cilingir",
+       "turAdi": "Çilingir",
+       "simge": "🔑",
+       "ad": "Araştırma Çilingir",
+       "durum": "acik",
+       "saat": [
+        8,
+        22
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 11,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "buyuk",
+      "boyutAdi": "Büyük",
+      "m2": 180,
+      "genislik": 13.9,
+      "kat": 7,
+      "tohum": 346400019,
+      "kira": 6390000,
+      "isletme": {
+       "id": 47824,
+       "tur": "yapi_marketi",
+       "turAdi": "Yapı marketi",
+       "simge": "🏗️",
+       "ad": "arastirmaci42 Yapı",
+       "durum": "acik",
+       "saat": [
+        9,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 12,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9.1,
+      "kat": 5,
+      "tohum": 888280441,
+      "kira": 1420000,
+      "isletme": {
+       "id": 46006,
+       "tur": "emlakci",
+       "turAdi": "Emlakçı",
+       "simge": "🏠",
+       "ad": "arastirmaci42 Emla",
+       "durum": "acik",
+       "saat": [
+        9,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 13,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 10.6,
+      "kat": 5,
+      "tohum": 310629561,
+      "kira": 3190000,
+      "isletme": {
+       "id": 46012,
+       "tur": "nakliyat",
+       "turAdi": "Nakliyat",
+       "simge": "🚚",
+       "ad": "arastirmaci42 Nakl",
+       "durum": "acik",
+       "saat": [
+        8,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 14,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9.1,
+      "kat": 6,
+      "tohum": 837184605,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47889,
+       "tur": "elektrikci",
+       "turAdi": "Elektrikçi",
+       "simge": "💡",
+       "ad": "arastirmaci42 Elek",
+       "durum": "acik",
+       "saat": [
+        8,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 15,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.6,
+      "kat": 6,
+      "tohum": 737119037,
+      "kira": 3190000,
+      "isletme": {
+       "id": 43907,
+       "tur": "kebapci",
+       "turAdi": "Kebapçı",
+       "simge": "🍢",
+       "ad": "arastirmaci42 Keba",
+       "durum": "acik",
+       "saat": [
+        11,
+        24
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 16,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.1,
+      "kat": 7,
+      "tohum": 688935876,
+      "kira": 3190000,
+      "isletme": {
+       "id": 8815,
+       "tur": "otopark",
+       "turAdi": "Otopark",
+       "simge": "🅿️",
+       "ad": "Araştırma Otopark",
+       "durum": "acik",
+       "saat": [
+        0,
+        24
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 17,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.7,
+      "kat": 6,
+      "tohum": 302507334,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47881,
+       "tur": "camasirhane",
+       "turAdi": "Çamaşırhane",
+       "simge": "🫧",
+       "ad": "arastirmaci42 Çama",
+       "durum": "acik",
+       "saat": [
+        8,
+        22
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 18,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.2,
+      "kat": 5,
+      "tohum": 114676684,
+      "kira": 1420000,
+      "isletme": {
+       "id": 8397,
+       "tur": "fotografci",
+       "turAdi": "Fotoğrafçı",
+       "simge": "📸",
+       "ad": "Araştırma Fotoğraf",
+       "durum": "acik",
+       "saat": [
+        10,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 19,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.3,
+      "kat": 6,
+      "tohum": 203298637,
+      "kira": 1420000,
+      "isletme": {
+       "id": 8442,
+       "tur": "elektrikci",
+       "turAdi": "Elektrikçi",
+       "simge": "💡",
+       "ad": "Araştırma Elektrik",
+       "durum": "acik",
+       "saat": [
+        8,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 20,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.5,
+      "kat": 6,
+      "tohum": 416167963,
+      "kira": 1420000,
+      "isletme": {
+       "id": 11496,
+       "tur": "gumruk_musaviri",
+       "turAdi": "Gümrük müşaviri",
+       "simge": "🛃",
+       "ad": "Şükrü Gümrükleme",
+       "durum": "acik",
+       "saat": [
+        0,
+        24
+       ],
+       "ozel": "sukru",
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 21,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.8,
+      "kat": 7,
+      "tohum": 204936126,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47876,
+       "tur": "matbaa",
+       "turAdi": "Matbaa",
+       "simge": "🖨️",
+       "ad": "arastirmaci42 Matb",
+       "durum": "acik",
+       "saat": [
+        9,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 22,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 10.9,
+      "kat": 4,
+      "tohum": 831185830,
+      "kira": 3190000,
+      "isletme": {
+       "id": 11494,
+       "tur": "mobilya",
+       "turAdi": "Mobilya",
+       "simge": "🛋️",
+       "ad": "Tefon Mobilya",
+       "durum": "acik",
+       "saat": [
+        0,
+        24
+       ],
+       "ozel": "tefon",
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 23,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.5,
+      "kat": 4,
+      "tohum": 738207923,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43928,
+       "tur": "kuruyemis",
+       "turAdi": "Kuruyemişçi",
+       "simge": "🥜",
+       "ad": "arastirmaci42 Kuru",
+       "durum": "acik",
+       "saat": [
+        9,
+        22
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 24,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.8,
+      "kat": 6,
+      "tohum": 33190841,
+      "kira": 3190000,
+      "isletme": {
+       "id": 31939,
+       "tur": "emlakci",
+       "turAdi": "Emlakçı",
+       "simge": "🏠",
+       "ad": "Araştırma Emlak",
+       "durum": "acik",
+       "saat": [
+        9,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 25,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9,
+      "kat": 6,
+      "tohum": 301275018,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43932,
+       "tur": "cigkofte",
+       "turAdi": "Çiğ köfteci",
+       "simge": "🌶️",
+       "ad": "arastirmaci42 Çiğ",
+       "durum": "acik",
+       "saat": [
+        10,
+        23
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 26,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.4,
+      "kat": 7,
+      "tohum": 887197013,
+      "kira": 3190000,
+      "isletme": {
+       "id": 43917,
+       "tur": "teknik_servis",
+       "turAdi": "Teknik servis",
+       "simge": "🛠️",
+       "ad": "arastirmaci42 Tekn",
+       "durum": "acik",
+       "saat": [
+        9,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 27,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.8,
+      "kat": 7,
+      "tohum": 206831617,
+      "kira": 3190000,
+      "isletme": {
+       "id": 8858,
+       "tur": "oto_yikama",
+       "turAdi": "Oto yıkama",
+       "simge": "🚿",
+       "ad": "Araştırma Oto Yıka",
+       "durum": "acik",
+       "saat": [
+        8,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 28,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.5,
+      "kat": 4,
+      "tohum": 819772417,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43927,
+       "tur": "bisikletci",
+       "turAdi": "Bisikletçi",
+       "simge": "🚲",
+       "ad": "arastirmaci42 Bisi",
+       "durum": "acik",
+       "saat": [
+        9,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 29,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.4,
+      "kat": 5,
+      "tohum": 774177583,
+      "kira": 3190000,
+      "isletme": {
+       "id": 43911,
+       "tur": "telefoncu",
+       "turAdi": "Telefoncu",
+       "simge": "📱",
+       "ad": "arastirmaci42 Tele",
+       "durum": "acik",
+       "saat": [
+        10,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 30,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.3,
+      "kat": 5,
+      "tohum": 784735448,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47882,
+       "tur": "seyahat_acentesi",
+       "turAdi": "Seyahat acentesi",
+       "simge": "✈️",
+       "ad": "arastirmaci42 Seya",
+       "durum": "acik",
+       "saat": [
+        9,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 31,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.1,
+      "kat": 6,
+      "tohum": 198851991,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43914,
+       "tur": "yedek_parca",
+       "turAdi": "Oto yedek parça",
+       "simge": "🚗",
+       "ad": "arastirmaci42 Oto",
+       "durum": "acik",
+       "saat": [
+        8,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 32,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.2,
+      "kat": 7,
+      "tohum": 816263567,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47879,
+       "tur": "temizlik_magazasi",
+       "turAdi": "Temizlik ürünleri",
+       "simge": "🧽",
+       "ad": "arastirmaci42 Temi",
+       "durum": "acik",
+       "saat": [
+        9,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 33,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 10.8,
+      "kat": 7,
+      "tohum": 312687546,
+      "kira": 3190000,
+      "isletme": {
+       "id": 9659,
+       "tur": "oto_servis",
+       "turAdi": "Oto servis",
+       "simge": "🔧",
+       "ad": "Araştırma Oto Serv",
+       "durum": "acik",
+       "saat": [
+        8,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 34,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.9,
+      "kat": 7,
+      "tohum": 675060644,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47835,
+       "tur": "hirdavat",
+       "turAdi": "Hırdavatçı",
+       "simge": "🔧",
+       "ad": "arastirmaci42 Hırd",
+       "durum": "acik",
+       "saat": [
+        8,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 35,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.9,
+      "kat": 7,
+      "tohum": 68148053,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47836,
+       "tur": "perdeci",
+       "turAdi": "Perdeci",
+       "simge": "🔲",
+       "ad": "arastirmaci42 Perd",
+       "durum": "acik",
+       "saat": [
+        10,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 36,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.2,
+      "kat": 4,
+      "tohum": 122223258,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47833,
+       "tur": "kurs",
+       "turAdi": "Özel kurs",
+       "simge": "📖",
+       "ad": "arastirmaci42 Özel",
+       "durum": "acik",
+       "saat": [
+        9,
+        22
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 37,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "buyuk",
+      "boyutAdi": "Büyük",
+      "m2": 180,
+      "genislik": 13.2,
+      "kat": 6,
+      "tohum": 513102913,
+      "kira": 6390000,
+      "isletme": {
+       "id": 47885,
+       "tur": "lastikci",
+       "turAdi": "Lastikçi",
+       "simge": "⚙️",
+       "ad": "arastirmaci42 Last",
+       "durum": "acik",
+       "saat": [
+        8,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 38,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 10.8,
+      "kat": 6,
+      "tohum": 260183264,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47830,
+       "tur": "kuafor",
+       "turAdi": "Kuaför",
+       "simge": "💇",
+       "ad": "arastirmaci42 Kuaf",
+       "durum": "acik",
+       "saat": [
+        9,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 39,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.1,
+      "kat": 5,
+      "tohum": 864564032,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47827,
+       "tur": "halici",
+       "turAdi": "Halıcı",
+       "simge": "🧶",
+       "ad": "arastirmaci42 Halı",
+       "durum": "acik",
+       "saat": [
+        10,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 40,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9,
+      "kat": 6,
+      "tohum": 602907492,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43779,
+       "tur": "kirtasiye",
+       "turAdi": "Kırtasiye",
+       "simge": "✏️",
+       "ad": "Can Kırtasiye",
+       "durum": "acik",
+       "saat": [
+        8,
+        20
+       ],
+       "sahip": "Can",
+       "bot": false,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 41,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.9,
+      "kat": 4,
+      "tohum": 20635576,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43923,
+       "tur": "bilgisayarci",
+       "turAdi": "Bilgisayarcı",
+       "simge": "💻",
+       "ad": "arastirmaci42 Bilg",
+       "durum": "acik",
+       "saat": [
+        10,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 42,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.7,
+      "kat": 5,
+      "tohum": 183052977,
+      "kira": 3190000,
+      "isletme": {
+       "id": 43925,
+       "tur": "spor_magazasi",
+       "turAdi": "Spor mağazası",
+       "simge": "⚽",
+       "ad": "arastirmaci42 Spor",
+       "durum": "acik",
+       "saat": [
+        10,
+        22
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     }
+    ],
+    "sokak": {
+     "secili": 0,
+     "liste": [
+      {
+       "no": 0,
+       "toplam": 42,
+       "bos": 0,
+       "benim": 36
+      },
+      {
+       "no": 1,
+       "toplam": 42,
+       "bos": 7,
+       "benim": 14
+      }
+     ],
+     "toplamSokak": 2,
+     "toplamBos": 7
+    },
+    "belediye": {
+     "ilceId": 1723,
+     "kasa": 43217514,
+     "baskan": {
+      "id": null,
+      "ad": "Belediye Botu",
+      "bot": true,
+      "sistem": false
+     }
+    },
+    "isimler": {
+     "kaynak": "osm",
+     "merkez": [
+      39.96264,
+      32.80942
+     ],
+     "merkezKaynagi": "belediye",
+     "mahalle": "Gayret Mahallesi",
+     "anaCadde": "İvedik Caddesi",
+     "arkaSokak": "Cengiz Sokak",
+     "batiSokak": "Çarşı Caddesi",
+     "doguSokak": "Serdar Sokak",
+     "meydan": "Meydan"
+    },
+    "reklamlar": [
+     {
+      "id": 5522,
+      "ad": "Araştırma Şarküter",
+      "tur": "sarkuteri",
+      "yerNo": 4,
+      "arac": true
+     },
+     {
+      "id": 7820,
+      "ad": "Araştırma Kargo",
+      "tur": "kargo",
+      "yerNo": 7,
+      "arac": true
+     },
+     {
+      "id": 8858,
+      "ad": "Araştırma Oto Yıka",
+      "tur": "oto_yikama",
+      "yerNo": 27,
+      "arac": true
+     },
+     {
+      "id": 9659,
+      "ad": "Araştırma Oto Serv",
+      "tur": "oto_servis",
+      "yerNo": 33,
+      "arac": true
+     },
+     {
+      "id": 31939,
+      "ad": "Araştırma Emlak",
+      "tur": "emlakci",
+      "yerNo": 24,
+      "arac": true
+     },
+     {
+      "id": 35368,
+      "ad": "Can Büfe",
+      "tur": "bufe",
+      "yerNo": 6,
+      "arac": false
+     },
+     {
+      "id": 43907,
+      "ad": "arastirmaci42 Keba",
+      "tur": "kebapci",
+      "yerNo": 15,
+      "arac": true
+     },
+     {
+      "id": 43911,
+      "ad": "arastirmaci42 Tele",
+      "tur": "telefoncu",
+      "yerNo": 29,
+      "arac": true
+     },
+     {
+      "id": 43917,
+      "ad": "arastirmaci42 Tekn",
+      "tur": "teknik_servis",
+      "yerNo": 26,
+      "arac": true
+     },
+     {
+      "id": 43923,
+      "ad": "arastirmaci42 Bilg",
+      "tur": "bilgisayarci",
+      "yerNo": 41,
+      "arac": true
+     },
+     {
+      "id": 43927,
+      "ad": "arastirmaci42 Bisi",
+      "tur": "bisikletci",
+      "yerNo": 28,
+      "arac": true
+     },
+     {
+      "id": 43932,
+      "ad": "arastirmaci42 Çiğ",
+      "tur": "cigkofte",
+      "yerNo": 25,
+      "arac": true
+     }
+    ],
+    "bilboardlar": [
+     {
+      "no": 1,
+      "reklamlar": []
+     },
+     {
+      "no": 2,
+      "reklamlar": []
+     },
+     {
+      "no": 3,
+      "reklamlar": []
+     }
+    ],
+    "dolasanlar": [],
+    "havaiFisekler": [],
+    "kutlamalar": [],
+    "arabam": null,
+    "calisma": null,
+    "devlet": [
+     {
+      "tur": "kaymakamlik",
+      "ad": "T.C. YENİMAHALLE KAYMAKAMLIĞI"
+     },
+     {
+      "tur": "belediye",
+      "ad": "YENİMAHALLE BELEDİYESİ"
+     },
+     {
+      "tur": "kulliye",
+      "ad": "T.C. CUMHURBAŞKANLIĞI"
+     },
+     {
+      "tur": "tbmm",
+      "ad": "TÜRKİYE BÜYÜK MİLLET MECLİSİ"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. ADALET BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. AİLE VE SOSYAL HİZMETLER BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. ÇEVRE, ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. DIŞİŞLERİ BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. ENERJİ VE TABİİ KAYNAKLAR BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. GENÇLİK VE SPOR BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. HAZİNE VE MALİYE BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. İÇİŞLERİ BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. KÜLTÜR VE TURİZM BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. MİLLÎ EĞİTİM BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. MİLLÎ SAVUNMA BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. SAĞLIK BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. SANAYİ VE TEKNOLOJİ BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. TARIM VE ORMAN BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. TİCARET BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. ULAŞTIRMA VE ALTYAPI BAKANLIĞI"
+     },
+     {
+      "tur": "konsolosluk",
+      "ad": "VİZE VE KONSOLOSLUK MERKEZİ"
+     },
+     {
+      "tur": "esnafodasi",
+      "ad": "YENİMAHALLE ESNAF VE SANATKÂRLAR ODASI"
+     },
+     {
+      "tur": "plaza",
+      "ad": "ANKARA PLAZA"
+     },
+     {
+      "tur": "hastane",
+      "ad": "YENİMAHALLE DEVLET HASTANESİ"
+     },
+     {
+      "tur": "emniyet",
+      "ad": "YENİMAHALLE İLÇE EMNİYET MÜDÜRLÜĞÜ"
+     },
+     {
+      "tur": "itfaiye",
+      "ad": "YENİMAHALLE İTFAİYE İSTASYONU"
+     },
+     {
+      "tur": "universite",
+      "ad": "ANKARA ÜNİVERSİTESİ"
+     },
+     {
+      "tur": "teknik",
+      "ad": "ANKARA TEKNİK ÜNİVERSİTESİ"
+     },
+     {
+      "tur": "nar",
+      "ad": "NAR OIL"
+     },
+     {
+      "tur": "must",
+      "ad": "MUST OIL"
+     },
+     {
+      "tur": "otogar",
+      "ad": "ANKARA AŞTİ"
+     },
+     {
+      "tur": "gar",
+      "ad": "ANKARA GARI"
+     },
+     {
+      "tur": "yht",
+      "ad": "ANKARA YHT GARI"
+     },
+     {
+      "tur": "havalimani",
+      "ad": "ANKARA ESENBOĞA HAVALİMANI"
+     }
+    ],
+    "kamu": {
+     "kilise": false,
+     "inanc": "islam",
+     "yabanci": false,
+     "ulke": "TR",
+     "yerler": {
+      "cami1": {
+       "ad": "Hülya Tefon Camii",
+       "bagis": false,
+       "sonraki": 1791590400000
+      },
+      "ilkokul": {
+       "ad": "Barbaros İlkokulu",
+       "bagis": false,
+       "sonraki": null
+      },
+      "ortaokul": {
+       "ad": "Kâzım Karabekir Ortaokulu",
+       "bagis": false,
+       "sonraki": null
+      },
+      "lise": {
+       "ad": "Nene Hatun Anadolu Lisesi",
+       "bagis": false,
+       "sonraki": null
+      },
+      "park": {
+       "ad": "Huzur Parkı",
+       "bagis": false,
+       "sonraki": null
+      },
+      "millet": {
+       "ad": "Yenimahalle Millet Bahçesi",
+       "bagis": false,
+       "sonraki": null
+      },
+      "kutuphane": {
+       "ad": "Atatürk Halk Kütüphanesi",
+       "bagis": false,
+       "sonraki": null
+      },
+      "spor": {
+       "ad": "19 Mayıs Spor Salonu",
+       "bagis": false,
+       "sonraki": null
+      },
+      "kultur": {
+       "ad": "Barış Manço Kültür Merkezi",
+       "bagis": false,
+       "sonraki": null
+      }
+     }
+    },
+    "secim": {
+     "afisler": [],
+     "araclar": [],
+     "miting": null
+    }
+   },
+   "cadde?ilce=2034": {
+    "yerler": [
+     {
+      "no": 1,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "buyuk",
+      "boyutAdi": "Büyük",
+      "m2": 180,
+      "genislik": 13.4,
+      "kat": 5,
+      "tohum": 414137433,
+      "kira": 6390000,
+      "isletme": {
+       "id": 47900,
+       "tur": "market",
+       "turAdi": "Market",
+       "simge": "🛒",
+       "ad": "arastirmaci42 Mark",
+       "durum": "acik",
+       "saat": [
+        8,
+        23
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 2,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.2,
+      "kat": 6,
+      "tohum": 686842458,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47822,
+       "tur": "ic_giyim",
+       "turAdi": "İç giyim",
+       "simge": "🧦",
+       "ad": "arastirmaci42 İç g",
+       "durum": "acik",
+       "saat": [
+        10,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 3,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9,
+      "kat": 5,
+      "tohum": 340144626,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47891,
+       "tur": "dondurmaci",
+       "turAdi": "Dondurmacı",
+       "simge": "🍦",
+       "ad": "arastirmaci42 Dond",
+       "durum": "acik",
+       "saat": [
+        10,
+        23
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 4,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.1,
+      "kat": 8,
+      "tohum": 978509327,
+      "kira": 1420000,
+      "isletme": {
+       "id": 5522,
+       "tur": "sarkuteri",
+       "turAdi": "Şarküteri",
+       "simge": "🧀",
+       "ad": "Araştırma Şarküter",
+       "durum": "acik",
+       "saat": [
+        8,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 5,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.6,
+      "kat": 8,
+      "tohum": 78534743,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47897,
+       "tur": "tesisatci",
+       "turAdi": "Su tesisatçısı",
+       "simge": "🔧",
+       "ad": "arastirmaci42 Su t",
+       "durum": "acik",
+       "saat": [
+        8,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 6,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.6,
+      "kat": 5,
+      "tohum": 896436313,
+      "kira": 1420000,
+      "isletme": {
+       "id": 35368,
+       "tur": "bufe",
+       "turAdi": "Büfe",
+       "simge": "🥤",
+       "ad": "Can Büfe",
+       "durum": "acik",
+       "saat": [
+        6,
+        24
+       ],
+       "sahip": "Can",
+       "bot": false,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 7,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.1,
+      "kat": 7,
+      "tohum": 694371672,
+      "kira": 1420000,
+      "isletme": {
+       "id": 7820,
+       "tur": "kargo",
+       "turAdi": "Kargo şubesi",
+       "simge": "📦",
+       "ad": "Araştırma Kargo",
+       "durum": "acik",
+       "saat": [
+        9,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 8,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8,
+      "kat": 8,
+      "tohum": 60837781,
+      "kira": 1420000,
+      "isletme": {
+       "id": 11495,
+       "tur": "eczane",
+       "turAdi": "Eczane",
+       "simge": "💊",
+       "ad": "Hülya Eczanesi",
+       "durum": "acik",
+       "saat": [
+        0,
+        24
+       ],
+       "ozel": "hulya",
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 9,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8,
+      "kat": 8,
+      "tohum": 355720271,
+      "kira": 1420000,
+      "isletme": {
+       "id": 36057,
+       "tur": "bilgisayarci",
+       "turAdi": "Bilgisayarcı",
+       "simge": "💻",
+       "ad": "Derece Bilgisayar",
+       "durum": "acik",
+       "saat": [
+        0,
+        24
+       ],
+       "ozel": "derece",
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 10,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9.1,
+      "kat": 8,
+      "tohum": 493892525,
+      "kira": 1420000,
+      "isletme": {
+       "id": 8338,
+       "tur": "cilingir",
+       "turAdi": "Çilingir",
+       "simge": "🔑",
+       "ad": "Araştırma Çilingir",
+       "durum": "acik",
+       "saat": [
+        8,
+        22
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 11,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "buyuk",
+      "boyutAdi": "Büyük",
+      "m2": 180,
+      "genislik": 13.9,
+      "kat": 7,
+      "tohum": 346400019,
+      "kira": 6390000,
+      "isletme": {
+       "id": 47824,
+       "tur": "yapi_marketi",
+       "turAdi": "Yapı marketi",
+       "simge": "🏗️",
+       "ad": "arastirmaci42 Yapı",
+       "durum": "acik",
+       "saat": [
+        9,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 12,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9.1,
+      "kat": 5,
+      "tohum": 888280441,
+      "kira": 1420000,
+      "isletme": {
+       "id": 46006,
+       "tur": "emlakci",
+       "turAdi": "Emlakçı",
+       "simge": "🏠",
+       "ad": "arastirmaci42 Emla",
+       "durum": "acik",
+       "saat": [
+        9,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 13,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 10.6,
+      "kat": 5,
+      "tohum": 310629561,
+      "kira": 3190000,
+      "isletme": {
+       "id": 46012,
+       "tur": "nakliyat",
+       "turAdi": "Nakliyat",
+       "simge": "🚚",
+       "ad": "arastirmaci42 Nakl",
+       "durum": "acik",
+       "saat": [
+        8,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 14,
+      "sira": 0,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9.1,
+      "kat": 6,
+      "tohum": 837184605,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47889,
+       "tur": "elektrikci",
+       "turAdi": "Elektrikçi",
+       "simge": "💡",
+       "ad": "arastirmaci42 Elek",
+       "durum": "acik",
+       "saat": [
+        8,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 15,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.6,
+      "kat": 6,
+      "tohum": 737119037,
+      "kira": 3190000,
+      "isletme": {
+       "id": 43907,
+       "tur": "kebapci",
+       "turAdi": "Kebapçı",
+       "simge": "🍢",
+       "ad": "arastirmaci42 Keba",
+       "durum": "acik",
+       "saat": [
+        11,
+        24
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 16,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.1,
+      "kat": 7,
+      "tohum": 688935876,
+      "kira": 3190000,
+      "isletme": {
+       "id": 8815,
+       "tur": "otopark",
+       "turAdi": "Otopark",
+       "simge": "🅿️",
+       "ad": "Araştırma Otopark",
+       "durum": "acik",
+       "saat": [
+        0,
+        24
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 17,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.7,
+      "kat": 6,
+      "tohum": 302507334,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47881,
+       "tur": "camasirhane",
+       "turAdi": "Çamaşırhane",
+       "simge": "🫧",
+       "ad": "arastirmaci42 Çama",
+       "durum": "acik",
+       "saat": [
+        8,
+        22
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 18,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.2,
+      "kat": 5,
+      "tohum": 114676684,
+      "kira": 1420000,
+      "isletme": {
+       "id": 8397,
+       "tur": "fotografci",
+       "turAdi": "Fotoğrafçı",
+       "simge": "📸",
+       "ad": "Araştırma Fotoğraf",
+       "durum": "acik",
+       "saat": [
+        10,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 19,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.3,
+      "kat": 6,
+      "tohum": 203298637,
+      "kira": 1420000,
+      "isletme": {
+       "id": 8442,
+       "tur": "elektrikci",
+       "turAdi": "Elektrikçi",
+       "simge": "💡",
+       "ad": "Araştırma Elektrik",
+       "durum": "acik",
+       "saat": [
+        8,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 20,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.5,
+      "kat": 6,
+      "tohum": 416167963,
+      "kira": 1420000,
+      "isletme": {
+       "id": 11496,
+       "tur": "gumruk_musaviri",
+       "turAdi": "Gümrük müşaviri",
+       "simge": "🛃",
+       "ad": "Şükrü Gümrükleme",
+       "durum": "acik",
+       "saat": [
+        0,
+        24
+       ],
+       "ozel": "sukru",
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 21,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.8,
+      "kat": 7,
+      "tohum": 204936126,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47876,
+       "tur": "matbaa",
+       "turAdi": "Matbaa",
+       "simge": "🖨️",
+       "ad": "arastirmaci42 Matb",
+       "durum": "acik",
+       "saat": [
+        9,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 22,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 10.9,
+      "kat": 4,
+      "tohum": 831185830,
+      "kira": 3190000,
+      "isletme": {
+       "id": 11494,
+       "tur": "mobilya",
+       "turAdi": "Mobilya",
+       "simge": "🛋️",
+       "ad": "Tefon Mobilya",
+       "durum": "acik",
+       "saat": [
+        0,
+        24
+       ],
+       "ozel": "tefon",
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 23,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.5,
+      "kat": 4,
+      "tohum": 738207923,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43928,
+       "tur": "kuruyemis",
+       "turAdi": "Kuruyemişçi",
+       "simge": "🥜",
+       "ad": "arastirmaci42 Kuru",
+       "durum": "acik",
+       "saat": [
+        9,
+        22
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 24,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.8,
+      "kat": 6,
+      "tohum": 33190841,
+      "kira": 3190000,
+      "isletme": {
+       "id": 31939,
+       "tur": "emlakci",
+       "turAdi": "Emlakçı",
+       "simge": "🏠",
+       "ad": "Araştırma Emlak",
+       "durum": "acik",
+       "saat": [
+        9,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 25,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9,
+      "kat": 6,
+      "tohum": 301275018,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43932,
+       "tur": "cigkofte",
+       "turAdi": "Çiğ köfteci",
+       "simge": "🌶️",
+       "ad": "arastirmaci42 Çiğ",
+       "durum": "acik",
+       "saat": [
+        10,
+        23
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 26,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.4,
+      "kat": 7,
+      "tohum": 887197013,
+      "kira": 3190000,
+      "isletme": {
+       "id": 43917,
+       "tur": "teknik_servis",
+       "turAdi": "Teknik servis",
+       "simge": "🛠️",
+       "ad": "arastirmaci42 Tekn",
+       "durum": "acik",
+       "saat": [
+        9,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 27,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.8,
+      "kat": 7,
+      "tohum": 206831617,
+      "kira": 3190000,
+      "isletme": {
+       "id": 8858,
+       "tur": "oto_yikama",
+       "turAdi": "Oto yıkama",
+       "simge": "🚿",
+       "ad": "Araştırma Oto Yıka",
+       "durum": "acik",
+       "saat": [
+        8,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 28,
+      "sira": 1,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.5,
+      "kat": 4,
+      "tohum": 819772417,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43927,
+       "tur": "bisikletci",
+       "turAdi": "Bisikletçi",
+       "simge": "🚲",
+       "ad": "arastirmaci42 Bisi",
+       "durum": "acik",
+       "saat": [
+        9,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 29,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.4,
+      "kat": 5,
+      "tohum": 774177583,
+      "kira": 3190000,
+      "isletme": {
+       "id": 43911,
+       "tur": "telefoncu",
+       "turAdi": "Telefoncu",
+       "simge": "📱",
+       "ad": "arastirmaci42 Tele",
+       "durum": "acik",
+       "saat": [
+        10,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 30,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.3,
+      "kat": 5,
+      "tohum": 784735448,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47882,
+       "tur": "seyahat_acentesi",
+       "turAdi": "Seyahat acentesi",
+       "simge": "✈️",
+       "ad": "arastirmaci42 Seya",
+       "durum": "acik",
+       "saat": [
+        9,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 31,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.1,
+      "kat": 6,
+      "tohum": 198851991,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43914,
+       "tur": "yedek_parca",
+       "turAdi": "Oto yedek parça",
+       "simge": "🚗",
+       "ad": "arastirmaci42 Oto",
+       "durum": "acik",
+       "saat": [
+        8,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 32,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.2,
+      "kat": 7,
+      "tohum": 816263567,
+      "kira": 1420000,
+      "isletme": {
+       "id": 47879,
+       "tur": "temizlik_magazasi",
+       "turAdi": "Temizlik ürünleri",
+       "simge": "🧽",
+       "ad": "arastirmaci42 Temi",
+       "durum": "acik",
+       "saat": [
+        9,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 33,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 10.8,
+      "kat": 7,
+      "tohum": 312687546,
+      "kira": 3190000,
+      "isletme": {
+       "id": 9659,
+       "tur": "oto_servis",
+       "turAdi": "Oto servis",
+       "simge": "🔧",
+       "ad": "Araştırma Oto Serv",
+       "durum": "acik",
+       "saat": [
+        8,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 34,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.9,
+      "kat": 7,
+      "tohum": 675060644,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47835,
+       "tur": "hirdavat",
+       "turAdi": "Hırdavatçı",
+       "simge": "🔧",
+       "ad": "arastirmaci42 Hırd",
+       "durum": "acik",
+       "saat": [
+        8,
+        19
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 35,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.9,
+      "kat": 7,
+      "tohum": 68148053,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47836,
+       "tur": "perdeci",
+       "turAdi": "Perdeci",
+       "simge": "🔲",
+       "ad": "arastirmaci42 Perd",
+       "durum": "acik",
+       "saat": [
+        10,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 36,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.2,
+      "kat": 4,
+      "tohum": 122223258,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47833,
+       "tur": "kurs",
+       "turAdi": "Özel kurs",
+       "simge": "📖",
+       "ad": "arastirmaci42 Özel",
+       "durum": "acik",
+       "saat": [
+        9,
+        22
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 37,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "buyuk",
+      "boyutAdi": "Büyük",
+      "m2": 180,
+      "genislik": 13.2,
+      "kat": 6,
+      "tohum": 513102913,
+      "kira": 6390000,
+      "isletme": {
+       "id": 47885,
+       "tur": "lastikci",
+       "turAdi": "Lastikçi",
+       "simge": "⚙️",
+       "ad": "arastirmaci42 Last",
+       "durum": "acik",
+       "saat": [
+        8,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 38,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 10.8,
+      "kat": 6,
+      "tohum": 260183264,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47830,
+       "tur": "kuafor",
+       "turAdi": "Kuaför",
+       "simge": "💇",
+       "ad": "arastirmaci42 Kuaf",
+       "durum": "acik",
+       "saat": [
+        9,
+        21
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 39,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.1,
+      "kat": 5,
+      "tohum": 864564032,
+      "kira": 3190000,
+      "isletme": {
+       "id": 47827,
+       "tur": "halici",
+       "turAdi": "Halıcı",
+       "simge": "🧶",
+       "ad": "arastirmaci42 Halı",
+       "durum": "acik",
+       "saat": [
+        10,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 40,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 9,
+      "kat": 6,
+      "tohum": 602907492,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43779,
+       "tur": "kirtasiye",
+       "turAdi": "Kırtasiye",
+       "simge": "✏️",
+       "ad": "Can Kırtasiye",
+       "durum": "acik",
+       "saat": [
+        8,
+        20
+       ],
+       "sahip": "Can",
+       "bot": false,
+       "benim": false,
+       "tabela": null
+      }
+     },
+     {
+      "no": 41,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "kucuk",
+      "boyutAdi": "Küçük",
+      "m2": 40,
+      "genislik": 8.9,
+      "kat": 4,
+      "tohum": 20635576,
+      "kira": 1420000,
+      "isletme": {
+       "id": 43923,
+       "tur": "bilgisayarci",
+       "turAdi": "Bilgisayarcı",
+       "simge": "💻",
+       "ad": "arastirmaci42 Bilg",
+       "durum": "acik",
+       "saat": [
+        10,
+        20
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     },
+     {
+      "no": 42,
+      "sira": 2,
+      "sokak": 0,
+      "boyut": "orta",
+      "boyutAdi": "Orta",
+      "m2": 90,
+      "genislik": 11.7,
+      "kat": 5,
+      "tohum": 183052977,
+      "kira": 3190000,
+      "isletme": {
+       "id": 43925,
+       "tur": "spor_magazasi",
+       "turAdi": "Spor mağazası",
+       "simge": "⚽",
+       "ad": "arastirmaci42 Spor",
+       "durum": "acik",
+       "saat": [
+        10,
+        22
+       ],
+       "sahip": "arastirmaci42",
+       "bot": false,
+       "benim": true,
+       "kasa": 0,
+       "tabela": null
+      }
+     }
+    ],
+    "sokak": {
+     "secili": 0,
+     "liste": [
+      {
+       "no": 0,
+       "toplam": 42,
+       "bos": 0,
+       "benim": 36
+      },
+      {
+       "no": 1,
+       "toplam": 42,
+       "bos": 7,
+       "benim": 14
+      }
+     ],
+     "toplamSokak": 2,
+     "toplamBos": 7
+    },
+    "belediye": {
+     "ilceId": 1723,
+     "kasa": 43217514,
+     "baskan": {
+      "id": null,
+      "ad": "Belediye Botu",
+      "bot": true,
+      "sistem": false
+     }
+    },
+    "isimler": {
+     "kaynak": "osm",
+     "merkez": [
+      39.96264,
+      32.80942
+     ],
+     "merkezKaynagi": "belediye",
+     "mahalle": "Gayret Mahallesi",
+     "anaCadde": "İvedik Caddesi",
+     "arkaSokak": "Cengiz Sokak",
+     "batiSokak": "Çarşı Caddesi",
+     "doguSokak": "Serdar Sokak",
+     "meydan": "Meydan"
+    },
+    "reklamlar": [
+     {
+      "id": 5522,
+      "ad": "Araştırma Şarküter",
+      "tur": "sarkuteri",
+      "yerNo": 4,
+      "arac": true
+     },
+     {
+      "id": 7820,
+      "ad": "Araştırma Kargo",
+      "tur": "kargo",
+      "yerNo": 7,
+      "arac": true
+     },
+     {
+      "id": 8858,
+      "ad": "Araştırma Oto Yıka",
+      "tur": "oto_yikama",
+      "yerNo": 27,
+      "arac": true
+     },
+     {
+      "id": 9659,
+      "ad": "Araştırma Oto Serv",
+      "tur": "oto_servis",
+      "yerNo": 33,
+      "arac": true
+     },
+     {
+      "id": 31939,
+      "ad": "Araştırma Emlak",
+      "tur": "emlakci",
+      "yerNo": 24,
+      "arac": true
+     },
+     {
+      "id": 35368,
+      "ad": "Can Büfe",
+      "tur": "bufe",
+      "yerNo": 6,
+      "arac": false
+     },
+     {
+      "id": 43907,
+      "ad": "arastirmaci42 Keba",
+      "tur": "kebapci",
+      "yerNo": 15,
+      "arac": true
+     },
+     {
+      "id": 43911,
+      "ad": "arastirmaci42 Tele",
+      "tur": "telefoncu",
+      "yerNo": 29,
+      "arac": true
+     },
+     {
+      "id": 43917,
+      "ad": "arastirmaci42 Tekn",
+      "tur": "teknik_servis",
+      "yerNo": 26,
+      "arac": true
+     },
+     {
+      "id": 43923,
+      "ad": "arastirmaci42 Bilg",
+      "tur": "bilgisayarci",
+      "yerNo": 41,
+      "arac": true
+     },
+     {
+      "id": 43927,
+      "ad": "arastirmaci42 Bisi",
+      "tur": "bisikletci",
+      "yerNo": 28,
+      "arac": true
+     },
+     {
+      "id": 43932,
+      "ad": "arastirmaci42 Çiğ",
+      "tur": "cigkofte",
+      "yerNo": 25,
+      "arac": true
+     }
+    ],
+    "bilboardlar": [
+     {
+      "no": 1,
+      "reklamlar": []
+     },
+     {
+      "no": 2,
+      "reklamlar": []
+     },
+     {
+      "no": 3,
+      "reklamlar": []
+     }
+    ],
+    "dolasanlar": [],
+    "havaiFisekler": [],
+    "kutlamalar": [],
+    "arabam": null,
+    "calisma": null,
+    "devlet": [
+     {
+      "tur": "kaymakamlik",
+      "ad": "T.C. YENİMAHALLE KAYMAKAMLIĞI"
+     },
+     {
+      "tur": "belediye",
+      "ad": "YENİMAHALLE BELEDİYESİ"
+     },
+     {
+      "tur": "kulliye",
+      "ad": "T.C. CUMHURBAŞKANLIĞI"
+     },
+     {
+      "tur": "tbmm",
+      "ad": "TÜRKİYE BÜYÜK MİLLET MECLİSİ"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. ADALET BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. AİLE VE SOSYAL HİZMETLER BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. ÇEVRE, ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. DIŞİŞLERİ BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. ENERJİ VE TABİİ KAYNAKLAR BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. GENÇLİK VE SPOR BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. HAZİNE VE MALİYE BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. İÇİŞLERİ BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. KÜLTÜR VE TURİZM BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. MİLLÎ EĞİTİM BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. MİLLÎ SAVUNMA BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. SAĞLIK BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. SANAYİ VE TEKNOLOJİ BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. TARIM VE ORMAN BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. TİCARET BAKANLIĞI"
+     },
+     {
+      "tur": "bakanlik",
+      "ad": "T.C. ULAŞTIRMA VE ALTYAPI BAKANLIĞI"
+     },
+     {
+      "tur": "konsolosluk",
+      "ad": "VİZE VE KONSOLOSLUK MERKEZİ"
+     },
+     {
+      "tur": "esnafodasi",
+      "ad": "YENİMAHALLE ESNAF VE SANATKÂRLAR ODASI"
+     },
+     {
+      "tur": "plaza",
+      "ad": "ANKARA PLAZA"
+     },
+     {
+      "tur": "hastane",
+      "ad": "YENİMAHALLE DEVLET HASTANESİ"
+     },
+     {
+      "tur": "emniyet",
+      "ad": "YENİMAHALLE İLÇE EMNİYET MÜDÜRLÜĞÜ"
+     },
+     {
+      "tur": "itfaiye",
+      "ad": "YENİMAHALLE İTFAİYE İSTASYONU"
+     },
+     {
+      "tur": "universite",
+      "ad": "ANKARA ÜNİVERSİTESİ"
+     },
+     {
+      "tur": "teknik",
+      "ad": "ANKARA TEKNİK ÜNİVERSİTESİ"
+     },
+     {
+      "tur": "nar",
+      "ad": "NAR OIL"
+     },
+     {
+      "tur": "must",
+      "ad": "MUST OIL"
+     },
+     {
+      "tur": "otogar",
+      "ad": "ANKARA AŞTİ"
+     },
+     {
+      "tur": "gar",
+      "ad": "ANKARA GARI"
+     },
+     {
+      "tur": "yht",
+      "ad": "ANKARA YHT GARI"
+     },
+     {
+      "tur": "havalimani",
+      "ad": "ANKARA ESENBOĞA HAVALİMANI"
+     }
+    ],
+    "kamu": {
+     "kilise": false,
+     "inanc": "islam",
+     "yabanci": false,
+     "ulke": "TR",
+     "yerler": {
+      "cami1": {
+       "ad": "Hülya Tefon Camii",
+       "bagis": false,
+       "sonraki": 1791590400000
+      },
+      "ilkokul": {
+       "ad": "Barbaros İlkokulu",
+       "bagis": false,
+       "sonraki": null
+      },
+      "ortaokul": {
+       "ad": "Kâzım Karabekir Ortaokulu",
+       "bagis": false,
+       "sonraki": null
+      },
+      "lise": {
+       "ad": "Nene Hatun Anadolu Lisesi",
+       "bagis": false,
+       "sonraki": null
+      },
+      "park": {
+       "ad": "Huzur Parkı",
+       "bagis": false,
+       "sonraki": null
+      },
+      "millet": {
+       "ad": "Yenimahalle Millet Bahçesi",
+       "bagis": false,
+       "sonraki": null
+      },
+      "kutuphane": {
+       "ad": "Atatürk Halk Kütüphanesi",
+       "bagis": false,
+       "sonraki": null
+      },
+      "spor": {
+       "ad": "19 Mayıs Spor Salonu",
+       "bagis": false,
+       "sonraki": null
+      },
+      "kultur": {
+       "ad": "Barış Manço Kültür Merkezi",
+       "bagis": false,
+       "sonraki": null
+      }
+     }
+    },
+    "secim": {
+     "afisler": [],
+     "araclar": [],
+     "miting": null
+    }
+   },
+   "gorunum": {
+    "hata": "Bulunamadı."
+   },
+   "profil": {
+    "hata": "Bulunamadı."
+   },
+   "ayarlar": {
+    "hata": "Bulunamadı."
    }
-  ],
-  "son_hareketler": [
-   {
-    "id": 45,
-    "kim": "Karahan",
-    "tutar": 1000000.0,
-    "aciklama": "kâr payı",
-    "giden": true,
-    "ts": 1791500201842
-   },
-   {
-    "id": 38,
-    "kim": "Karahan",
-    "tutar": 1000000.0,
-    "aciklama": "Günlük kâr payı",
-    "giden": true,
-    "ts": 1791378780681
-   },
-   {
-    "id": 9,
-    "kim": "Karahan",
-    "tutar": 100000.0,
-    "aciklama": null,
-    "giden": false,
-    "ts": 1791073858552
-   },
-   {
-    "id": 4,
-    "kim": "Karahan",
-    "tutar": 50000.0,
-    "aciklama": "stok yardımı",
-    "giden": false,
-    "ts": 1790933942070
-   },
-   {
-    "id": 3,
-    "kim": "Karahan",
-    "tutar": 22000.0,
-    "aciklama": null,
-    "giden": false,
-    "ts": 1790932089039
-   },
-   {
-    "id": 2,
-    "kim": "Karahan",
-    "tutar": 60000.0,
-    "aciklama": "Ortaklık Payı 😘",
-    "giden": false,
-    "ts": 1790930968873
-   }
-  ],
-  "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
-  "engel": null,
-  "ham": {
-   "hesapNo": "TR06 0077 7098 0600 5694 4967 03",
-   "sinir": 100000000,
-   "bugun": 100000000,
-   "engel": null
   }
- },
- "mesaj-oku": {
-  "kisi": "Karahan",
-  "toplam": 25,
-  "gelen_adet": 3,
-  "son_gelen": {
-   "id": 577,
-   "benden": false,
-   "metin": "8. Seviye de hangi dükkanlar açılıyor yeni özellik falan açılıyor mu?",
-   "zaman": 1791211477700
-  },
-  "cevaplanan_id": 577,
-  "son_mesajlar": [
-   {
-    "id": 577,
-    "benden": false,
-    "metin": "8. Seviye de hangi dükkanlar açılıyor yeni özellik falan açılıyor mu?",
-    "zaman": 1791211477700
-   },
-   {
-    "id": 578,
-    "benden": true,
-    "metin": "🤖 Aldım patron! Botlar ayakta (17:45). Oyun içi mesaj beni uyandırmaz; iş/istek olursa sohbetten yaz, anında bakarım.",
-    "zaman": 1791211528743
-   },
-   {
-    "id": 579,
-    "benden": true,
-    "metin": "📊 17:45 durum: kasa 503.576₺ · keyif 99😄 ×1.08 · sv5 TP 388/400 · Şarküteri dün net 159.897₺ · kargo bugün 188.160₺ (688 müş) · botlar ✓",
-    "zaman": 1791211531885
-   },
-   {
-    "id": 580,
-    "benden": true,
-    "metin": "Hafta kapandı: ben #2 (ödül 60.000₺ geldi 💰), sen #2 olmuşsun (2560) — EzelBayraktar son anda geçmiş (3394)! 100k yerine 40k aldın ama 'ilçenin en zengini' sertifikası da geldi bana 😄 YENİ hafta başladı: bu kez #1'i beraber alalım!",
-    "zaman": 1791211683742
-   },
-   {
-    "id": 614,
-    "benden": true,
-    "metin": "0.56.0 güncellemesi: artık havale sadece IBAN ile yapılıyor (isimle arama kalktı). Sana para göndermem gerekirse lazım olur — banka hesabının IBAN'ını atar mısın? Benimki: TR06 0077 7098 0600 5694 4967 03",
-    "zaman": 1791219559481
-   },
-   {
-    "id": 688,
-    "benden": true,
-    "metin": "📊 22:14 durum: kasa 582.414₺ · keyif 94😄 ×1.08 · sv6 TP 433/700 · Şarküteri dün net 159.897₺ · kargo bugün 218.580₺ (802 müş) · botlar ✓",
-    "zaman": 1791227657724
-   },
-   {
-    "id": 1152,
-    "benden": true,
-    "metin": "Patron kargo + lastikçi açıldı! Kasa 12388856 TL. Sıradaki: Teknik servis = 206000 TL (0 TL daha lazım). IBAN: TR06 0077 7098 0600 5694 4967 03",
-    "zaman": 1791465130310
-   },
-   {
-    "id": 1153,
-    "benden": true,
-    "metin": "Patron, SV6 oldum! Yeni açılan dükkânlar: Emlakçı, Seyahat acentesi, Matbaa, Kebapçı",
-    "zaman": 1791465166652
-   },
-   {
-    "id": 1183,
-    "benden": true,
-    "metin": "Patron, SV7 oldum! Yeni açılan dükkânlar: Sigorta acentesi, Özel kurs, Yapı marketi, Güzellik salonu",
-    "zaman": 1791505492504
-   },
-   {
-    "id": 1240,
-    "benden": true,
-    "metin": "Patron, SV8 oldum! Yeni açılan dükkânlar: Mobilya, Optik, Spor salonu, Bar, Kreş",
-    "zaman": 1791551446859
-   }
-  ]
- },
- "oda": {
-  "odalar": [
-   {
-    "kod": "esnaf",
-    "ad": "Esnaf ve Sanatkârlar Odası",
-    "uye": true,
-    "aktif": true,
-    "egitimAlindi": true,
-    "aidat": 25000,
-    "borc": null,
-    "baskan": null,
-    "kasa": 875000,
-    "uyeler": null,
-    "tp": null
-   },
-   {
-    "kod": "ticaret",
-    "ad": "Ticaret Odası",
-    "uye": true,
-    "aktif": true,
-    "egitimAlindi": true,
-    "aidat": 150000,
-    "borc": null,
-    "baskan": null,
-    "kasa": 450000,
-    "uyeler": null,
-    "tp": null
-   },
-   {
-    "kod": "sanayi",
-    "ad": "Sanayi Odası",
-    "uye": false,
-    "aktif": false,
-    "egitimAlindi": false,
-    "aidat": 300000,
-    "borc": null,
-    "baskan": null,
-    "kasa": 0,
-    "uyeler": null,
-    "tp": null
-   }
-  ],
-  "egitim": [],
-  "uyelikler": [
-   "Esnaf ve Sanatkârlar Odası",
-   "Ticaret Odası"
-  ]
- },
- "seviye-bildir": {
-  "seviye": 8,
-  "tp": 1366,
-  "onceki": 8,
-  "yeni_mi": false
- },
- "dukkan-yonet": {
-  "toplam": 50,
-  "kasa_toplanan": 0,
-  "kasa_tl": 0.0,
-  "raf_doldurulan": 0,
-  "oto_acilan": 25,
-  "detay": [
-   {
-    "ad": "Araştırma Şarküter",
-    "id": 5522,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Keba",
-    "id": 43907,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Tele",
-    "id": 43911,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Bilg",
-    "id": 43923,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Spor",
-    "id": 43925,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Kuru",
-    "id": 43928,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Çiğ",
-    "id": 43932,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 İç g",
-    "id": 47822,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Yapı",
-    "id": 47824,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Halı",
-    "id": 47827,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Hırd",
-    "id": 47835,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Perd",
-    "id": 47836,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Temi",
-    "id": 47879,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Dond",
-    "id": 47891,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Mark",
-    "id": 47900,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Çant",
-    "id": 47902,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Zücc",
-    "id": 47905,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Döne",
-    "id": 47907,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Hamb",
-    "id": 47912,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Tavu",
-    "id": 47921,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Akta",
-    "id": 47927,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Kasa",
-    "id": 47929,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Fırı",
-    "id": 47932,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Balı",
-    "id": 47933,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Bebe",
-    "id": 47934,
-    "oto": "acik"
-   }
-  ],
-  "hatalar": [],
-  "debug": []
- },
- "dukkan-ac": {
-  "ilce": 2034,
-  "acilanlar": [],
-  "secenekler": [],
-  "denemeler": [],
-  "mevcut_turler": [
-   "aktar",
-   "balikci",
-   "bebek_magazasi",
-   "bilgisayarci",
-   "bisikletci",
-   "camasirhane",
-   "cantaci",
-   "cigkofte",
-   "cilingir",
-   "dondurmaci",
-   "donerci",
-   "elektrikci",
-   "emlakci",
-   "firin",
-   "fotografci",
-   "halici",
-   "hamburgerci",
-   "hirdavat",
-   "ic_giyim",
-   "kargo",
-   "kasap",
-   "kebapci",
-   "kuafor",
-   "kurs",
-   "kuruyemis",
-   "lastikci",
-   "market",
-   "matbaa",
-   "nakliyat",
-   "oto_servis",
-   "oto_yikama",
-   "otopark",
-   "perdeci",
-   "sarkuteri",
-   "seyahat_acentesi",
-   "sigorta_acentesi",
-   "spor_magazasi",
-   "tavukcu",
-   "teknik_servis",
-   "telefoncu",
-   "temizlik_magazasi",
-   "tesisatci",
-   "yapi_marketi",
-   "yedek_parca",
-   "zuccaciye"
-  ],
-  "atlanan": [
-   "firin",
-   "donerci",
-   "hamburgerci",
-   "market"
-  ],
-  "bakiye": 13483717.45,
-  "oyuncu_seviye": 8,
-  "bos_parsel": 0,
-  "kalan_bakiye": 13483717.45
- },
- "bot": {
-  "olay": "kosu_bitti",
-  "tur": 89,
-  "kazanc": 80274.1,
-  "servis": 706,
-  "bahsis": 155,
-  "bakiye": 13553457.92,
-  "siparis_toplam": 26,
-  "siparis_basari": 26,
-  "gecen_dk": 15.2,
-  "bot_versiyon": "v2",
-  "ts": 1791581759451
  }
 }

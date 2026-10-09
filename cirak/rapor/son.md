@@ -1,77 +1,29 @@
 # Çırak raporu — cerez-kontrol
 
-**Zaman:** 2026-10-09 21:35:59 UTC
+**Zaman:** 2026-10-09 21:36:37 UTC
 
 ## Oyuncu
 
 - Ad: **arastirmaci42**
-- Seviye: 8 · TP: 1366
-- Nakit: 13483717.45 ₺
+- Seviye: 8 · TP: 1374
+- Nakit: 13553457.92 ₺
 - Konum: Ankara / Yenimahalle / Ata Mahallesi
 
 
 ---
 
-# Çırak raporu — banka
+# Çırak raporu — ham
 
-**Zaman:** 2026-10-09 21:35:59 UTC
+**Zaman:** 2026-10-09 21:36:25 UTC
 
+## Uçlar
 
----
-
-# Çırak raporu — havale
-
-**Zaman:** 2026-10-09 21:35:59 UTC
-
-
----
-
-# Çırak raporu — mesaj-oku
-
-**Zaman:** 2026-10-09 21:35:59 UTC
-
-
----
-
-# Çırak raporu — oda
-
-**Zaman:** 2026-10-09 21:35:59 UTC
-
-
----
-
-# Çırak raporu — seviye-bildir
-
-**Zaman:** 2026-10-09 21:35:59 UTC
-
-
----
-
-# Çırak raporu — dukkan-yonet
-
-**Zaman:** 2026-10-09 21:35:59 UTC
-
-
----
-
-# Çırak raporu — dukkan-ac
-
-**Zaman:** 2026-10-09 21:35:59 UTC
-
-
----
-
-# Çırak raporu — bot
-
-**Zaman:** 1791581759451 UTC
-
-## Bot koşusu
-
-| Alan | Değer |
-|---|---|
-| Süre | 15.2 dk |
-| Tur | 89 |
-| Kazanç | 80274.1 ₺ |
-| Servis | 706 |
-| Bahşiş | 155 |
-| Bakiye | 13553457.92 ₺ |
+- `mahalle` → {"hata": "Bulunamadı."}
+- `mahalle/sokaklar` → {"hata": "Bulunamadı."}
+- `sokak` → {"sunucuZamani": 1791581787977, "olaylar": []}
+- `sokaklar` → {"hata": "Bulunamadı."}
+- `cadde` → {"yerler": [{"no": 1, "sira": 0, "sokak": 0, "boyut": "buyuk", "boyutAdi": "Büyük", "m2": 180, "genislik": 13.4, "kat": 5, "tohum": 414137433, "kira": 6390000, "isletme": {"id": 47900, "tur": "market", "turAdi": "Market", "simge": "🛒", "ad": "arastirmaci42 Mark", "durum": "acik", "saat": [8, 23], "s…
+- `cadde?ilce=2034` → {"yerler": [{"no": 1, "sira": 0, "sokak": 0, "boyut": "buyuk", "boyutAdi": "Büyük", "m2": 180, "genislik": 13.4, "kat": 5, "tohum": 414137433, "kira": 6390000, "isletme": {"id": 47900, "tur": "market", "turAdi": "Market", "simge": "🛒", "ad": "arastirmaci42 Mark", "durum": "acik", "saat": [8, 23], "s…
+- `gorunum` → {"hata": "Bulunamadı."}
+- `profil` → {"hata": "Bulunamadı."}
+- `ayarlar` → {"hata": "Bulunamadı."}
