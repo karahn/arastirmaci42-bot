@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 7,
-  "tp": 963,
-  "nakit_kurus": 1393943980,
+  "tp": 976,
+  "nakit_kurus": 1014058196,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 1393943980,
+   "nakit": 1014058196,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 616900000,
+     "limit": 589100000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 1028200000,
+     "limit": 981800000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -93,7 +93,7 @@
    "karaListe": 0,
    "net": 57357478,
    "krediNotu": {
-    "puan": 1127,
+    "puan": 1126,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -106,7 +106,7 @@
    }
   },
   "takvim": {
-   "ms": 1791546604667,
+   "ms": 1791547546043,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -114,21 +114,21 @@
    "haftaGunu": "Cuma",
    "haftaGunuNo": 5,
    "haftaSonu": false,
-   "saat": 11,
-   "dakika": 50,
+   "saat": 12,
+   "dakika": 5,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "9 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 13939439.8,
+  "nakit": 10140581.96,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1127,
+   "puan": 1126,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -369,50 +369,82 @@
  },
  "seviye-bildir": {
   "seviye": 7,
-  "tp": 963,
+  "tp": 976,
   "onceki": 7,
   "yeni_mi": false
  },
  "dukkan-yonet": {
-  "toplam": 20,
+  "toplam": 31,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
-  "raf_doldurulan": 0,
+  "raf_doldurulan": 7,
   "oto_acilan": 7,
   "detay": [
    {
     "ad": "Araştırma Şarküter",
     "id": 5522,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "117/189→full"
    },
    {
     "ad": "arastirmaci42 Keba",
     "id": 43907,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "489/750→full"
    },
    {
     "ad": "arastirmaci42 Tele",
     "id": 43911,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "253/320→full"
    },
    {
     "ad": "arastirmaci42 Bilg",
     "id": 43923,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "187/200→full"
    },
    {
     "ad": "arastirmaci42 Spor",
     "id": 43925,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "267/320→full"
    },
    {
     "ad": "arastirmaci42 Kuru",
     "id": 43928,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "147/188→full"
    },
    {
     "ad": "arastirmaci42 Çiğ",
     "id": 43932,
+    "oto": "acik",
+    "raf": "222/300→full"
+   },
+   {
+    "ad": "arastirmaci42 İç g",
+    "id": 47822,
+    "oto": "acik"
+   },
+   {
+    "ad": "arastirmaci42 Yapı",
+    "id": 47824,
+    "oto": "acik"
+   },
+   {
+    "ad": "arastirmaci42 Halı",
+    "id": 47827,
+    "oto": "acik"
+   },
+   {
+    "ad": "arastirmaci42 Hırd",
+    "id": 47835,
+    "oto": "acik"
+   },
+   {
+    "ad": "arastirmaci42 Perd",
+    "id": 47836,
     "oto": "acik"
    }
   ],
@@ -424,8 +456,8 @@
   "acilanlar": [
    {
     "tur": "kasap",
-    "no": 2,
-    "toplam": 372000.0,
+    "no": 1,
+    "toplam": 91000.0,
     "sonuc": {
      "hata": "Şube açmak için en az 10. seviye olmalısın."
     }
@@ -433,55 +465,66 @@
   ],
   "secenekler": [
    {
-    "no": 2,
+    "no": 1,
     "tur": "kasap",
     "ad": "Kasap",
     "seviye": 2,
     "kilitli": false,
-    "toplam": 372000.0,
-    "kurulum": 280000.0,
-    "kira": 36000.0
+    "toplam": 91000.0,
+    "kurulum": 70000.0,
+    "kira": 8000.0
    }
   ],
   "denemeler": [],
   "mevcut_turler": [
    "bilgisayarci",
    "bisikletci",
+   "camasirhane",
    "cigkofte",
    "cilingir",
    "elektrikci",
    "emlakci",
    "fotografci",
+   "halici",
+   "hirdavat",
+   "ic_giyim",
    "kargo",
    "kebapci",
+   "kuafor",
+   "kurs",
    "kuruyemis",
+   "matbaa",
    "nakliyat",
    "oto_servis",
    "oto_yikama",
    "otopark",
+   "perdeci",
    "sarkuteri",
+   "seyahat_acentesi",
    "spor_magazasi",
    "teknik_servis",
    "telefoncu",
+   "temizlik_magazasi",
+   "yapi_marketi",
    "yedek_parca"
   ],
   "atlanan": [],
-  "bakiye": 13939439.8,
+  "bakiye": 9824712.96,
   "oyuncu_seviye": 7,
-  "bos_parsel": 8,
-  "kalan_bakiye": 13567439.8
+  "bos_parsel": 5,
+  "kalan_bakiye": 9733712.96
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 95,
-  "kazanc": 34630.1,
-  "servis": 759,
-  "bahsis": 166,
-  "bakiye": 10390981.96,
-  "siparis_toplam": 27,
-  "siparis_basari": 27,
+  "tur": 109,
+  "kazanc": 35925.6,
+  "servis": 866,
+  "bahsis": 160,
+  "bakiye": 3479907.45,
+  "siparis_toplam": 26,
+  "siparis_basari": 25,
   "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791536719717
+  "ts": 1791537676799
  }
 }
