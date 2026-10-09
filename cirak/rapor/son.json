@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 7,
-  "tp": 746,
-  "nakit_kurus": 1308683741,
+  "tp": 754,
+  "nakit_kurus": 1311361256,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 1308683741,
+   "nakit": 1311361256,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 560400000,
+     "limit": 561200000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 934000000,
+     "limit": 935300000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -106,7 +106,7 @@
    }
   },
   "takvim": {
-   "ms": 1791521967298,
+   "ms": 1791522909893,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -114,15 +114,15 @@
    "haftaGunu": "Cuma",
    "haftaGunuNo": 5,
    "haftaSonu": false,
-   "saat": 4,
-   "dakika": 59,
+   "saat": 5,
+   "dakika": 15,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "9 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 13086837.41,
+  "nakit": 13113612.56,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -369,7 +369,7 @@
  },
  "seviye-bildir": {
   "seviye": 7,
-  "tp": 746,
+  "tp": 754,
   "onceki": 7,
   "yeni_mi": false
  },
@@ -473,22 +473,22 @@
    "yedek_parca"
   ],
   "atlanan": [],
-  "bakiye": 13086837.41,
+  "bakiye": 13113612.56,
   "oyuncu_seviye": 7,
   "bos_parsel": 7,
-  "kalan_bakiye": 12995837.41
+  "kalan_bakiye": 13022612.56
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 93,
-  "kazanc": 37214.3,
-  "servis": 743,
-  "bahsis": 170,
-  "bakiye": 13113612.56,
-  "siparis_toplam": 25,
+  "tur": 115,
+  "kazanc": 33872.0,
+  "servis": 919,
+  "bahsis": 196,
+  "bakiye": 13137890.09,
+  "siparis_toplam": 24,
   "siparis_basari": 24,
-  "gecen_dk": 15.0,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791512082971
+  "ts": 1791513023690
  }
 }
