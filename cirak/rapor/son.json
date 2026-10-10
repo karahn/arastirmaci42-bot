@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791611992625,
+   "ms": 1791612012860,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -110,15 +110,15 @@
    "haftaGunu": "Cumartesi",
    "haftaGunuNo": 6,
    "haftaSonu": true,
-   "saat": 5,
-   "dakika": 59,
+   "saat": 6,
+   "dakika": 0,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
  "ham": {
-  "ts": "2026-10-10 02:59:52",
+  "ts": "2026-10-10 03:00:13",
   "uclar": {
    "cadde?ilce=2034&sokak=0": {
     "yerler": [
@@ -581,7 +581,7 @@
        "sahip": "arastirmaci42",
        "bot": false,
        "benim": true,
-       "kasa": -108540,
+       "kasa": -84425,
        "tabela": null
       }
      },
@@ -3254,11 +3254,11 @@
      "turAdi": "Otopark",
      "simge": "🅿️",
      "durum": "acik",
-     "kasa": -108540,
+     "kasa": -84425,
      "yerNo": 16,
-     "bugunCiro": 118000,
-     "bugunMusteri": 9,
-     "bugunGider": 217825,
+     "bugunCiro": 180000,
+     "bugunMusteri": 13,
+     "bugunGider": 270210,
      "dunCiro": 8493000,
      "bitenUrun": 0,
      "borcGun": 0,
