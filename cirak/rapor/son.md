@@ -1,6 +1,6 @@
 # Çırak raporu — cerez-kontrol
 
-**Zaman:** 2026-10-10 03:31:23 UTC
+**Zaman:** 2026-10-10 03:31:43 UTC
 
 ## Oyuncu
 
@@ -14,7 +14,7 @@
 
 # Çırak raporu — ham
 
-**Zaman:** 2026-10-10 03:31:19 UTC
+**Zaman:** 2026-10-10 03:31:39 UTC
 
 ## Uçlar
 
