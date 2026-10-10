@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791636066706,
+   "ms": 1791636085337,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -118,14 +118,14 @@
   }
  },
  "ham": {
-  "ts": "2026-10-10 09:41:06",
+  "ts": "2026-10-10 09:41:25",
   "uclar": {},
   "uclar_post": {
    "kirala {\"yerNo\": 43, \"tur\": \"pastane\", \"ilceId\": 2034, \"sokakId\": 1, \"ad\": \"Test Pastane\"}": {
-    "hata": "Böyle bir dükkân yeri yok."
+    "hata": "Şube açmak için en az 10. seviye olmalısın."
    },
    "kirala {\"yerNo\": 45, \"tur\": \"kafe\", \"ilceId\": 2034, \"sokakId\": 1, \"ad\": \"Test Kafe\"}": {
-    "hata": "Böyle bir dükkân yeri yok."
+    "hata": "Şube açmak için en az 10. seviye olmalısın."
    },
    "kirala {\"yerNo\": 53, \"tur\": \"bar\", \"ilceId\": 2034, \"sokak\": 1, \"ad\": \"Test Bar\"}": {
     "hata": "Şube açmak için en az 10. seviye olmalısın."
