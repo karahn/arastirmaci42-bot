@@ -6,19 +6,8 @@
   "sure_dk": 5,
   "zincir": false,
   "uclar": [
-    "sokak/degis",
-    "sokak/sec",
-    "gorunum/degis",
-    "cadde/degis",
-    "mahalle/degis",
-    "ayarlar/sokak"
-  ],
-  "uclar_post": [
-    {"endpoint": "sokak/degis", "data": {"sokak": 1}},
-    {"endpoint": "sokak/sec", "data": {"sokak": 1}},
-    {"endpoint": "sokak/degis", "data": {"sokakNo": 1}},
-    {"endpoint": "sokak/degis", "data": {"no": 1}},
-    {"endpoint": "cadde", "data": {"sokak": 1}},
-    {"endpoint": "cadde", "data": {"sokakNo": 1}}
+    "cadde?ilce=2034&sokak=0",
+    "cadde?ilce=2034&sokak=1",
+    "isletmelerim"
   ]
 }
