@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791623677843,
+   "ms": 1791623697545,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -118,7 +118,7 @@
   }
  },
  "ham": {
-  "ts": "2026-10-10 06:14:38",
+  "ts": "2026-10-10 06:14:57",
   "uclar": {
    "cadde?ilce=2034&sokak=0": {
     "yerler": [
@@ -1351,12 +1351,12 @@
       {
        "no": 1,
        "toplam": 42,
-       "bos": 9,
+       "bos": 8,
        "benim": 14
       }
      ],
      "toplamSokak": 2,
-     "toplamBos": 9
+     "toplamBos": 8
     },
     "belediye": {
      "ilceId": 1723,
