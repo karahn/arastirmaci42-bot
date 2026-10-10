@@ -5,14 +5,9 @@
   ],
   "sure_dk": 5,
   "zincir": false,
-  "uclar": [
-    "cadde?ilce=2034&sokak=1"
-  ],
   "uclar_post": [
-    {"endpoint": "sokak/degis", "data": {"sokak": 1}},
-    {"endpoint": "sokak/sec", "data": {"sokak": 1}},
-    {"endpoint": "cadde", "data": {"sokak": 1, "ilce": 2034}},
-    {"endpoint": "gorunum", "data": {"sokak": 1}},
-    {"endpoint": "ayarlar", "data": {"sokak": 1}}
+    {"endpoint": "kirala", "data": {"yerNo": 43, "tur": "pastane", "ilceId": 2034, "sokakId": 1, "ad": "Test Pastane"}},
+    {"endpoint": "kirala", "data": {"yerNo": 45, "tur": "kafe", "ilceId": 2034, "sokakId": 1, "ad": "Test Kafe"}},
+    {"endpoint": "kirala", "data": {"yerNo": 53, "tur": "bar", "ilceId": 2034, "sokak": 1, "ad": "Test Bar"}}
   ]
 }
