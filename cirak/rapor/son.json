@@ -67,7 +67,9 @@
      ],
      "limit": 1100000000,
      "engel": null,
-     "enAz": 1000000
+     "enAz": 1000000,
+     "alim": false,
+     "pesinat": 0
     },
     {
      "kod": "makine",
@@ -84,7 +86,47 @@
      ],
      "limit": 1833400000,
      "engel": "15. seviyede açılır.",
-     "enAz": 1000000
+     "enAz": 1000000,
+     "alim": false,
+     "pesinat": 0
+    },
+    {
+     "kod": "tasit",
+     "ad": "Taşıt kredisi",
+     "simge": "🚗",
+     "aciklama": "Araba ve yat alırken kullanılır; en az %30 peşinat gerekir.",
+     "faiz": 48,
+     "temelFaiz": 48,
+     "odaIndirimi": 0,
+     "taksitler": [
+      12,
+      24,
+      36
+     ],
+     "limit": 1466700000,
+     "engel": null,
+     "enAz": 1000000,
+     "alim": true,
+     "pesinat": 0.3
+    },
+    {
+     "kod": "konut",
+     "ad": "Konut kredisi",
+     "simge": "🏠",
+     "aciklama": "Ev ve arsa alırken kullanılır; en az %20 peşinat gerekir.",
+     "faiz": 40,
+     "temelFaiz": 40,
+     "odaIndirimi": 0,
+     "taksitler": [
+      24,
+      36,
+      60
+     ],
+     "limit": 2200000000,
+     "engel": null,
+     "enAz": 1000000,
+     "alim": true,
+     "pesinat": 0.2
     }
    ],
    "stopaj": 15,
@@ -102,7 +144,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791639769761,
+   "ms": 1791639788376,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -111,14 +153,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 13,
-   "dakika": 42,
+   "dakika": 43,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
  "ham": {
-  "ts": "2026-10-10 10:42:50",
+  "ts": "2026-10-10 10:43:08",
   "uclar": {},
   "uclar_post": {
    "kirala {\"yerNo\": 43, \"tur\": \"pastane\", \"ilceId\": 2034, \"sokakId\": 1, \"ad\": \"Test Pastane\"}": {
