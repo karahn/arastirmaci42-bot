@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791604195193,
+   "ms": 1791604216041,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -111,14 +111,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 3,
-   "dakika": 49,
+   "dakika": 50,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
  "ham": {
-  "ts": "2026-10-10 00:49:55",
+  "ts": "2026-10-10 00:50:16",
   "uclar": {
    "cadde?ilce=2034&sokak=0": {
     "yerler": [
@@ -1351,12 +1351,12 @@
       {
        "no": 1,
        "toplam": 42,
-       "bos": 9,
+       "bos": 8,
        "benim": 14
       }
      ],
      "toplamSokak": 2,
-     "toplamBos": 9
+     "toplamBos": 8
     },
     "belediye": {
      "ilceId": 1723,
@@ -2249,7 +2249,22 @@
       "kat": 4,
       "tohum": 138721848,
       "kira": 6390000,
-      "isletme": null
+      "isletme": {
+       "id": 51229,
+       "tur": "tatlici",
+       "turAdi": "Tatlıcı",
+       "simge": "🍮",
+       "ad": "Güneş Tatlıcı",
+       "durum": "acik",
+       "saat": [
+        10,
+        23
+       ],
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
      },
      {
       "no": 66,
@@ -2758,12 +2773,12 @@
       {
        "no": 1,
        "toplam": 42,
-       "bos": 9,
+       "bos": 8,
        "benim": 14
       }
      ],
      "toplamSokak": 2,
-     "toplamBos": 9
+     "toplamBos": 8
     },
     "belediye": {
      "ilceId": 1723,
