@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791624078541,
+   "ms": 1791624098018,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -118,7 +118,7 @@
   }
  },
  "ham": {
-  "ts": "2026-10-10 06:21:18",
+  "ts": "2026-10-10 06:21:38",
   "uclar": {
    "cadde?ilce=2034&sokak=0": {
     "yerler": [
@@ -2267,22 +2267,7 @@
       "kat": 4,
       "tohum": 138721848,
       "kira": 6390000,
-      "isletme": {
-       "id": 51229,
-       "tur": "tatlici",
-       "turAdi": "Tatlıcı",
-       "simge": "🍮",
-       "ad": "Güneş Tatlıcı",
-       "durum": "acik",
-       "saat": [
-        10,
-        23
-       ],
-       "sahip": "Mahalle esnafı",
-       "bot": true,
-       "benim": false,
-       "tabela": null
-      }
+      "isletme": null
      },
      {
       "no": 66,
@@ -2776,12 +2761,12 @@
       {
        "no": 1,
        "toplam": 42,
-       "bos": 8,
+       "bos": 9,
        "benim": 14
       }
      ],
      "toplamSokak": 2,
-     "toplamBos": 8
+     "toplamBos": 9
     },
     "belediye": {
      "ilceId": 1723,
