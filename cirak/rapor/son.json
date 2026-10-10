@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 942900000,
+     "limit": 958700000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 1571500000,
+     "limit": 1597900000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791622835395,
+   "ms": 1791622861865,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -111,14 +111,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 9,
-   "dakika": 0,
+   "dakika": 1,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
  "ham": {
-  "ts": "2026-10-10 06:00:35",
+  "ts": "2026-10-10 06:01:02",
   "uclar": {
    "cadde?ilce=2034&sokak=0": {
     "yerler": [
