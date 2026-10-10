@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 8,
-  "tp": 1594,
-  "nakit_kurus": 2895853422,
+  "tp": 1598,
+  "nakit_kurus": 2896675971,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 2895853422,
+   "nakit": 2896675971,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 1384700000,
+     "limit": 1384900000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 2307800000,
+     "limit": 2308200000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 1846200000,
+     "limit": 1846600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 2769400000,
+     "limit": 2769900000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -144,7 +144,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791661174667,
+   "ms": 1791662133415,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -153,14 +153,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 19,
-   "dakika": 39,
+   "dakika": 55,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
  "banka": {
-  "nakit": 28958534.22,
+  "nakit": 28966759.71,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -416,7 +416,7 @@
  },
  "seviye-bildir": {
   "seviye": 8,
-  "tp": 1594,
+  "tp": 1598,
   "onceki": 8,
   "yeni_mi": false
  },
@@ -585,6 +585,14 @@
    },
    {
     "tur": "bakkal",
+    "no": 55,
+    "toplam": 106000.0,
+    "sonuc": {
+     "hata": "Şube açmak için en az 10. seviye olmalısın."
+    }
+   },
+   {
+    "tur": "bakkal",
     "no": 62,
     "toplam": 51000.0,
     "sonuc": {
@@ -595,14 +603,6 @@
     "tur": "bakkal",
     "no": 65,
     "toplam": 212000.0,
-    "sonuc": {
-     "hata": "Şube açmak için en az 10. seviye olmalısın."
-    }
-   },
-   {
-    "tur": "bakkal",
-    "no": 67,
-    "toplam": 106000.0,
     "sonuc": {
      "hata": "Şube açmak için en az 10. seviye olmalısın."
     }
@@ -656,6 +656,16 @@
     "kira": 18000.0
    },
    {
+    "no": 55,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
+   },
+   {
     "no": 62,
     "tur": "bakkal",
     "ad": "Bakkal",
@@ -674,16 +684,6 @@
     "toplam": 212000.0,
     "kurulum": 120000.0,
     "kira": 36000.0
-   },
-   {
-    "no": 67,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 106000.0,
-    "kurulum": 60000.0,
-    "kira": 18000.0
    },
    {
     "no": 72,
@@ -760,23 +760,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 28958534.22,
+  "bakiye": 28966759.71,
   "oyuncu_seviye": 8,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 28118534.22
+  "kalan_bakiye": 28126759.71
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 91,
-  "kazanc": 7608.0,
-  "servis": 728,
-  "bahsis": 150,
-  "bakiye": 28966759.71,
-  "siparis_toplam": 24,
-  "siparis_basari": 24,
-  "gecen_dk": 15.0,
+  "tur": 93,
+  "kazanc": 76158.3,
+  "servis": 742,
+  "bahsis": 134,
+  "bakiye": 30977650.07,
+  "siparis_toplam": 26,
+  "siparis_basari": 26,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791651307677
+  "ts": 1791652267846
  }
 }
