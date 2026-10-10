@@ -93,7 +93,7 @@
    "karaListe": 0,
    "net": 57357478,
    "krediNotu": {
-    "puan": 1144,
+    "puan": 1145,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791626458835,
+   "ms": 1791626479438,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -111,14 +111,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 10,
-   "dakika": 0,
+   "dakika": 1,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
  "ham": {
-  "ts": "2026-10-10 07:00:59",
+  "ts": "2026-10-10 07:01:19",
   "uclar": {
    "cadde?ilce=2034&sokak=0": {
     "yerler": [
