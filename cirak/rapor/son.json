@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791623657256,
+   "ms": 1791623677843,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -118,7 +118,7 @@
   }
  },
  "ham": {
-  "ts": "2026-10-10 06:14:17",
+  "ts": "2026-10-10 06:14:38",
   "uclar": {
    "cadde?ilce=2034&sokak=0": {
     "yerler": [
@@ -1970,7 +1970,22 @@
       "kat": 5,
       "tohum": 246204725,
       "kira": 1420000,
-      "isletme": null
+      "isletme": {
+       "id": 52157,
+       "tur": "telefoncu",
+       "turAdi": "Telefoncu",
+       "simge": "📱",
+       "ad": "Tekin Telefoncu",
+       "durum": "acik",
+       "saat": [
+        10,
+        21
+       ],
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
      },
      {
       "no": 55,
@@ -2761,12 +2776,12 @@
       {
        "no": 1,
        "toplam": 42,
-       "bos": 9,
+       "bos": 8,
        "benim": 14
       }
      ],
      "toplamSokak": 2,
-     "toplamBos": 9
+     "toplamBos": 8
     },
     "belediye": {
      "ilceId": 1723,
