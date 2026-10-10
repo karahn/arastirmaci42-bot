@@ -1,12 +1,12 @@
 # Çırak raporu — cerez-kontrol
 
-**Zaman:** 2026-10-10 07:59:52 UTC
+**Zaman:** 2026-10-10 08:00:12 UTC
 
 ## Oyuncu
 
 - Ad: **arastirmaci42**
 - Seviye: 8 · TP: 1433
-- Nakit: 14054557.73 ₺
+- Nakit: 14052979.54 ₺
 - Konum: Ankara / Yenimahalle / Ata Mahallesi
 
 
@@ -14,4 +14,4 @@
 
 # Çırak raporu — ham
 
-**Zaman:** 2026-10-10 07:59:48 UTC
+**Zaman:** 2026-10-10 08:00:07 UTC

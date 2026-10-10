@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 8,
   "tp": 1433,
-  "nakit_kurus": 1405455773,
+  "nakit_kurus": 1405297954,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 1405455773,
+   "nakit": 1405297954,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791629987970,
+   "ms": 1791630007461,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -110,15 +110,15 @@
    "haftaGunu": "Cumartesi",
    "haftaGunuNo": 6,
    "haftaSonu": true,
-   "saat": 10,
-   "dakika": 59,
+   "saat": 11,
+   "dakika": 0,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
  "ham": {
-  "ts": "2026-10-10 07:59:48",
+  "ts": "2026-10-10 08:00:07",
   "uclar": {},
   "uclar_post": {
    "kirala {\"yerNo\": 43, \"tur\": \"pastane\", \"ilceId\": 2034, \"sokakId\": 1, \"ad\": \"Test Pastane\"}": {
