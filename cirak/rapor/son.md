@@ -1,6 +1,6 @@
 # Çırak raporu — cerez-kontrol
 
-**Zaman:** 2026-10-10 07:09:31 UTC
+**Zaman:** 2026-10-10 07:09:51 UTC
 
 ## Oyuncu
 
@@ -14,8 +14,4 @@
 
 # Çırak raporu — ham
 
-**Zaman:** 2026-10-10 07:09:22 UTC
-
-## Uçlar
-
-- `cadde?ilce=2034&sokak=1` → {"yerler": [{"no": 43, "sira": 0, "sokak": 1, "boyut": "orta", "boyutAdi": "Orta", "m2": 90, "genislik": 11.2, "kat": 7, "tohum": 149509486, "kira": 3190000, "isletme": {"id": 52084, "tur": "ayakkabici", "turAdi": "Ayakkabıcı", "simge": "👟", "ad": "Çınar Ayakkabıcı", "durum": "acik", "saat": [10, 21…
+**Zaman:** 2026-10-10 07:09:46 UTC
