@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791625954296,
+   "ms": 1791625974552,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -118,7 +118,7 @@
   }
  },
  "ham": {
-  "ts": "2026-10-10 06:52:34",
+  "ts": "2026-10-10 06:52:54",
   "uclar": {
    "cadde?ilce=2034&sokak=0": {
     "yerler": [
@@ -1419,13 +1419,6 @@
       "arac": true
      },
      {
-      "id": 35368,
-      "ad": "Can Büfe",
-      "tur": "bufe",
-      "yerNo": 6,
-      "arac": false
-     },
-     {
       "id": 43907,
       "ad": "arastirmaci42 Keba",
       "tur": "kebapci",
@@ -1465,6 +1458,13 @@
       "ad": "arastirmaci42 Çiğ",
       "tur": "cigkofte",
       "yerNo": 25,
+      "arac": true
+     },
+     {
+      "id": 46006,
+      "ad": "arastirmaci42 Emla",
+      "tur": "emlakci",
+      "yerNo": 12,
       "arac": true
      }
     ],
@@ -2844,13 +2844,6 @@
       "arac": true
      },
      {
-      "id": 35368,
-      "ad": "Can Büfe",
-      "tur": "bufe",
-      "yerNo": 6,
-      "arac": false
-     },
-     {
       "id": 43907,
       "ad": "arastirmaci42 Keba",
       "tur": "kebapci",
@@ -2890,6 +2883,13 @@
       "ad": "arastirmaci42 Çiğ",
       "tur": "cigkofte",
       "yerNo": 25,
+      "arac": true
+     },
+     {
+      "id": 46006,
+      "ad": "arastirmaci42 Emla",
+      "tur": "emlakci",
+      "yerNo": 12,
       "arac": true
      }
     ],
