@@ -6,8 +6,13 @@
   "sure_dk": 5,
   "zincir": false,
   "uclar": [
-    "kiralama/43?ilce=2034",
-    "kiralama/45?ilce=2034",
-    "kiralama/53?ilce=2034"
+    "cadde?ilce=2034&sokak=1"
+  ],
+  "uclar_post": [
+    {"endpoint": "sokak/degis", "data": {"sokak": 1}},
+    {"endpoint": "sokak/sec", "data": {"sokak": 1}},
+    {"endpoint": "cadde", "data": {"sokak": 1, "ilce": 2034}},
+    {"endpoint": "gorunum", "data": {"sokak": 1}},
+    {"endpoint": "ayarlar", "data": {"sokak": 1}}
   ]
 }
