@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791636949393,
+   "ms": 1791636970358,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -111,14 +111,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 12,
-   "dakika": 55,
+   "dakika": 56,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
  "ham": {
-  "ts": "2026-10-10 09:55:49",
+  "ts": "2026-10-10 09:56:10",
   "uclar": {},
   "uclar_post": {
    "kirala {\"yerNo\": 43, \"tur\": \"pastane\", \"ilceId\": 2034, \"sokakId\": 1, \"ad\": \"Test Pastane\"}": {
