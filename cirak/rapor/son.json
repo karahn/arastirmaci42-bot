@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 1100000000,
+     "limit": 1146900000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 1833400000,
+     "limit": 1911600000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 1466700000,
+     "limit": 1529300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 2200000000,
+     "limit": 2293900000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -144,7 +144,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791640840289,
+   "ms": 1791640862877,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -153,14 +153,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 14,
-   "dakika": 0,
+   "dakika": 1,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
  "ham": {
-  "ts": "2026-10-10 11:00:40",
+  "ts": "2026-10-10 11:01:03",
   "uclar": {},
   "uclar_post": {
    "kirala {\"yerNo\": 43, \"tur\": \"pastane\", \"ilceId\": 2034, \"sokakId\": 1, \"ad\": \"Test Pastane\"}": {
