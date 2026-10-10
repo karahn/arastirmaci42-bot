@@ -1,13 +1,38 @@
 {
   "gorevler": [
     "cerez-kontrol",
-    "ham"
+    "banka",
+    "havale-gonder",
+    "havale",
+    "mesaj-oku",
+    "oda",
+    "seviye-bildir",
+    "dukkan-yonet",
+    "dukkan-ac",
+    "bot"
   ],
-  "sure_dk": 5,
-  "zincir": false,
-  "uclar_post": [
-    {"endpoint": "kirala", "data": {"yerNo": 43, "tur": "pastane", "ilceId": 2034, "sokakId": 1, "ad": "Test Pastane"}},
-    {"endpoint": "kirala", "data": {"yerNo": 45, "tur": "kafe", "ilceId": 2034, "sokakId": 1, "ad": "Test Kafe"}},
-    {"endpoint": "kirala", "data": {"yerNo": 53, "tur": "bar", "ilceId": 2034, "sokak": 1, "ad": "Test Bar"}}
-  ]
+  "sure_dk": 15,
+  "zincir": true,
+  "zincir_butce_dk": 0,
+  "not": "VARSAYILAN (zincir) mod: mesaj oku/cevap + oda + dükkân denemesi + 50 dk grind; bitince kendini yeniden tetikler.",
+  "kosu": 1,
+  "hedefler": [
+    "bakkal",
+    "bufe",
+    "firin",
+    "lokanta",
+    "donerci",
+    "pideci",
+    "pizzaci",
+    "hamburgerci",
+    "pastane",
+    "kafe",
+    "bar",
+    "cay_ocagi",
+    "market"
+  ],
+  "adet": 10,
+  "havale_hedef": "TR110077704916007396897210",
+  "havale_tutar": 500000,
+  "havale_aciklama": "Dükkan açma desteği - Arastirmaci42'den Kalfa19'a"
 }
