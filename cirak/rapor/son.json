@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791625281759,
+   "ms": 1791625301146,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -118,7 +118,7 @@
   }
  },
  "ham": {
-  "ts": "2026-10-10 06:41:22",
+  "ts": "2026-10-10 06:41:41",
   "uclar": {
    "cadde?ilce=2034&sokak=0": {
     "yerler": [
@@ -1351,12 +1351,12 @@
       {
        "no": 1,
        "toplam": 42,
-       "bos": 9,
+       "bos": 8,
        "benim": 14
       }
      ],
      "toplamSokak": 2,
-     "toplamBos": 9
+     "toplamBos": 8
     },
     "belediye": {
      "ilceId": 1723,
@@ -2421,7 +2421,22 @@
       "kat": 5,
       "tohum": 305765784,
       "kira": 6390000,
-      "isletme": null
+      "isletme": {
+       "id": 52231,
+       "tur": "nalbur",
+       "turAdi": "Nalbur",
+       "simge": "🔨",
+       "ad": "Can Nalbur",
+       "durum": "acik",
+       "saat": [
+        8,
+        20
+       ],
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
      },
      {
       "no": 72,
@@ -2761,12 +2776,12 @@
       {
        "no": 1,
        "toplam": 42,
-       "bos": 9,
+       "bos": 8,
        "benim": 14
       }
      ],
      "toplamSokak": 2,
-     "toplamBos": 9
+     "toplamBos": 8
     },
     "belediye": {
      "ilceId": 1723,
