@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791624663782,
+   "ms": 1791624684391,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -118,7 +118,7 @@
   }
  },
  "ham": {
-  "ts": "2026-10-10 06:31:04",
+  "ts": "2026-10-10 06:31:24",
   "uclar": {
    "cadde?ilce=2034&sokak=0": {
     "yerler": [
@@ -1351,12 +1351,12 @@
       {
        "no": 1,
        "toplam": 42,
-       "bos": 9,
+       "bos": 8,
        "benim": 14
       }
      ],
      "toplamSokak": 2,
-     "toplamBos": 9
+     "toplamBos": 8
     },
     "belediye": {
      "ilceId": 1723,
@@ -1957,7 +1957,22 @@
       "kat": 6,
       "tohum": 798914314,
       "kira": 1420000,
-      "isletme": null
+      "isletme": {
+       "id": 52195,
+       "tur": "kuyumcu",
+       "turAdi": "Kuyumcu",
+       "simge": "💍",
+       "ad": "Şen Kuyumcu",
+       "durum": "acik",
+       "saat": [
+        10,
+        20
+       ],
+       "sahip": "Mahalle esnafı",
+       "bot": true,
+       "benim": false,
+       "tabela": null
+      }
      },
      {
       "no": 54,
@@ -2761,12 +2776,12 @@
       {
        "no": 1,
        "toplam": 42,
-       "bos": 9,
+       "bos": 8,
        "benim": 14
       }
      ],
      "toplamSokak": 2,
-     "toplamBos": 9
+     "toplamBos": 8
     },
     "belediye": {
      "ilceId": 1723,
