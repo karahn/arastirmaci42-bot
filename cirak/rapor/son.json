@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 8,
-  "tp": 1425,
-  "nakit_kurus": 1398617107,
+  "tp": 1433,
+  "nakit_kurus": 1405455773,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 1398617107,
+   "nakit": 1405455773,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 940400000,
+     "limit": 942400000,
      "engel": null,
      "enAz": 1000000
     },
@@ -82,7 +82,7 @@
       12,
       24
      ],
-     "limit": 1567300000,
+     "limit": 1570800000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000
     }
@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791600586228,
+   "ms": 1791601544420,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -110,505 +110,54 @@
    "haftaGunu": "Cumartesi",
    "haftaGunuNo": 6,
    "haftaSonu": true,
-   "saat": 2,
-   "dakika": 49,
+   "saat": 3,
+   "dakika": 5,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "10 Ekim 2026, Cumartesi"
   }
  },
- "banka": {
-  "nakit": 13986171.07,
-  "vadesiz": 573574.78,
-  "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
-  "vadeliler": [],
-  "krediler": [],
-  "kredi_notu": {
-   "puan": 1143,
-   "bant": "Az riskli",
-   "renk": "#E8C21A"
+ "ham": {
+  "ts": "2026-10-10 00:05:44",
+  "uclar": {
+   "sokak/degis": {
+    "hata": "Bulunamadı."
+   },
+   "sokak/sec": {
+    "hata": "Bulunamadı."
+   },
+   "gorunum/degis": {
+    "hata": "Bulunamadı."
+   },
+   "cadde/degis": {
+    "hata": "Bulunamadı."
+   },
+   "mahalle/degis": {
+    "hata": "Bulunamadı."
+   },
+   "ayarlar/sokak": {
+    "hata": "Bulunamadı."
+   }
   },
-  "ham_anahtarlar": [
-   "vadesiz",
-   "nakit",
-   "vadeliler",
-   "krediler",
-   "vadeler",
-   "krediTurleri",
-   "stopaj",
-   "tahsis",
-   "ekonomiGunuMs",
-   "karaListe",
-   "net",
-   "krediNotu",
-   "hesapNo",
-   "donuk",
-   "masak"
-  ]
- },
- "havale": {
-  "toplam": 6,
-  "gelenler": [
-   {
-    "id": 9,
-    "kim": "Karahan",
-    "tutar": 100000.0,
-    "aciklama": null,
-    "giden": false,
-    "ts": 1791073858552
+  "uclar_post": {
+   "sokak/degis {\"sokak\": 1}": {
+    "hata": "Bulunamadı."
    },
-   {
-    "id": 4,
-    "kim": "Karahan",
-    "tutar": 50000.0,
-    "aciklama": "stok yardımı",
-    "giden": false,
-    "ts": 1790933942070
+   "sokak/sec {\"sokak\": 1}": {
+    "hata": "Bulunamadı."
    },
-   {
-    "id": 3,
-    "kim": "Karahan",
-    "tutar": 22000.0,
-    "aciklama": null,
-    "giden": false,
-    "ts": 1790932089039
+   "sokak/degis {\"sokakNo\": 1}": {
+    "hata": "Bulunamadı."
    },
-   {
-    "id": 2,
-    "kim": "Karahan",
-    "tutar": 60000.0,
-    "aciklama": "Ortaklık Payı 😘",
-    "giden": false,
-    "ts": 1790930968873
+   "sokak/degis {\"no\": 1}": {
+    "hata": "Bulunamadı."
+   },
+   "cadde {\"sokak\": 1}": {
+    "hata": "Bulunamadı."
+   },
+   "cadde {\"sokakNo\": 1}": {
+    "hata": "Bulunamadı."
    }
-  ],
-  "son_hareketler": [
-   {
-    "id": 45,
-    "kim": "Karahan",
-    "tutar": 1000000.0,
-    "aciklama": "kâr payı",
-    "giden": true,
-    "ts": 1791500201842
-   },
-   {
-    "id": 38,
-    "kim": "Karahan",
-    "tutar": 1000000.0,
-    "aciklama": "Günlük kâr payı",
-    "giden": true,
-    "ts": 1791378780681
-   },
-   {
-    "id": 9,
-    "kim": "Karahan",
-    "tutar": 100000.0,
-    "aciklama": null,
-    "giden": false,
-    "ts": 1791073858552
-   },
-   {
-    "id": 4,
-    "kim": "Karahan",
-    "tutar": 50000.0,
-    "aciklama": "stok yardımı",
-    "giden": false,
-    "ts": 1790933942070
-   },
-   {
-    "id": 3,
-    "kim": "Karahan",
-    "tutar": 22000.0,
-    "aciklama": null,
-    "giden": false,
-    "ts": 1790932089039
-   },
-   {
-    "id": 2,
-    "kim": "Karahan",
-    "tutar": 60000.0,
-    "aciklama": "Ortaklık Payı 😘",
-    "giden": false,
-    "ts": 1790930968873
-   }
-  ],
-  "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
-  "engel": null,
-  "ham": {
-   "hesapNo": "TR06 0077 7098 0600 5694 4967 03",
-   "sinir": 100000000,
-   "bugun": 0,
-   "engel": null
   }
- },
- "mesaj-oku": {
-  "kisi": "Karahan",
-  "toplam": 25,
-  "gelen_adet": 3,
-  "son_gelen": {
-   "id": 577,
-   "benden": false,
-   "metin": "8. Seviye de hangi dükkanlar açılıyor yeni özellik falan açılıyor mu?",
-   "zaman": 1791211477700
-  },
-  "cevaplanan_id": 577,
-  "son_mesajlar": [
-   {
-    "id": 577,
-    "benden": false,
-    "metin": "8. Seviye de hangi dükkanlar açılıyor yeni özellik falan açılıyor mu?",
-    "zaman": 1791211477700
-   },
-   {
-    "id": 578,
-    "benden": true,
-    "metin": "🤖 Aldım patron! Botlar ayakta (17:45). Oyun içi mesaj beni uyandırmaz; iş/istek olursa sohbetten yaz, anında bakarım.",
-    "zaman": 1791211528743
-   },
-   {
-    "id": 579,
-    "benden": true,
-    "metin": "📊 17:45 durum: kasa 503.576₺ · keyif 99😄 ×1.08 · sv5 TP 388/400 · Şarküteri dün net 159.897₺ · kargo bugün 188.160₺ (688 müş) · botlar ✓",
-    "zaman": 1791211531885
-   },
-   {
-    "id": 580,
-    "benden": true,
-    "metin": "Hafta kapandı: ben #2 (ödül 60.000₺ geldi 💰), sen #2 olmuşsun (2560) — EzelBayraktar son anda geçmiş (3394)! 100k yerine 40k aldın ama 'ilçenin en zengini' sertifikası da geldi bana 😄 YENİ hafta başladı: bu kez #1'i beraber alalım!",
-    "zaman": 1791211683742
-   },
-   {
-    "id": 614,
-    "benden": true,
-    "metin": "0.56.0 güncellemesi: artık havale sadece IBAN ile yapılıyor (isimle arama kalktı). Sana para göndermem gerekirse lazım olur — banka hesabının IBAN'ını atar mısın? Benimki: TR06 0077 7098 0600 5694 4967 03",
-    "zaman": 1791219559481
-   },
-   {
-    "id": 688,
-    "benden": true,
-    "metin": "📊 22:14 durum: kasa 582.414₺ · keyif 94😄 ×1.08 · sv6 TP 433/700 · Şarküteri dün net 159.897₺ · kargo bugün 218.580₺ (802 müş) · botlar ✓",
-    "zaman": 1791227657724
-   },
-   {
-    "id": 1152,
-    "benden": true,
-    "metin": "Patron kargo + lastikçi açıldı! Kasa 12388856 TL. Sıradaki: Teknik servis = 206000 TL (0 TL daha lazım). IBAN: TR06 0077 7098 0600 5694 4967 03",
-    "zaman": 1791465130310
-   },
-   {
-    "id": 1153,
-    "benden": true,
-    "metin": "Patron, SV6 oldum! Yeni açılan dükkânlar: Emlakçı, Seyahat acentesi, Matbaa, Kebapçı",
-    "zaman": 1791465166652
-   },
-   {
-    "id": 1183,
-    "benden": true,
-    "metin": "Patron, SV7 oldum! Yeni açılan dükkânlar: Sigorta acentesi, Özel kurs, Yapı marketi, Güzellik salonu",
-    "zaman": 1791505492504
-   },
-   {
-    "id": 1240,
-    "benden": true,
-    "metin": "Patron, SV8 oldum! Yeni açılan dükkânlar: Mobilya, Optik, Spor salonu, Bar, Kreş",
-    "zaman": 1791551446859
-   }
-  ]
- },
- "oda": {
-  "odalar": [
-   {
-    "kod": "esnaf",
-    "ad": "Esnaf ve Sanatkârlar Odası",
-    "uye": true,
-    "aktif": true,
-    "egitimAlindi": true,
-    "aidat": 25000,
-    "borc": null,
-    "baskan": null,
-    "kasa": 875000,
-    "uyeler": null,
-    "tp": null
-   },
-   {
-    "kod": "ticaret",
-    "ad": "Ticaret Odası",
-    "uye": true,
-    "aktif": true,
-    "egitimAlindi": true,
-    "aidat": 150000,
-    "borc": null,
-    "baskan": null,
-    "kasa": 450000,
-    "uyeler": null,
-    "tp": null
-   },
-   {
-    "kod": "sanayi",
-    "ad": "Sanayi Odası",
-    "uye": false,
-    "aktif": false,
-    "egitimAlindi": false,
-    "aidat": 300000,
-    "borc": null,
-    "baskan": null,
-    "kasa": 0,
-    "uyeler": null,
-    "tp": null
-   }
-  ],
-  "egitim": [],
-  "uyelikler": [
-   "Esnaf ve Sanatkârlar Odası",
-   "Ticaret Odası"
-  ]
- },
- "seviye-bildir": {
-  "seviye": 8,
-  "tp": 1425,
-  "onceki": 8,
-  "yeni_mi": false
- },
- "dukkan-yonet": {
-  "toplam": 50,
-  "kasa_toplanan": 0,
-  "kasa_tl": 0.0,
-  "raf_doldurulan": 0,
-  "oto_acilan": 25,
-  "detay": [
-   {
-    "ad": "Araştırma Şarküter",
-    "id": 5522,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Keba",
-    "id": 43907,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Tele",
-    "id": 43911,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Bilg",
-    "id": 43923,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Spor",
-    "id": 43925,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Kuru",
-    "id": 43928,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Çiğ",
-    "id": 43932,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 İç g",
-    "id": 47822,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Yapı",
-    "id": 47824,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Halı",
-    "id": 47827,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Hırd",
-    "id": 47835,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Perd",
-    "id": 47836,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Temi",
-    "id": 47879,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Dond",
-    "id": 47891,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Mark",
-    "id": 47900,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Çant",
-    "id": 47902,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Zücc",
-    "id": 47905,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Döne",
-    "id": 47907,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Hamb",
-    "id": 47912,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Tavu",
-    "id": 47921,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Akta",
-    "id": 47927,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Kasa",
-    "id": 47929,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Fırı",
-    "id": 47932,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Balı",
-    "id": 47933,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Bebe",
-    "id": 47934,
-    "oto": "acik"
-   }
-  ],
-  "hatalar": [],
-  "debug": []
- },
- "dukkan-ac": {
-  "ilce": 2034,
-  "acilanlar": [],
-  "secenekler": [],
-  "denemeler": [
-   {
-    "no": 43,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
-    "no": 45,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
-    "no": 53,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
-    "no": 54,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
-    "no": 62,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
-    "no": 65,
-    "hata": "Böyle bir dükkân yeri yok."
-   },
-   {
-    "no": 72,
-    "hata": "Böyle bir dükkân yeri yok."
-   }
-  ],
-  "mevcut_turler": [
-   "aktar",
-   "balikci",
-   "bebek_magazasi",
-   "bilgisayarci",
-   "bisikletci",
-   "camasirhane",
-   "cantaci",
-   "cigkofte",
-   "cilingir",
-   "dondurmaci",
-   "donerci",
-   "elektrikci",
-   "emlakci",
-   "firin",
-   "fotografci",
-   "halici",
-   "hamburgerci",
-   "hirdavat",
-   "ic_giyim",
-   "kargo",
-   "kasap",
-   "kebapci",
-   "kuafor",
-   "kurs",
-   "kuruyemis",
-   "lastikci",
-   "market",
-   "matbaa",
-   "nakliyat",
-   "oto_servis",
-   "oto_yikama",
-   "otopark",
-   "perdeci",
-   "sarkuteri",
-   "seyahat_acentesi",
-   "sigorta_acentesi",
-   "spor_magazasi",
-   "tavukcu",
-   "teknik_servis",
-   "telefoncu",
-   "temizlik_magazasi",
-   "tesisatci",
-   "yapi_marketi",
-   "yedek_parca",
-   "zuccaciye"
-  ],
-  "atlanan": [
-   "firin",
-   "donerci",
-   "hamburgerci",
-   "market"
-  ],
-  "bakiye": 13986171.07,
-  "oyuncu_seviye": 8,
-  "sokak_degistirildi": 1,
-  "bos_parsel": 7,
-  "kalan_bakiye": 13986171.07
- },
- "bot": {
-  "olay": "kosu_bitti",
-  "tur": 95,
-  "kazanc": 79189.9,
-  "servis": 753,
-  "bahsis": 158,
-  "bakiye": 14054557.73,
-  "siparis_toplam": 27,
-  "siparis_basari": 27,
-  "gecen_dk": 15.0,
-  "bot_versiyon": "v2",
-  "ts": 1791590717557
  }
 }
