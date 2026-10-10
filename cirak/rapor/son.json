@@ -102,7 +102,7 @@
    "masak": null
   },
   "takvim": {
-   "ms": 1791607260997,
+   "ms": 1791607280495,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -118,7 +118,7 @@
   }
  },
  "ham": {
-  "ts": "2026-10-10 01:41:01",
+  "ts": "2026-10-10 01:41:20",
   "uclar": {
    "cadde?ilce=2034&sokak=0": {
     "yerler": [
@@ -1360,7 +1360,7 @@
     },
     "belediye": {
      "ilceId": 1723,
-     "kasa": 43217514,
+     "kasa": 28217514,
      "baskan": {
       "id": null,
       "ad": "Belediye Botu",
@@ -1486,7 +1486,10 @@
     "havaiFisekler": [],
     "kutlamalar": [],
     "arabam": null,
-    "calisma": null,
+    "calisma": {
+     "tur": "asfalt",
+     "bitis": 1791618069891
+    },
     "devlet": [
      {
       "tur": "kaymakamlik",
@@ -2782,7 +2785,7 @@
     },
     "belediye": {
      "ilceId": 1723,
-     "kasa": 43217514,
+     "kasa": 28217514,
      "baskan": {
       "id": null,
       "ad": "Belediye Botu",
@@ -2908,7 +2911,10 @@
     "havaiFisekler": [],
     "kutlamalar": [],
     "arabam": null,
-    "calisma": null,
+    "calisma": {
+     "tur": "asfalt",
+     "bitis": 1791618069891
+    },
     "devlet": [
      {
       "tur": "kaymakamlik",
