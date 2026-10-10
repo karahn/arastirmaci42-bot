@@ -1,6 +1,6 @@
 # Çırak raporu — cerez-kontrol
 
-**Zaman:** 2026-10-10 07:03:50 UTC
+**Zaman:** 2026-10-10 07:04:14 UTC
 
 ## Oyuncu
 
@@ -14,10 +14,8 @@
 
 # Çırak raporu — ham
 
-**Zaman:** 2026-10-10 07:03:45 UTC
+**Zaman:** 2026-10-10 07:04:05 UTC
 
 ## Uçlar
 
-- `kiralama/43?ilce=2034` → {"hata": "Böyle bir dükkân yeri yok."}
-- `kiralama/45?ilce=2034` → {"hata": "Böyle bir dükkân yeri yok."}
-- `kiralama/53?ilce=2034` → {"hata": "Böyle bir dükkân yeri yok."}
+- `cadde?ilce=2034&sokak=1` → {"yerler": [{"no": 43, "sira": 0, "sokak": 1, "boyut": "orta", "boyutAdi": "Orta", "m2": 90, "genislik": 11.2, "kat": 7, "tohum": 149509486, "kira": 3190000, "isletme": {"id": 52084, "tur": "ayakkabici", "turAdi": "Ayakkabıcı", "simge": "👟", "ad": "Çınar Ayakkabıcı", "durum": "acik", "saat": [10, 21…
