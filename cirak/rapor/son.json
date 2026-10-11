@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 10,
-  "tp": 2401,
-  "nakit_kurus": 5010338277,
+  "tp": 2410,
+  "nakit_kurus": 5011737612,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 5010338277,
+   "nakit": 5011737612,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2022200000,
+     "limit": 2024200000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 3370300000,
+     "limit": 3373700000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 2696300000,
+     "limit": 2698900000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 4044400000,
+     "limit": 4048400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791760186041,
+   "ms": 1791761157874,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 0,
    "haftaSonu": true,
    "saat": 23,
-   "dakika": 9,
+   "dakika": 25,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "11 Ekim 2026, Pazar"
   }
  },
  "banka": {
-  "nakit": 50103382.77,
+  "nakit": 50117376.12,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -297,7 +297,7 @@
  "mesaj-oku": {
   "kisi": "Karahan",
   "toplam": 25,
-  "gelen_adet": 4,
+  "gelen_adet": 3,
   "son_gelen": {
    "id": 1449,
    "benden": false,
@@ -311,12 +311,6 @@
   },
   "cevaplanan_id": 1449,
   "son_mesajlar": [
-   {
-    "id": 579,
-    "benden": true,
-    "metin": "📊 17:45 durum: kasa 503.576₺ · keyif 99😄 ×1.08 · sv5 TP 388/400 · Şarküteri dün net 159.897₺ · kargo bugün 188.160₺ (688 müş) · botlar ✓",
-    "zaman": 1791211531885
-   },
    {
     "id": 580,
     "benden": true,
@@ -370,6 +364,12 @@
     "benden": false,
     "metin": "Yeni açılan dükkanların hepsinden aç farklı sokaklara toplam hepsinden 2 şer tane olsun",
     "zaman": 1791656501127
+   },
+   {
+    "id": 1604,
+    "benden": true,
+    "metin": "Patron, SV10 oldum! Yeni açılan dükkânlar: Reklam ajansı, Kuyumcu, Oto galeri",
+    "zaman": 1791749387477
    }
   ]
  },
@@ -423,23 +423,15 @@
  },
  "seviye-bildir": {
   "seviye": 10,
-  "tp": 2401,
-  "onceki": 9,
-  "yeni_mi": true,
-  "mesaj": {
-   "tamam": true
-  },
-  "yeni_dukkanlar": [
-   "Reklam ajansı",
-   "Kuyumcu",
-   "Oto galeri"
-  ]
+  "tp": 2410,
+  "onceki": 10,
+  "yeni_mi": false
  },
  "dukkan-yonet": {
   "toplam": 50,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
-  "raf_doldurulan": 6,
+  "raf_doldurulan": 0,
   "oto_acilan": 25,
   "detay": [
    {
@@ -450,8 +442,7 @@
    {
     "ad": "arastirmaci42 Keba",
     "id": 43907,
-    "oto": "acik",
-    "raf": "1567/1700→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Tele",
@@ -476,8 +467,7 @@
    {
     "ad": "arastirmaci42 Çiğ",
     "id": 43932,
-    "oto": "acik",
-    "raf": "1318/1355→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 İç g",
@@ -512,14 +502,12 @@
    {
     "ad": "arastirmaci42 Dond",
     "id": 47891,
-    "oto": "acik",
-    "raf": "859/901→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Mark",
     "id": 47900,
-    "oto": "acik",
-    "raf": "33637/34370→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Çant",
@@ -534,14 +522,12 @@
    {
     "ad": "arastirmaci42 Döne",
     "id": 47907,
-    "oto": "acik",
-    "raf": "2584/2715→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Hamb",
     "id": 47912,
-    "oto": "acik",
-    "raf": "992/1060→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Tavu",
@@ -617,7 +603,7 @@
     "no": 65,
     "toplam": 212000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Bu senin 51. dükkânın: 8.480.000 ₺ ek açılış vergisi ödenecek. Tutarı onaylayıp yeniden dene."
     }
    },
    {
@@ -763,23 +749,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 50050806.77,
+  "bakiye": 50117376.12,
   "oyuncu_seviye": 10,
   "sokak_degistirildi": 1,
   "bos_parsel": 7,
-  "kalan_bakiye": 49210806.77
+  "kalan_bakiye": 49277376.12
  },
  "bot": {
   "olay": "kosu_bitti",
   "tur": 109,
-  "kazanc": 75625.4,
+  "kazanc": 85421.4,
   "servis": 872,
-  "bahsis": 192,
-  "bakiye": 50117376.12,
+  "bahsis": 190,
+  "bakiye": 50190452.52,
   "siparis_toplam": 25,
   "siparis_basari": 25,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791750333513
+  "ts": 1791751290458
  }
 }
