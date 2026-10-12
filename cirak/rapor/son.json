@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 10,
-  "tp": 2677,
-  "nakit_kurus": 4772237528,
+  "tp": 2679,
+  "nakit_kurus": 4811284215,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 4772237528,
+   "nakit": 4811284215,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 1962700000,
+     "limit": 1962800000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 3271100000,
+     "limit": 3271400000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 2616900000,
+     "limit": 2617100000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 3925400000,
+     "limit": 3925700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -135,7 +135,7 @@
    "karaListe": 0,
    "net": 57357478,
    "krediNotu": {
-    "puan": 1190,
+    "puan": 1191,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791795808745,
+   "ms": 1791796787944,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,20 +154,20 @@
    "haftaGunuNo": 1,
    "haftaSonu": false,
    "saat": 9,
-   "dakika": 3,
+   "dakika": 19,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "12 Ekim 2026, Pazartesi"
   }
  },
  "banka": {
-  "nakit": 47722375.28,
+  "nakit": 48112842.15,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1190,
+   "puan": 1191,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -423,48 +423,21 @@
  },
  "seviye-bildir": {
   "seviye": 10,
-  "tp": 2677,
+  "tp": 2679,
   "onceki": 10,
   "yeni_mi": false
  },
  "dukkan-yonet": {
   "toplam": 50,
-  "kasa_toplanan": 18,
-  "kasa_tl": 615979.5499999999,
-  "raf_doldurulan": 7,
+  "kasa_toplanan": 0,
+  "kasa_tl": 0.0,
+  "raf_doldurulan": 0,
   "oto_acilan": 25,
   "detay": [
    {
     "ad": "Araştırma Şarküter",
     "id": 5522,
-    "kasa": 44316.27,
-    "oto": "acik",
-    "raf": "714/813→full"
-   },
-   {
-    "ad": "Araştırma Çilingir",
-    "id": 8338,
-    "kasa": 4424.2
-   },
-   {
-    "ad": "Araştırma Elektrik",
-    "id": 8442,
-    "kasa": 21232.03
-   },
-   {
-    "ad": "Araştırma Otopark",
-    "id": 8815,
-    "kasa": 3510.6
-   },
-   {
-    "ad": "Araştırma Oto Yıka",
-    "id": 8858,
-    "kasa": 55161.3
-   },
-   {
-    "ad": "Araştırma Oto Serv",
-    "id": 9659,
-    "kasa": 102117.54
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Keba",
@@ -475,11 +448,6 @@
     "ad": "arastirmaci42 Tele",
     "id": 43911,
     "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Oto",
-    "id": 43914,
-    "kasa": 19072.6
    },
    {
     "ad": "arastirmaci42 Bilg",
@@ -502,11 +470,6 @@
     "oto": "acik"
    },
    {
-    "ad": "arastirmaci42 Nakl",
-    "id": 46012,
-    "kasa": 2635.56
-   },
-   {
     "ad": "arastirmaci42 İç g",
     "id": 47822,
     "oto": "acik"
@@ -524,9 +487,7 @@
    {
     "ad": "arastirmaci42 Hırd",
     "id": 47835,
-    "kasa": 41242.55,
-    "oto": "acik",
-    "raf": "588/641→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Perd",
@@ -539,36 +500,14 @@
     "oto": "acik"
    },
    {
-    "ad": "arastirmaci42 Çama",
-    "id": 47881,
-    "kasa": 1809.95
-   },
-   {
-    "ad": "arastirmaci42 Last",
-    "id": 47885,
-    "kasa": 45898.43
-   },
-   {
-    "ad": "arastirmaci42 Elek",
-    "id": 47889,
-    "kasa": 5485.2
-   },
-   {
     "ad": "arastirmaci42 Dond",
     "id": 47891,
     "oto": "acik"
    },
    {
-    "ad": "arastirmaci42 Su t",
-    "id": 47897,
-    "kasa": 11622.55
-   },
-   {
     "ad": "arastirmaci42 Mark",
     "id": 47900,
-    "kasa": 87703.19,
-    "oto": "acik",
-    "raf": "32384/34370→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Çant",
@@ -593,9 +532,7 @@
    {
     "ad": "arastirmaci42 Tavu",
     "id": 47921,
-    "kasa": 38052.72,
-    "oto": "acik",
-    "raf": "2375/2580→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Akta",
@@ -605,23 +542,17 @@
    {
     "ad": "arastirmaci42 Kasa",
     "id": 47929,
-    "kasa": 65166.58,
-    "oto": "acik",
-    "raf": "1196/1295→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Fırı",
     "id": 47932,
-    "kasa": 24026.46,
-    "oto": "acik",
-    "raf": "4954/6150→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Balı",
     "id": 47933,
-    "kasa": 42501.82,
-    "oto": "acik",
-    "raf": "1493/1615→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Bebe",
@@ -680,7 +611,7 @@
     "no": 73,
     "toplam": 106000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Bu senin 51. dükkânın: 4.240.000 ₺ ek açılış vergisi ödenecek. Tutarı onaylayıp yeniden dene."
     }
    },
    {
@@ -693,7 +624,7 @@
    },
    {
     "tur": "bakkal",
-    "no": 78,
+    "no": 80,
     "toplam": 106000.0,
     "sonuc": {
      "hata": "Bu dükkân az önce başkası tarafından kiralandı."
@@ -772,7 +703,7 @@
     "kira": 8000.0
    },
    {
-    "no": 78,
+    "no": 80,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
@@ -836,23 +767,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 48106612.03,
+  "bakiye": 48112842.15,
   "oyuncu_seviye": 10,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 47262612.03
+  "kalan_bakiye": 47268842.15
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 112,
-  "kazanc": 5775.1,
-  "servis": 896,
-  "bahsis": 179,
-  "bakiye": 48112842.15,
+  "tur": 106,
+  "kazanc": 55278.9,
+  "servis": 848,
+  "bahsis": 168,
+  "bakiye": 48159121.25,
   "siparis_toplam": 24,
   "siparis_basari": 24,
   "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791785963586
+  "ts": 1791786917765
  }
 }
