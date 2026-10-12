@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 10,
-  "tp": 2495,
-  "nakit_kurus": 4689930109,
+  "tp": 2507,
+  "nakit_kurus": 4694582106,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 4689930109,
+   "nakit": 4694582106,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 1927600000,
+     "limit": 1929000000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 3212800000,
+     "limit": 3215100000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 2570200000,
+     "limit": 2572100000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 3855300000,
+     "limit": 3858100000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791772749318,
+   "ms": 1791773712169,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 1,
    "haftaSonu": false,
    "saat": 2,
-   "dakika": 39,
+   "dakika": 55,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "12 Ekim 2026, Pazartesi"
   }
  },
  "banka": {
-  "nakit": 46899301.09,
+  "nakit": 46945821.06,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -423,7 +423,7 @@
  },
  "seviye-bildir": {
   "seviye": 10,
-  "tp": 2495,
+  "tp": 2507,
   "onceki": 10,
   "yeni_mi": false
  },
@@ -587,7 +587,7 @@
     "no": 61,
     "toplam": 212000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Bu senin 51. dükkânın: 8.480.000 ₺ ek açılış vergisi ödenecek. Tutarı onaylayıp yeniden dene."
     }
    },
    {
@@ -767,23 +767,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 46899301.09,
+  "bakiye": 46945821.06,
   "oyuncu_seviye": 10,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 45898301.09
+  "kalan_bakiye": 45944821.06
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 91,
-  "kazanc": 55467.9,
-  "servis": 728,
-  "bahsis": 146,
-  "bakiye": 46945821.06,
+  "tur": 108,
+  "kazanc": 6423.3,
+  "servis": 864,
+  "bahsis": 179,
+  "bakiye": 46952244.37,
   "siparis_toplam": 24,
   "siparis_basari": 24,
-  "gecen_dk": 15.1,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791762886224
+  "ts": 1791763840803
  }
 }
