@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 11,
   "tp": 3676,
-  "nakit_kurus": 6894374698,
+  "nakit_kurus": 6894540002,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 6894374698,
+   "nakit": 6894540002,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2583600000,
+     "limit": 2583700000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 4306100000,
+     "limit": 4306200000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 5167300000,
+     "limit": 5167400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791912553708,
+   "ms": 1791913533229,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 17,
-   "dakika": 29,
+   "dakika": 45,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "13 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 68943746.98,
+  "nakit": 68945400.02,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -749,23 +749,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 68943746.98,
+  "bakiye": 68945400.02,
   "oyuncu_seviye": 11,
   "sokak_degistirildi": 1,
   "bos_parsel": 7,
-  "kalan_bakiye": 68315746.98
+  "kalan_bakiye": 68317400.02
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 38,
-  "kazanc": 1653.0,
-  "servis": 304,
-  "bahsis": 54,
-  "bakiye": 68945400.02,
-  "siparis_toplam": 20,
-  "siparis_basari": 2,
-  "gecen_dk": 15.1,
+  "tur": 105,
+  "kazanc": 60622.6,
+  "servis": 835,
+  "bahsis": 165,
+  "bakiye": 68959031.8,
+  "siparis_toplam": 24,
+  "siparis_basari": 24,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791902705258
+  "ts": 1791903662486
  }
 }
