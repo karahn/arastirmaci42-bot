@@ -2,9 +2,9 @@
  "cerez-kontrol": {
   "tamam": true,
   "oyuncu": "arastirmaci42",
-  "seviye": 10,
-  "tp": 3294,
-  "nakit_kurus": 6045488666,
+  "seviye": 11,
+  "tp": 3305,
+  "nakit_kurus": 6051480568,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 6045488666,
+   "nakit": 6051480568,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2333400000,
+     "limit": 2335200000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 3889000000,
+     "limit": 3892000000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 3111200000,
+     "limit": 3113600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 4666800000,
+     "limit": 4670400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -135,7 +135,7 @@
    "karaListe": 0,
    "net": 57357478,
    "krediNotu": {
-    "puan": 1250,
+    "puan": 1254,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791867787687,
+   "ms": 1791868774476,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,20 +154,20 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 5,
-   "dakika": 3,
+   "dakika": 19,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "13 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 60454886.66,
+  "nakit": 60514805.68,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1250,
+   "puan": 1254,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -422,10 +422,18 @@
   ]
  },
  "seviye-bildir": {
-  "seviye": 10,
-  "tp": 3294,
+  "seviye": 11,
+  "tp": 3305,
   "onceki": 10,
-  "yeni_mi": false
+  "yeni_mi": true,
+  "mesaj": {
+   "tamam": true
+  },
+  "yeni_dukkanlar": [
+   "Hukuk bürosu",
+   "Disko",
+   "Diş kliniği"
+  ]
  },
  "dukkan-yonet": {
   "toplam": 50,
@@ -571,7 +579,7 @@
     "no": 61,
     "toplam": 212000.0,
     "sonuc": {
-     "hata": "Bu senin 51. dükkânın: 8.480.000 ₺ ek açılış vergisi ödenecek. Tutarı onaylayıp yeniden dene."
+     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
     }
    },
    {
@@ -749,23 +757,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 60454886.66,
-  "oyuncu_seviye": 10,
+  "bakiye": 60514805.68,
+  "oyuncu_seviye": 11,
   "sokak_degistirildi": 1,
   "bos_parsel": 7,
-  "kalan_bakiye": 59720886.66
+  "kalan_bakiye": 59780805.68
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 56,
-  "kazanc": 67537.1,
-  "servis": 443,
-  "bahsis": 99,
-  "bakiye": 60514805.68,
-  "siparis_toplam": 25,
-  "siparis_basari": 1,
-  "gecen_dk": 15.1,
+  "tur": 88,
+  "kazanc": 4996.7,
+  "servis": 704,
+  "bahsis": 162,
+  "bakiye": 60519802.39,
+  "siparis_toplam": 24,
+  "siparis_basari": 23,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791857947911
+  "ts": 1791858911906
  }
 }
