@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 11,
-  "tp": 3422,
-  "nakit_kurus": 6142228768,
+  "tp": 3434,
+  "nakit_kurus": 6143714687,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 6142228768,
+   "nakit": 6143714687,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2360900000,
+     "limit": 2381400000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 3934800000,
+     "limit": 3969000000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 3147800000,
+     "limit": 3175200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 4721800000,
+     "limit": 4762800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791884858421,
+   "ms": 1791885814345,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -153,15 +153,15 @@
    "haftaGunu": "Salı",
    "haftaGunuNo": 2,
    "haftaSonu": false,
-   "saat": 9,
-   "dakika": 47,
+   "saat": 10,
+   "dakika": 3,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "13 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 61422287.68,
+  "nakit": 61437146.87,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -423,21 +423,58 @@
  },
  "seviye-bildir": {
   "seviye": 11,
-  "tp": 3422,
+  "tp": 3434,
   "onceki": 11,
   "yeni_mi": false
  },
  "dukkan-yonet": {
   "toplam": 50,
-  "kasa_toplanan": 0,
-  "kasa_tl": 0.0,
-  "raf_doldurulan": 0,
+  "kasa_toplanan": 36,
+  "kasa_tl": 967136.7600000002,
+  "raf_doldurulan": 13,
   "oto_acilan": 25,
   "detay": [
    {
     "ad": "Araştırma Şarküter",
     "id": 5522,
-    "oto": "acik"
+    "kasa": 40929.77,
+    "oto": "acik",
+    "raf": "735/813→full"
+   },
+   {
+    "ad": "Araştırma Kargo",
+    "id": 7820,
+    "kasa": 28992.38
+   },
+   {
+    "ad": "Araştırma Çilingir",
+    "id": 8338,
+    "kasa": 4242.45
+   },
+   {
+    "ad": "Araştırma Elektrik",
+    "id": 8442,
+    "kasa": 13053.02
+   },
+   {
+    "ad": "Araştırma Otopark",
+    "id": 8815,
+    "kasa": 4712.74
+   },
+   {
+    "ad": "Araştırma Oto Yıka",
+    "id": 8858,
+    "kasa": 36096.81
+   },
+   {
+    "ad": "Araştırma Oto Serv",
+    "id": 9659,
+    "kasa": 86059.03
+   },
+   {
+    "ad": "Araştırma Emlak",
+    "id": 31939,
+    "kasa": 50066.17
    },
    {
     "ad": "arastirmaci42 Keba",
@@ -450,6 +487,16 @@
     "oto": "acik"
    },
    {
+    "ad": "arastirmaci42 Oto",
+    "id": 43914,
+    "kasa": 21999.4
+   },
+   {
+    "ad": "arastirmaci42 Tekn",
+    "id": 43917,
+    "kasa": 24210.02
+   },
+   {
     "ad": "arastirmaci42 Bilg",
     "id": 43923,
     "oto": "acik"
@@ -460,14 +507,31 @@
     "oto": "acik"
    },
    {
+    "ad": "arastirmaci42 Bisi",
+    "id": 43927,
+    "kasa": 86580.03
+   },
+   {
     "ad": "arastirmaci42 Kuru",
     "id": 43928,
-    "oto": "acik"
+    "kasa": 21010.08,
+    "oto": "acik",
+    "raf": "761/808→full"
    },
    {
     "ad": "arastirmaci42 Çiğ",
     "id": 43932,
     "oto": "acik"
+   },
+   {
+    "ad": "arastirmaci42 Emla",
+    "id": 46006,
+    "kasa": 38009.68
+   },
+   {
+    "ad": "arastirmaci42 Nakl",
+    "id": 46012,
+    "kasa": 32190.2
    },
    {
     "ad": "arastirmaci42 İç g",
@@ -477,7 +541,9 @@
    {
     "ad": "arastirmaci42 Yapı",
     "id": 47824,
-    "oto": "acik"
+    "kasa": 55562.89,
+    "oto": "acik",
+    "raf": "1470/1545→full"
    },
    {
     "ad": "arastirmaci42 Halı",
@@ -485,9 +551,21 @@
     "oto": "acik"
    },
    {
+    "ad": "arastirmaci42 Kuaf",
+    "id": 47830,
+    "kasa": 12154.08
+   },
+   {
+    "ad": "arastirmaci42 Özel",
+    "id": 47833,
+    "kasa": 9236.56
+   },
+   {
     "ad": "arastirmaci42 Hırd",
     "id": 47835,
-    "oto": "acik"
+    "kasa": 25723.18,
+    "oto": "acik",
+    "raf": "602/641→full"
    },
    {
     "ad": "arastirmaci42 Perd",
@@ -495,9 +573,36 @@
     "oto": "acik"
    },
    {
+    "ad": "arastirmaci42 Matb",
+    "id": 47876,
+    "kasa": 18914.84
+   },
+   {
     "ad": "arastirmaci42 Temi",
     "id": 47879,
-    "oto": "acik"
+    "kasa": 7282.31,
+    "oto": "acik",
+    "raf": "833/910→full"
+   },
+   {
+    "ad": "arastirmaci42 Çama",
+    "id": 47881,
+    "kasa": 1323.73
+   },
+   {
+    "ad": "arastirmaci42 Seya",
+    "id": 47882,
+    "kasa": 13785.43
+   },
+   {
+    "ad": "arastirmaci42 Last",
+    "id": 47885,
+    "kasa": 29779.08
+   },
+   {
+    "ad": "arastirmaci42 Elek",
+    "id": 47889,
+    "kasa": 4801.42
    },
    {
     "ad": "arastirmaci42 Dond",
@@ -505,9 +610,16 @@
     "oto": "acik"
    },
    {
+    "ad": "arastirmaci42 Su t",
+    "id": 47897,
+    "kasa": 16975.3
+   },
+   {
     "ad": "arastirmaci42 Mark",
     "id": 47900,
-    "oto": "acik"
+    "kasa": 59761.77,
+    "oto": "acik",
+    "raf": "32941/34370→full"
    },
    {
     "ad": "arastirmaci42 Çant",
@@ -517,7 +629,9 @@
    {
     "ad": "arastirmaci42 Zücc",
     "id": 47905,
-    "oto": "acik"
+    "kasa": 19830.21,
+    "oto": "acik",
+    "raf": "295/326→full"
    },
    {
     "ad": "arastirmaci42 Döne",
@@ -530,34 +644,61 @@
     "oto": "acik"
    },
    {
+    "ad": "arastirmaci Emlak",
+    "id": 47919,
+    "kasa": 1154.68
+   },
+   {
     "ad": "arastirmaci42 Tavu",
     "id": 47921,
-    "oto": "acik"
+    "kasa": 31113.84,
+    "oto": "acik",
+    "raf": "2412/2580→full"
+   },
+   {
+    "ad": "arastirmaci42 Sigo",
+    "id": 47923,
+    "kasa": 11773.58
+   },
+   {
+    "ad": "arastirmaci42 Karg",
+    "id": 47924,
+    "kasa": 34692.64
    },
    {
     "ad": "arastirmaci42 Akta",
     "id": 47927,
-    "oto": "acik"
+    "kasa": 3979.59,
+    "oto": "acik",
+    "raf": "501/544→full"
    },
    {
     "ad": "arastirmaci42 Kasa",
     "id": 47929,
-    "oto": "acik"
+    "kasa": 47731.16,
+    "oto": "acik",
+    "raf": "1221/1295→full"
    },
    {
     "ad": "arastirmaci42 Fırı",
     "id": 47932,
-    "oto": "acik"
+    "kasa": 17348.15,
+    "oto": "acik",
+    "raf": "5288/6150→full"
    },
    {
     "ad": "arastirmaci42 Balı",
     "id": 47933,
-    "oto": "acik"
+    "kasa": 33167.79,
+    "oto": "acik",
+    "raf": "1525/1615→full"
    },
    {
     "ad": "arastirmaci42 Bebe",
     "id": 47934,
-    "oto": "acik"
+    "kasa": 22892.75,
+    "oto": "acik",
+    "raf": "456/492→full"
    }
   ],
   "hatalar": [],
@@ -767,23 +908,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 61422287.68,
+  "bakiye": 62150454.83,
   "oyuncu_seviye": 11,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 60421287.68
+  "kalan_bakiye": 61149454.83
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 107,
-  "kazanc": 68774.9,
-  "servis": 856,
-  "bahsis": 155,
-  "bakiye": 61437146.87,
-  "siparis_toplam": 24,
-  "siparis_basari": 24,
-  "gecen_dk": 15.0,
+  "tur": 89,
+  "kazanc": 65943.2,
+  "servis": 712,
+  "bahsis": 142,
+  "bakiye": 62207637.24,
+  "siparis_toplam": 30,
+  "siparis_basari": 30,
+  "gecen_dk": 15.2,
   "bot_versiyon": "v2",
-  "ts": 1791874987801
+  "ts": 1791876018552
  }
 }
