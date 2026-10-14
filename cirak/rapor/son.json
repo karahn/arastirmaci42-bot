@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 11,
-  "tp": 4051,
-  "nakit_kurus": 7373975470,
+  "tp": 4063,
+  "nakit_kurus": 7379165046,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 7373975470,
+   "nakit": 7379165046,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 1711400000,
+     "limit": 1713000000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 2852400000,
+     "limit": 2855100000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 2281900000,
+     "limit": 2284000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 3422800000,
+     "limit": 3426100000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791961664551,
+   "ms": 1791962624851,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 7,
-   "dakika": 7,
+   "dakika": 23,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "14 Ekim 2026, Çarşamba"
   }
  },
  "banka": {
-  "nakit": 73739754.7,
+  "nakit": 73791650.46,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -423,7 +423,7 @@
  },
  "seviye-bildir": {
   "seviye": 11,
-  "tp": 4051,
+  "tp": 4063,
   "onceki": 11,
   "yeni_mi": false
  },
@@ -431,7 +431,7 @@
   "toplam": 50,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
-  "raf_doldurulan": 1,
+  "raf_doldurulan": 0,
   "oto_acilan": 25,
   "detay": [
    {
@@ -547,8 +547,7 @@
    {
     "ad": "arastirmaci42 Fırı",
     "id": 47932,
-    "oto": "acik",
-    "raf": "5936/6150→full"
+    "oto": "acik"
    },
    {
     "ad": "arastirmaci42 Balı",
@@ -768,23 +767,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 73737533.5,
+  "bakiye": 73791650.46,
   "oyuncu_seviye": 11,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 72897533.5
+  "kalan_bakiye": 72951650.46
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 101,
-  "kazanc": 63133.0,
-  "servis": 794,
-  "bahsis": 157,
-  "bakiye": 73791650.46,
-  "siparis_toplam": 28,
-  "siparis_basari": 28,
-  "gecen_dk": 15.0,
+  "tur": 83,
+  "kazanc": 4259.8,
+  "servis": 664,
+  "bahsis": 127,
+  "bakiye": 73795910.22,
+  "siparis_toplam": 24,
+  "siparis_basari": 23,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791951796852
+  "ts": 1791952773452
  }
 }
