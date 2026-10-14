@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 11,
-  "tp": 4125,
-  "nakit_kurus": 7443966114,
+  "tp": 4138,
+  "nakit_kurus": 7448687698,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 7443966114,
+   "nakit": 7448687698,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 1731100000,
+     "limit": 1732500000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 2885200000,
+     "limit": 2887500000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 2308100000,
+     "limit": 2310000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 3462200000,
+     "limit": 3465000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791970367110,
+   "ms": 1791971350873,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 9,
-   "dakika": 32,
+   "dakika": 49,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "14 Ekim 2026, Çarşamba"
   }
  },
  "banka": {
-  "nakit": 74439661.14,
+  "nakit": 74486876.98,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -423,7 +423,7 @@
  },
  "seviye-bildir": {
   "seviye": 11,
-  "tp": 4125,
+  "tp": 4138,
   "onceki": 11,
   "yeni_mi": false
  },
@@ -576,6 +576,14 @@
    },
    {
     "tur": "bakkal",
+    "no": 62,
+    "toplam": 51000.0,
+    "sonuc": {
+     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+    }
+   },
+   {
+    "tur": "bakkal",
     "no": 64,
     "toplam": 212000.0,
     "sonuc": {
@@ -608,24 +616,16 @@
    },
    {
     "tur": "bakkal",
-    "no": 71,
+    "no": 72,
     "toplam": 51000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Bu senin 51. dükkânın: 2.040.000 ₺ ek açılış vergisi ödenecek. Tutarı onaylayıp yeniden dene."
     }
    },
    {
     "tur": "bakkal",
     "no": 73,
     "toplam": 106000.0,
-    "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
-    }
-   },
-   {
-    "tur": "bakkal",
-    "no": 74,
-    "toplam": 51000.0,
     "sonuc": {
      "hata": "Bu dükkân az önce başkası tarafından kiralandı."
     }
@@ -641,6 +641,16 @@
     "toplam": 106000.0,
     "kurulum": 60000.0,
     "kira": 18000.0
+   },
+   {
+    "no": 62,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 51000.0,
+    "kurulum": 30000.0,
+    "kira": 8000.0
    },
    {
     "no": 64,
@@ -683,7 +693,7 @@
     "kira": 8000.0
    },
    {
-    "no": 71,
+    "no": 72,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
@@ -701,16 +711,6 @@
     "toplam": 106000.0,
     "kurulum": 60000.0,
     "kira": 18000.0
-   },
-   {
-    "no": 74,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 51000.0,
-    "kurulum": 30000.0,
-    "kira": 8000.0
    }
   ],
   "denemeler": [],
@@ -767,23 +767,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 74439661.14,
+  "bakiye": 74486876.98,
   "oyuncu_seviye": 11,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 73544661.14
+  "kalan_bakiye": 73591876.98
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 70,
-  "kazanc": 55330.5,
-  "servis": 560,
-  "bahsis": 113,
-  "bakiye": 74486876.98,
-  "siparis_toplam": 23,
-  "siparis_basari": 12,
-  "gecen_dk": 15.2,
+  "tur": 86,
+  "kazanc": 4820.2,
+  "servis": 688,
+  "bahsis": 141,
+  "bakiye": 75346317.38,
+  "siparis_toplam": 24,
+  "siparis_basari": 24,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791960523820
+  "ts": 1791961491015
  }
 }
