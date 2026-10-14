@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 11,
-  "tp": 3935,
-  "nakit_kurus": 7326323645,
+  "tp": 3947,
+  "nakit_kurus": 7331430052,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 7326323645,
+   "nakit": 7331430052,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2714100000,
+     "limit": 2715600000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 4523500000,
+     "limit": 4526100000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 3618800000,
+     "limit": 3620900000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 5428300000,
+     "limit": 5431300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1791945184733,
+   "ms": 1791946143352,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 2,
-   "dakika": 33,
+   "dakika": 49,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "14 Ekim 2026, Çarşamba"
   }
  },
  "banka": {
-  "nakit": 73263236.45,
+  "nakit": 73314300.52,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -423,7 +423,7 @@
  },
  "seviye-bildir": {
   "seviye": 11,
-  "tp": 3935,
+  "tp": 3947,
   "onceki": 11,
   "yeni_mi": false
  },
@@ -568,18 +568,18 @@
   "acilanlar": [
    {
     "tur": "bakkal",
-    "no": 61,
-    "toplam": 212000.0,
+    "no": 62,
+    "toplam": 51000.0,
     "sonuc": {
      "hata": "Bu dükkân az önce başkası tarafından kiralandı."
     }
    },
    {
     "tur": "bakkal",
-    "no": 62,
-    "toplam": 51000.0,
+    "no": 64,
+    "toplam": 212000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Bu senin 51. dükkânın: 8.480.000 ₺ ek açılış vergisi ödenecek. Tutarı onaylayıp yeniden dene."
     }
    },
    {
@@ -608,8 +608,8 @@
    },
    {
     "tur": "bakkal",
-    "no": 74,
-    "toplam": 51000.0,
+    "no": 73,
+    "toplam": 106000.0,
     "sonuc": {
      "hata": "Bu dükkân az önce başkası tarafından kiralandı."
     }
@@ -633,16 +633,6 @@
   ],
   "secenekler": [
    {
-    "no": 61,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 212000.0,
-    "kurulum": 120000.0,
-    "kira": 36000.0
-   },
-   {
     "no": 62,
     "tur": "bakkal",
     "ad": "Bakkal",
@@ -651,6 +641,16 @@
     "toplam": 51000.0,
     "kurulum": 30000.0,
     "kira": 8000.0
+   },
+   {
+    "no": 64,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 212000.0,
+    "kurulum": 120000.0,
+    "kira": 36000.0
    },
    {
     "no": 66,
@@ -683,14 +683,14 @@
     "kira": 8000.0
    },
    {
-    "no": 74,
+    "no": 73,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
     "kilitli": false,
-    "toplam": 51000.0,
-    "kurulum": 30000.0,
-    "kira": 8000.0
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
    },
    {
     "no": 75,
@@ -767,23 +767,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 73263236.45,
+  "bakiye": 73314300.52,
   "oyuncu_seviye": 11,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 72529236.45
+  "kalan_bakiye": 72525300.52
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 106,
-  "kazanc": 60307.8,
-  "servis": 844,
-  "bahsis": 167,
-  "bakiye": 73314300.52,
+  "tur": 84,
+  "kazanc": 4794.7,
+  "servis": 672,
+  "bahsis": 131,
+  "bakiye": 73319095.19,
   "siparis_toplam": 24,
   "siparis_basari": 24,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1791935317874
+  "ts": 1791936283946
  }
 }
