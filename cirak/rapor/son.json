@@ -2,9 +2,9 @@
  "cerez-kontrol": {
   "tamam": true,
   "oyuncu": "arastirmaci42",
-  "seviye": 11,
-  "tp": 4397,
-  "nakit_kurus": 8292866317,
+  "seviye": 12,
+  "tp": 4412,
+  "nakit_kurus": 8295776550,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 8292866317,
+   "nakit": 8295776550,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 1985400000,
+     "limit": 1986300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 3309100000,
+     "limit": 3310500000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 2647300000,
+     "limit": 2648400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 3970900000,
+     "limit": 3972700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -135,7 +135,7 @@
    "karaListe": 0,
    "net": 57357478,
    "krediNotu": {
-    "puan": 1290,
+    "puan": 1294,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792001870761,
+   "ms": 1792002842277,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,20 +154,20 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 18,
-   "dakika": 17,
+   "dakika": 34,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "14 Ekim 2026, Çarşamba"
   }
  },
  "banka": {
-  "nakit": 82928663.17,
+  "nakit": 82957765.5,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1290,
+   "puan": 1294,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -422,10 +422,18 @@
   ]
  },
  "seviye-bildir": {
-  "seviye": 11,
-  "tp": 4397,
+  "seviye": 12,
+  "tp": 4412,
   "onceki": 11,
-  "yeni_mi": false
+  "yeni_mi": true,
+  "mesaj": {
+   "tamam": true
+  },
+  "yeni_dukkanlar": [
+   "Gümrük müşaviri",
+   "Eczane",
+   "Düğün salonu"
+  ]
  },
  "dukkan-yonet": {
   "toplam": 50,
@@ -767,23 +775,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 82928663.17,
-  "oyuncu_seviye": 11,
+  "bakiye": 82957765.5,
+  "oyuncu_seviye": 12,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 82139663.17
+  "kalan_bakiye": 82168765.5
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 81,
-  "kazanc": 34259.2,
-  "servis": 644,
-  "bahsis": 131,
-  "bakiye": 82957765.5,
+  "tur": 79,
+  "kazanc": 3266.2,
+  "servis": 632,
+  "bahsis": 130,
+  "bakiye": 82962061.71,
   "siparis_toplam": 24,
-  "siparis_basari": 24,
-  "gecen_dk": 15.1,
+  "siparis_basari": 23,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1791992015434
+  "ts": 1791992982526
  }
 }
