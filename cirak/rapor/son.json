@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 12,
-  "tp": 4412,
-  "nakit_kurus": 8295776550,
+  "tp": 4415,
+  "nakit_kurus": 8296206171,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 8295776550,
+   "nakit": 8296206171,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 1986300000,
+     "limit": 1986400000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 3310500000,
+     "limit": 3310800000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 2648400000,
+     "limit": 2648600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 3972700000,
+     "limit": 3972900000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -135,7 +135,7 @@
    "karaListe": 0,
    "net": 57357478,
    "krediNotu": {
-    "puan": 1294,
+    "puan": 1295,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792002842277,
+   "ms": 1792003812035,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,20 +154,20 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 18,
-   "dakika": 34,
+   "dakika": 50,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "14 Ekim 2026, Çarşamba"
   }
  },
  "banka": {
-  "nakit": 82957765.5,
+  "nakit": 82962061.71,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1294,
+   "puan": 1295,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -312,12 +312,6 @@
   "cevaplanan_id": 1449,
   "son_mesajlar": [
    {
-    "id": 614,
-    "benden": true,
-    "metin": "0.56.0 güncellemesi: artık havale sadece IBAN ile yapılıyor (isimle arama kalktı). Sana para göndermem gerekirse lazım olur — banka hesabının IBAN'ını atar mısın? Benimki: TR06 0077 7098 0600 5694 4967 03",
-    "zaman": 1791219559481
-   },
-   {
     "id": 688,
     "benden": true,
     "metin": "📊 22:14 durum: kasa 582.414₺ · keyif 94😄 ×1.08 · sv6 TP 433/700 · Şarküteri dün net 159.897₺ · kargo bugün 218.580₺ (802 müş) · botlar ✓",
@@ -370,6 +364,12 @@
     "benden": true,
     "metin": "Patron, SV11 oldum! Yeni açılan dükkânlar: Hukuk bürosu, Disko, Diş kliniği",
     "zaman": 1791857976447
+   },
+   {
+    "id": 2705,
+    "benden": true,
+    "metin": "Patron, SV12 oldum! Yeni açılan dükkânlar: Gümrük müşaviri, Eczane, Düğün salonu",
+    "zaman": 1791992044462
    }
   ]
  },
@@ -423,17 +423,9 @@
  },
  "seviye-bildir": {
   "seviye": 12,
-  "tp": 4412,
-  "onceki": 11,
-  "yeni_mi": true,
-  "mesaj": {
-   "tamam": true
-  },
-  "yeni_dukkanlar": [
-   "Gümrük müşaviri",
-   "Eczane",
-   "Düğün salonu"
-  ]
+  "tp": 4415,
+  "onceki": 12,
+  "yeni_mi": false
  },
  "dukkan-yonet": {
   "toplam": 50,
@@ -775,23 +767,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 82957765.5,
+  "bakiye": 82962061.71,
   "oyuncu_seviye": 12,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 82168765.5
+  "kalan_bakiye": 82173061.71
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 79,
-  "kazanc": 3266.2,
-  "servis": 632,
-  "bahsis": 130,
-  "bakiye": 82962061.71,
-  "siparis_toplam": 24,
-  "siparis_basari": 23,
-  "gecen_dk": 15.0,
+  "tur": 54,
+  "kazanc": 36888.5,
+  "servis": 432,
+  "bahsis": 78,
+  "bakiye": 85175038.01,
+  "siparis_toplam": 19,
+  "siparis_basari": 14,
+  "gecen_dk": 15.3,
   "bot_versiyon": "v2",
-  "ts": 1791992982526
+  "ts": 1791993967921
  }
 }
