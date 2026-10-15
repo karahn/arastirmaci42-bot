@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 12,
-  "tp": 5415,
-  "nakit_kurus": 9800631485,
+  "tp": 5416,
+  "nakit_kurus": 9801005955,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 9800631485,
+   "nakit": 9801005955,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2439800000,
+     "limit": 2439900000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 4066400000,
+     "limit": 4066600000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 3253100000,
+     "limit": 3253300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 4879700000,
+     "limit": 4879900000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -135,7 +135,7 @@
    "karaListe": 0,
    "net": 57357478,
    "krediNotu": {
-    "puan": 1303,
+    "puan": 1305,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792111161815,
+   "ms": 1792112139782,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,20 +154,20 @@
    "haftaGunuNo": 5,
    "haftaSonu": false,
    "saat": 0,
-   "dakika": 39,
+   "dakika": 55,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "16 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 98006314.85,
+  "nakit": 98010059.55,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1304,
+   "puan": 1305,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -428,7 +428,7 @@
  },
  "seviye-bildir": {
   "seviye": 12,
-  "tp": 5415,
+  "tp": 5416,
   "onceki": 12,
   "yeni_mi": false
  },
@@ -592,7 +592,15 @@
     "no": 65,
     "toplam": 212000.0,
     "sonuc": {
-     "hata": "Bu senin 51. dükkânın: 8.480.000 ₺ ek açılış vergisi ödenecek. Tutarı onaylayıp yeniden dene."
+     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 66,
+    "toplam": 106000.0,
+    "sonuc": {
+     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
     }
    },
    {
@@ -622,14 +630,6 @@
    {
     "tur": "bakkal",
     "no": 78,
-    "toplam": 106000.0,
-    "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
-    }
-   },
-   {
-    "tur": "bakkal",
-    "no": 80,
     "toplam": 106000.0,
     "sonuc": {
      "hata": "Bu dükkân az önce başkası tarafından kiralandı."
@@ -668,6 +668,16 @@
     "kira": 36000.0
    },
    {
+    "no": 66,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
+   },
+   {
     "no": 68,
     "tur": "bakkal",
     "ad": "Bakkal",
@@ -699,16 +709,6 @@
    },
    {
     "no": 78,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 106000.0,
-    "kurulum": 60000.0,
-    "kira": 18000.0
-   },
-   {
-    "no": 80,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
@@ -772,23 +772,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 98006314.85,
+  "bakiye": 98010059.55,
   "oyuncu_seviye": 12,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 96844314.85
+  "kalan_bakiye": 96848059.55
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 76,
-  "kazanc": 3764.7,
-  "servis": 608,
-  "bahsis": 124,
-  "bakiye": 98010059.55,
-  "siparis_toplam": 24,
-  "siparis_basari": 20,
-  "gecen_dk": 15.0,
+  "tur": 80,
+  "kazanc": 64580.3,
+  "servis": 632,
+  "bahsis": 116,
+  "bakiye": 98065882.61,
+  "siparis_toplam": 32,
+  "siparis_basari": 32,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792101312465
+  "ts": 1792102281899
  }
 }
