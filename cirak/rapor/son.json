@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 12,
   "tp": 4717,
-  "nakit_kurus": 8583070781,
+  "nakit_kurus": 8583438636,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 8583070781,
+   "nakit": 8583438636,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2077200000,
+     "limit": 2077300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 3462000000,
+     "limit": 3462200000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 2769600000,
+     "limit": 2769700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 4154400000,
+     "limit": 4154600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792040939255,
+   "ms": 1792041903835,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 4,
    "haftaSonu": false,
    "saat": 5,
-   "dakika": 8,
+   "dakika": 25,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "15 Ekim 2026, Perşembe"
   }
  },
  "banka": {
-  "nakit": 85830707.81,
+  "nakit": 85834386.36,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -597,8 +597,8 @@
    },
    {
     "tur": "bakkal",
-    "no": 66,
-    "toplam": 106000.0,
+    "no": 65,
+    "toplam": 212000.0,
     "sonuc": {
      "hata": "Bu dükkân az önce başkası tarafından kiralandı."
     }
@@ -613,18 +613,18 @@
    },
    {
     "tur": "bakkal",
-    "no": 75,
+    "no": 74,
     "toplam": 51000.0,
     "sonuc": {
-     "hata": "Bu senin 51. dükkânın: 2.040.000 ₺ ek açılış vergisi ödenecek. Tutarı onaylayıp yeniden dene."
+     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
     }
    },
    {
     "tur": "bakkal",
-    "no": 78,
-    "toplam": 106000.0,
+    "no": 75,
+    "toplam": 51000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Bu senin 51. dükkânın: 2.040.000 ₺ ek açılış vergisi ödenecek. Tutarı onaylayıp yeniden dene."
     }
    },
    {
@@ -668,14 +668,14 @@
     "kira": 36000.0
    },
    {
-    "no": 66,
+    "no": 65,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
     "kilitli": false,
-    "toplam": 106000.0,
-    "kurulum": 60000.0,
-    "kira": 18000.0
+    "toplam": 212000.0,
+    "kurulum": 120000.0,
+    "kira": 36000.0
    },
    {
     "no": 68,
@@ -688,7 +688,7 @@
     "kira": 36000.0
    },
    {
-    "no": 75,
+    "no": 74,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
@@ -698,14 +698,14 @@
     "kira": 8000.0
    },
    {
-    "no": 78,
+    "no": 75,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
     "kilitli": false,
-    "toplam": 106000.0,
-    "kurulum": 60000.0,
-    "kira": 18000.0
+    "toplam": 51000.0,
+    "kurulum": 30000.0,
+    "kira": 8000.0
    },
    {
     "no": 80,
@@ -772,23 +772,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 85830707.81,
+  "bakiye": 85834386.36,
   "oyuncu_seviye": 12,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 84774707.81
+  "kalan_bakiye": 84727386.36
  },
  "bot": {
   "olay": "kosu_bitti",
   "tur": 85,
-  "kazanc": 3678.6,
-  "servis": 680,
-  "bahsis": 150,
-  "bakiye": 85834386.36,
-  "siparis_toplam": 24,
-  "siparis_basari": 23,
+  "kazanc": 45359.7,
+  "servis": 673,
+  "bahsis": 126,
+  "bakiye": 85871724.98,
+  "siparis_toplam": 26,
+  "siparis_basari": 26,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792031076923
+  "ts": 1792032044519
  }
 }
