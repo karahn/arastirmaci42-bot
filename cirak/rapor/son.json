@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 12,
-  "tp": 5333,
-  "nakit_kurus": 9789109054,
+  "tp": 5348,
+  "nakit_kurus": 9812822683,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 9789109054,
+   "nakit": 9812822683,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2436400000,
+     "limit": 2440100000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 4060700000,
+     "limit": 4066800000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 3248500000,
+     "limit": 3253400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 4872800000,
+     "limit": 4880200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -135,7 +135,7 @@
    "karaListe": 0,
    "net": 57357478,
    "krediNotu": {
-    "puan": 1303,
+    "puan": 1304,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792101191985,
+   "ms": 1792102159149,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -153,21 +153,21 @@
    "haftaGunu": "Perşembe",
    "haftaGunuNo": 4,
    "haftaSonu": false,
-   "saat": 21,
-   "dakika": 53,
+   "saat": 22,
+   "dakika": 9,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "15 Ekim 2026, Perşembe"
   }
  },
  "banka": {
-  "nakit": 97891090.54,
+  "nakit": 98128226.83,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1303,
+   "puan": 1304,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -428,7 +428,7 @@
  },
  "seviye-bildir": {
   "seviye": 12,
-  "tp": 5333,
+  "tp": 5348,
   "onceki": 12,
   "yeni_mi": false
  },
@@ -436,7 +436,7 @@
   "toplam": 50,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
-  "raf_doldurulan": 0,
+  "raf_doldurulan": 8,
   "oto_acilan": 25,
   "detay": [
    {
@@ -447,7 +447,8 @@
    {
     "ad": "arastirmaci42 Keba",
     "id": 43907,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1472/1700→full"
    },
    {
     "ad": "arastirmaci42 Tele",
@@ -462,17 +463,20 @@
    {
     "ad": "arastirmaci42 Spor",
     "id": 43925,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "714/761→full"
    },
    {
     "ad": "arastirmaci42 Kuru",
     "id": 43928,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "773/808→full"
    },
    {
     "ad": "arastirmaci42 Çiğ",
     "id": 43932,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "1293/1355→full"
    },
    {
     "ad": "arastirmaci42 İç g",
@@ -507,12 +511,14 @@
    {
     "ad": "arastirmaci42 Dond",
     "id": 47891,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "852/901→full"
    },
    {
     "ad": "arastirmaci42 Mark",
     "id": 47900,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "33353/34370→full"
    },
    {
     "ad": "arastirmaci42 Çant",
@@ -527,12 +533,14 @@
    {
     "ad": "arastirmaci42 Döne",
     "id": 47907,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "2556/2715→full"
    },
    {
     "ad": "arastirmaci42 Hamb",
     "id": 47912,
-    "oto": "acik"
+    "oto": "acik",
+    "raf": "947/1060→full"
    },
    {
     "ad": "arastirmaci42 Tavu",
@@ -772,23 +780,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 97891090.54,
+  "bakiye": 98013902.83,
   "oyuncu_seviye": 12,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 97051090.54
+  "kalan_bakiye": 97173902.83
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 68,
-  "kazanc": 39313.7,
-  "servis": 544,
-  "bahsis": 117,
-  "bakiye": 98128226.83,
-  "siparis_toplam": 23,
-  "siparis_basari": 10,
+  "tur": 76,
+  "kazanc": 3042.9,
+  "servis": 608,
+  "bahsis": 111,
+  "bakiye": 98016925.7,
+  "siparis_toplam": 24,
+  "siparis_basari": 20,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792091331494
+  "ts": 1792092338437
  }
 }
