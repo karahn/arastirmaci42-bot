@@ -3,8 +3,8 @@
   "tamam": true,
   "oyuncu": "arastirmaci42",
   "seviye": 13,
-  "tp": 6069,
-  "nakit_kurus": 10835352486,
+  "tp": 6085,
+  "nakit_kurus": 10838486435,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 10835352486,
+   "nakit": 10838486435,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2749900000,
+     "limit": 2750800000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 4583200000,
+     "limit": 4584700000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 3666500000,
+     "limit": 3667800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 5499800000,
+     "limit": 5501700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792178585480,
+   "ms": 1792179549717,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 5,
    "haftaSonu": false,
    "saat": 19,
-   "dakika": 23,
+   "dakika": 39,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "16 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 108353524.86,
+  "nakit": 108384864.35,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -429,7 +429,7 @@
  },
  "seviye-bildir": {
   "seviye": 13,
-  "tp": 6069,
+  "tp": 6085,
   "onceki": 13,
   "yeni_mi": false
  },
@@ -635,6 +635,14 @@
     "sonuc": {
      "hata": "Bu dükkân az önce başkası tarafından kiralandı."
     }
+   },
+   {
+    "tur": "bakkal",
+    "no": 80,
+    "toplam": 106000.0,
+    "sonuc": {
+     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+    }
    }
   ],
   "secenekler": [
@@ -717,6 +725,16 @@
     "toplam": 51000.0,
     "kurulum": 30000.0,
     "kira": 8000.0
+   },
+   {
+    "no": 80,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
    }
   ],
   "denemeler": [],
@@ -773,23 +791,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 108353524.86,
+  "bakiye": 108384864.35,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
-  "bos_parsel": 8,
-  "kalan_bakiye": 107513524.86
+  "bos_parsel": 9,
+  "kalan_bakiye": 107438864.35
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 83,
-  "kazanc": 38945.1,
-  "servis": 664,
-  "bahsis": 127,
-  "bakiye": 108384864.35,
-  "siparis_toplam": 25,
-  "siparis_basari": 25,
-  "gecen_dk": 15.0,
+  "tur": 84,
+  "kazanc": 3034.9,
+  "servis": 672,
+  "bahsis": 149,
+  "bakiye": 108389459.29,
+  "siparis_toplam": 24,
+  "siparis_basari": 24,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792168722096
+  "ts": 1792169692323
  }
 }
