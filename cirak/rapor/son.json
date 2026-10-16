@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 13,
   "tp": 6294,
-  "nakit_kurus": 10973003293,
+  "nakit_kurus": 10973628930,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 10973003293,
+   "nakit": 10973628930,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2794400000,
+     "limit": 2794500000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 4657300000,
+     "limit": 4657500000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 3725800000,
+     "limit": 3726000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 5588800000,
+     "limit": 5589100000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792199099560,
+   "ms": 1792200059323,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 1,
-   "dakika": 4,
+   "dakika": 20,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "17 Ekim 2026, Cumartesi"
   }
  },
  "banka": {
-  "nakit": 109730032.93,
+  "nakit": 109736289.3,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -435,8 +435,8 @@
  },
  "dukkan-yonet": {
   "toplam": 50,
-  "kasa_toplanan": 1,
-  "kasa_tl": 1221.1,
+  "kasa_toplanan": 0,
+  "kasa_tl": 0.0,
   "raf_doldurulan": 0,
   "oto_acilan": 25,
   "detay": [
@@ -444,11 +444,6 @@
     "ad": "Araştırma Şarküter",
     "id": 5522,
     "oto": "acik"
-   },
-   {
-    "ad": "Araştırma Otopark",
-    "id": 8815,
-    "kasa": 1221.1
    },
    {
     "ad": "arastirmaci42 Keba",
@@ -579,7 +574,7 @@
   "acilanlar": [
    {
     "tur": "bakkal",
-    "no": 65,
+    "no": 61,
     "toplam": 212000.0,
     "sonuc": {
      "hata": "Bu dükkân az önce başkası tarafından kiralandı."
@@ -587,8 +582,8 @@
    },
    {
     "tur": "bakkal",
-    "no": 67,
-    "toplam": 106000.0,
+    "no": 65,
+    "toplam": 212000.0,
     "sonuc": {
      "hata": "Bu dükkân az önce başkası tarafından kiralandı."
     }
@@ -644,7 +639,7 @@
   ],
   "secenekler": [
    {
-    "no": 65,
+    "no": 61,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
@@ -654,14 +649,14 @@
     "kira": 36000.0
    },
    {
-    "no": 67,
+    "no": 65,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
     "kilitli": false,
-    "toplam": 106000.0,
-    "kurulum": 60000.0,
-    "kira": 18000.0
+    "toplam": 212000.0,
+    "kurulum": 120000.0,
+    "kira": 36000.0
    },
    {
     "no": 68,
@@ -778,23 +773,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 109731254.03,
+  "bakiye": 109736289.3,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 108836254.03
+  "kalan_bakiye": 108735289.3
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 99,
-  "kazanc": 3835.3,
-  "servis": 792,
-  "bahsis": 157,
-  "bakiye": 109736289.3,
-  "siparis_toplam": 24,
-  "siparis_basari": 24,
+  "tur": 101,
+  "kazanc": 52488.7,
+  "servis": 808,
+  "bahsis": 143,
+  "bakiye": 109778777.61,
+  "siparis_toplam": 26,
+  "siparis_basari": 25,
   "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1792189231062
+  "ts": 1792190188591
  }
 }
