@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792286633568,
+   "ms": 1792287680175,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,7 +154,7 @@
    "haftaGunuNo": 0,
    "haftaSonu": true,
    "saat": 1,
-   "dakika": 23,
+   "dakika": 41,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "18 Ekim 2026, Pazar"
@@ -659,17 +659,8 @@
    },
    {
     "tur": "bakkal",
-    "no": 65,
-    "toplam": 212000.0,
-    "sonuc": {
-     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
-     "insanDogrula": true
-    }
-   },
-   {
-    "tur": "bakkal",
-    "no": 67,
-    "toplam": 106000.0,
+    "no": 62,
+    "toplam": 51000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
      "insanDogrula": true
@@ -679,6 +670,15 @@
     "tur": "bakkal",
     "no": 73,
     "toplam": 106000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 74,
+    "toplam": 51000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
      "insanDogrula": true
@@ -706,24 +706,14 @@
     "kira": 36000.0
    },
    {
-    "no": 65,
+    "no": 62,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
     "kilitli": false,
-    "toplam": 212000.0,
-    "kurulum": 120000.0,
-    "kira": 36000.0
-   },
-   {
-    "no": 67,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 106000.0,
-    "kurulum": 60000.0,
-    "kira": 18000.0
+    "toplam": 51000.0,
+    "kurulum": 30000.0,
+    "kira": 8000.0
    },
    {
     "no": 73,
@@ -734,6 +724,16 @@
     "toplam": 106000.0,
     "kurulum": 60000.0,
     "kira": 18000.0
+   },
+   {
+    "no": 74,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 51000.0,
+    "kurulum": 30000.0,
+    "kira": 8000.0
    },
    {
     "no": 75,
@@ -804,7 +804,7 @@
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 5,
-  "kalan_bakiye": 109305674.18
+  "kalan_bakiye": 109521674.18
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -815,8 +815,8 @@
   "bakiye": 109992674.18,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.1,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1792276851230
+  "ts": 1792277894863
  }
 }
