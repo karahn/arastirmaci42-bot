@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 13,
   "tp": 6473,
-  "nakit_kurus": 11002384950,
+  "nakit_kurus": 11002828760,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 57357478,
-   "nakit": 11002384950,
+   "nakit": 11002828760,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2803100000,
+     "limit": 2803300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 4671900000,
+     "limit": 4672100000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 3737500000,
+     "limit": 3737700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 5606300000,
+     "limit": 5606600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792214581056,
+   "ms": 1792215541864,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,14 +154,14 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 5,
-   "dakika": 23,
+   "dakika": 39,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "17 Ekim 2026, Cumartesi"
   }
  },
  "banka": {
-  "nakit": 110023849.5,
+  "nakit": 110028287.6,
   "vadesiz": 573574.78,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -195,7 +195,8 @@
   "tutar": 500000.0,
   "aciklama": "Dükkan açma desteği - Arastirmaci42'den Kalfa19'a",
   "sonuc": {
-   "hata": "Havale ve EFT yalnızca alıcının IBAN'ı ile yapılır. IBAN'ı alıcıdan iste."
+   "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+   "insanDogrula": true
   },
   "basarili": false
  },
@@ -438,136 +439,211 @@
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
   "raf_doldurulan": 0,
-  "oto_acilan": 25,
-  "detay": [
-   {
-    "ad": "Araştırma Şarküter",
-    "id": 5522,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Keba",
-    "id": 43907,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Tele",
-    "id": 43911,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Bilg",
-    "id": 43923,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Spor",
-    "id": 43925,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Kuru",
-    "id": 43928,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Çiğ",
-    "id": 43932,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 İç g",
-    "id": 47822,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Yapı",
-    "id": 47824,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Halı",
-    "id": 47827,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Hırd",
-    "id": 47835,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Perd",
-    "id": 47836,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Temi",
-    "id": 47879,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Dond",
-    "id": 47891,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Mark",
-    "id": 47900,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Çant",
-    "id": 47902,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Zücc",
-    "id": 47905,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Döne",
-    "id": 47907,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Hamb",
-    "id": 47912,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Tavu",
-    "id": 47921,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Akta",
-    "id": 47927,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Kasa",
-    "id": 47929,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Fırı",
-    "id": 47932,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Balı",
-    "id": 47933,
-    "oto": "acik"
-   },
-   {
-    "ad": "arastirmaci42 Bebe",
-    "id": 47934,
-    "oto": "acik"
-   }
-  ],
+  "oto_acilan": 0,
+  "detay": [],
   "hatalar": [],
-  "debug": []
+  "debug": [
+   {
+    "id": 5522,
+    "ad": "Araştırma Şarküter",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43907,
+    "ad": "arastirmaci42 Keba",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43911,
+    "ad": "arastirmaci42 Tele",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43923,
+    "ad": "arastirmaci42 Bilg",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43925,
+    "ad": "arastirmaci42 Spor",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43928,
+    "ad": "arastirmaci42 Kuru",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43932,
+    "ad": "arastirmaci42 Çiğ",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47822,
+    "ad": "arastirmaci42 İç g",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47824,
+    "ad": "arastirmaci42 Yapı",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47827,
+    "ad": "arastirmaci42 Halı",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47835,
+    "ad": "arastirmaci42 Hırd",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47836,
+    "ad": "arastirmaci42 Perd",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47879,
+    "ad": "arastirmaci42 Temi",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47891,
+    "ad": "arastirmaci42 Dond",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47900,
+    "ad": "arastirmaci42 Mark",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47902,
+    "ad": "arastirmaci42 Çant",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47905,
+    "ad": "arastirmaci42 Zücc",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47907,
+    "ad": "arastirmaci42 Döne",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47912,
+    "ad": "arastirmaci42 Hamb",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47921,
+    "ad": "arastirmaci42 Tavu",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47927,
+    "ad": "arastirmaci42 Akta",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47929,
+    "ad": "arastirmaci42 Kasa",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47932,
+    "ad": "arastirmaci42 Fırı",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47933,
+    "ad": "arastirmaci42 Balı",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47934,
+    "ad": "arastirmaci42 Bebe",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   }
+  ]
  },
  "dukkan-ac": {
   "ilce": 2034,
@@ -577,7 +653,8 @@
     "no": 65,
     "toplam": 212000.0,
     "sonuc": {
-     "hata": "Bu senin 51. dükkânın: 8.480.000 ₺ ek açılış vergisi ödenecek. Tutarı onaylayıp yeniden dene."
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
     }
    },
    {
@@ -585,7 +662,8 @@
     "no": 67,
     "toplam": 106000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
     }
    },
    {
@@ -593,7 +671,8 @@
     "no": 68,
     "toplam": 212000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
     }
    },
    {
@@ -601,7 +680,8 @@
     "no": 70,
     "toplam": 51000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
     }
    },
    {
@@ -609,7 +689,8 @@
     "no": 71,
     "toplam": 51000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
     }
    },
    {
@@ -617,7 +698,8 @@
     "no": 73,
     "toplam": 106000.0,
     "sonuc": {
-     "hata": "Bu senin 51. dükkânın: 4.240.000 ₺ ek açılış vergisi ödenecek. Tutarı onaylayıp yeniden dene."
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
     }
    },
    {
@@ -625,7 +707,8 @@
     "no": 78,
     "toplam": 106000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
     }
    },
    {
@@ -633,7 +716,8 @@
     "no": 80,
     "toplam": 106000.0,
     "sonuc": {
-     "hata": "Bu dükkân az önce başkası tarafından kiralandı."
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
     }
    }
   ],
@@ -773,23 +857,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 110023849.5,
+  "bakiye": 110028287.6,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 109073849.5
+  "kalan_bakiye": 109078287.6
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 100,
-  "kazanc": 1318.1,
-  "servis": 792,
-  "bahsis": 49,
+  "tur": 83,
+  "kazanc": 0.0,
+  "servis": 664,
+  "bahsis": 0,
   "bakiye": 110028287.6,
-  "siparis_toplam": 9,
-  "siparis_basari": 9,
+  "siparis_toplam": 0,
+  "siparis_basari": 0,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792204714716
+  "ts": 1792205684837
  }
 }
