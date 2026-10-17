@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 2774900000,
+     "limit": 2801800000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 4624900000,
+     "limit": 4669800000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 3699900000,
+     "limit": 3735800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 5549800000,
+     "limit": 5603700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792238307741,
+   "ms": 1792239373035,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -153,8 +153,8 @@
    "haftaGunu": "Cumartesi",
    "haftaGunuNo": 6,
    "haftaSonu": true,
-   "saat": 11,
-   "dakika": 58,
+   "saat": 12,
+   "dakika": 16,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "17 Ekim 2026, Cumartesi"
@@ -167,7 +167,7 @@
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1316,
+   "puan": 1317,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -391,7 +391,7 @@
      "oy": 6,
      "donem": "2026-10"
     },
-    "kasa": 3800000,
+    "kasa": 4050000,
     "uyeler": null,
     "tp": null
    },
@@ -436,11 +436,22 @@
  },
  "dukkan-yonet": {
   "toplam": 50,
-  "kasa_toplanan": 0,
-  "kasa_tl": 0.0,
-  "raf_doldurulan": 0,
+  "kasa_toplanan": 1,
+  "kasa_tl": 48244.03,
+  "raf_doldurulan": 1,
   "oto_acilan": 0,
-  "detay": [],
+  "detay": [
+   {
+    "ad": "arastirmaci42 Çant",
+    "id": 47902,
+    "raf": "321/365→full"
+   },
+   {
+    "ad": "arastirmaci42 Zücc",
+    "id": 47905,
+    "kasa": 48244.03
+   }
+  ],
   "hatalar": [],
   "debug": [
    {
@@ -580,6 +591,11 @@
     }
    },
    {
+    "id": 47905,
+    "ad": "arastirmaci42 Zücc",
+    "urun_yok": true
+   },
+   {
     "id": 47907,
     "ad": "arastirmaci42 Döne",
     "oto_hata": {
@@ -677,7 +693,7 @@
    },
    {
     "tur": "bakkal",
-    "no": 70,
+    "no": 71,
     "toplam": 51000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
@@ -753,7 +769,7 @@
     "kira": 36000.0
    },
    {
-    "no": 70,
+    "no": 71,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
@@ -869,11 +885,11 @@
   "kazanc": 0.0,
   "servis": 616,
   "bahsis": 0,
-  "bakiye": 109982620.16,
+  "bakiye": 109983820.16,
   "siparis_toplam": 0,
   "siparis_basari": 0,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792228544898
+  "ts": 1792229614783
  }
 }
