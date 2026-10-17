@@ -65,7 +65,7 @@
       6,
       12
      ],
-     "limit": 3023000000,
+     "limit": 3023100000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -84,7 +84,7 @@
       12,
       24
      ],
-     "limit": 5038400000,
+     "limit": 5038500000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -103,7 +103,7 @@
       24,
       36
      ],
-     "limit": 4030700000,
+     "limit": 4030800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -122,7 +122,7 @@
       36,
       60
      ],
-     "limit": 6046100000,
+     "limit": 6046200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792288720699,
+   "ms": 1792289736700,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -153,8 +153,8 @@
    "haftaGunu": "Pazar",
    "haftaGunuNo": 0,
    "haftaSonu": true,
-   "saat": 1,
-   "dakika": 58,
+   "saat": 2,
+   "dakika": 15,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "18 Ekim 2026, Pazar"
@@ -686,6 +686,15 @@
    },
    {
     "tur": "bakkal",
+    "no": 73,
+    "toplam": 106000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
     "no": 74,
     "toplam": 51000.0,
     "sonuc": {
@@ -743,6 +752,16 @@
     "toplam": 51000.0,
     "kurulum": 30000.0,
     "kira": 8000.0
+   },
+   {
+    "no": 73,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
    },
    {
     "no": 74,
@@ -822,20 +841,20 @@
   "bakiye": 109992674.18,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
-  "bos_parsel": 6,
-  "kalan_bakiye": 109525674.18
+  "bos_parsel": 7,
+  "kalan_bakiye": 109419674.18
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 94,
+  "tur": 95,
   "kazanc": 0.0,
-  "servis": 752,
+  "servis": 760,
   "bahsis": 0,
   "bakiye": 109992674.18,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.0,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792278911481
+  "ts": 1792279934493
  }
 }
