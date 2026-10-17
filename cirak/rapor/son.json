@@ -135,7 +135,7 @@
    "karaListe": 0,
    "net": 57357478,
    "krediNotu": {
-    "puan": 1317,
+    "puan": 1318,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792240440856,
+   "ms": 1792241491211,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,7 +154,7 @@
    "haftaGunuNo": 6,
    "haftaSonu": true,
    "saat": 12,
-   "dakika": 34,
+   "dakika": 51,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "17 Ekim 2026, Cumartesi"
@@ -167,7 +167,7 @@
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1317,
+   "puan": 1318,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -865,15 +865,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 86,
+  "tur": 79,
   "kazanc": 0.0,
-  "servis": 688,
+  "servis": 632,
   "bahsis": 0,
   "bakiye": 109983820.16,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.1,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1792230665703
+  "ts": 1792231720765
  }
 }
