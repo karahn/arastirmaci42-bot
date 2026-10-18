@@ -60,6 +60,7 @@
      "faiz": 51,
      "temelFaiz": 54,
      "odaIndirimi": 3,
+     "seviyeIndirimi": 0,
      "taksitler": [
       3,
       6,
@@ -79,6 +80,7 @@
      "faiz": 44,
      "temelFaiz": 44,
      "odaIndirimi": 0,
+     "seviyeIndirimi": 0,
      "taksitler": [
       6,
       12,
@@ -98,6 +100,7 @@
      "faiz": 48,
      "temelFaiz": 48,
      "odaIndirimi": 0,
+     "seviyeIndirimi": 0,
      "taksitler": [
       12,
       24,
@@ -117,6 +120,7 @@
      "faiz": 40,
      "temelFaiz": 40,
      "odaIndirimi": 0,
+     "seviyeIndirimi": 0,
      "taksitler": [
       24,
       36,
@@ -145,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792292844666,
+   "ms": 1792293868219,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -154,7 +158,7 @@
    "haftaGunuNo": 0,
    "haftaSonu": true,
    "saat": 3,
-   "dakika": 7,
+   "dakika": 24,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "18 Ekim 2026, Pazar"
@@ -846,15 +850,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 90,
+  "tur": 79,
   "kazanc": 0.0,
-  "servis": 720,
+  "servis": 632,
   "bahsis": 0,
-  "bakiye": 109992674.18,
+  "bakiye": 109994234.18,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.0,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792283042369
+  "ts": 1792284088848
  }
 }
