@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792296953940,
+   "ms": 1792297980955,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +158,7 @@
    "haftaGunuNo": 0,
    "haftaSonu": true,
    "saat": 4,
-   "dakika": 15,
+   "dakika": 33,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "18 Ekim 2026, Pazar"
@@ -699,8 +699,8 @@
    },
    {
     "tur": "bakkal",
-    "no": 74,
-    "toplam": 51000.0,
+    "no": 73,
+    "toplam": 106000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
      "insanDogrula": true
@@ -708,8 +708,8 @@
    },
    {
     "tur": "bakkal",
-    "no": 78,
-    "toplam": 106000.0,
+    "no": 74,
+    "toplam": 51000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
      "insanDogrula": true
@@ -768,6 +768,16 @@
     "kira": 8000.0
    },
    {
+    "no": 73,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
+   },
+   {
     "no": 74,
     "tur": "bakkal",
     "ad": "Bakkal",
@@ -776,16 +786,6 @@
     "toplam": 51000.0,
     "kurulum": 30000.0,
     "kira": 8000.0
-   },
-   {
-    "no": 78,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 106000.0,
-    "kurulum": 60000.0,
-    "kira": 18000.0
    }
   ],
   "denemeler": [],
@@ -850,15 +850,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 93,
+  "tur": 84,
   "kazanc": 0.0,
-  "servis": 744,
+  "servis": 672,
   "bahsis": 0,
   "bakiye": 109994234.18,
   "siparis_toplam": 0,
   "siparis_basari": 0,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792287155129
+  "ts": 1792288193221
  }
 }
