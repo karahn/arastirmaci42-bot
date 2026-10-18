@@ -25,7 +25,7 @@
    "ad": "Ata Mahallesi"
   },
   "banka": {
-   "vadesiz": 2688354453,
+   "vadesiz": 2690046010,
    "nakit": 10983067958,
    "vadeliler": [],
    "krediler": [],
@@ -137,7 +137,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 2688354453,
+   "net": 2690046010,
    "krediNotu": {
     "puan": 1324,
     "bant": "Az riskli",
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792374368528,
+   "ms": 1792375390587,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,8 +157,8 @@
    "haftaGunu": "Pazartesi",
    "haftaGunuNo": 1,
    "haftaSonu": false,
-   "saat": 1,
-   "dakika": 46,
+   "saat": 2,
+   "dakika": 3,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "19 Ekim 2026, Pazartesi"
@@ -166,7 +166,7 @@
  },
  "banka": {
   "nakit": 109830679.58,
-  "vadesiz": 26883544.53,
+  "vadesiz": 26900460.1,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
@@ -869,15 +869,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 95,
+  "tur": 96,
   "kazanc": 0.0,
-  "servis": 760,
+  "servis": 768,
   "bahsis": 0,
   "bakiye": 109830679.58,
   "siparis_toplam": 0,
   "siparis_basari": 0,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792364561882
+  "ts": 1792365580735
  }
 }
