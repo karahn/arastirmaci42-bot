@@ -25,7 +25,7 @@
    "ad": "Ata Mahallesi"
   },
   "banka": {
-   "vadesiz": 1628621905,
+   "vadesiz": 1630562030,
    "nakit": 11004526219,
    "vadeliler": [],
    "krediler": [],
@@ -137,7 +137,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 1628621905,
+   "net": 1630562030,
    "krediNotu": {
     "puan": 1322,
     "bant": "Az riskli",
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792306247239,
+   "ms": 1792307268688,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,8 +157,8 @@
    "haftaGunu": "Pazar",
    "haftaGunuNo": 0,
    "haftaSonu": true,
-   "saat": 6,
-   "dakika": 50,
+   "saat": 7,
+   "dakika": 7,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "18 Ekim 2026, Pazar"
@@ -166,7 +166,7 @@
  },
  "banka": {
   "nakit": 110045262.19,
-  "vadesiz": 16286219.05,
+  "vadesiz": 16305620.3,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
@@ -672,7 +672,16 @@
    },
    {
     "tur": "bakkal",
-    "no": 62,
+    "no": 67,
+    "toplam": 106000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 72,
     "toplam": 51000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
@@ -681,7 +690,7 @@
    },
    {
     "tur": "bakkal",
-    "no": 67,
+    "no": 73,
     "toplam": 106000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
@@ -701,15 +710,6 @@
     "tur": "bakkal",
     "no": 75,
     "toplam": 51000.0,
-    "sonuc": {
-     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
-     "insanDogrula": true
-    }
-   },
-   {
-    "tur": "bakkal",
-    "no": 78,
-    "toplam": 106000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
      "insanDogrula": true
@@ -738,7 +738,17 @@
     "kira": 36000.0
    },
    {
-    "no": 62,
+    "no": 67,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
+   },
+   {
+    "no": 72,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
@@ -748,7 +758,7 @@
     "kira": 8000.0
    },
    {
-    "no": 67,
+    "no": 73,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
@@ -776,16 +786,6 @@
     "toplam": 51000.0,
     "kurulum": 30000.0,
     "kira": 8000.0
-   },
-   {
-    "no": 78,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 106000.0,
-    "kurulum": 60000.0,
-    "kira": 18000.0
    }
   ],
   "denemeler": [],
@@ -850,15 +850,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 97,
+  "tur": 82,
   "kazanc": 0.0,
-  "servis": 776,
+  "servis": 656,
   "bahsis": 0,
   "bakiye": 110045262.19,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.1,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1792296442396
+  "ts": 1792297486745
  }
 }
