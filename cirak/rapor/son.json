@@ -145,7 +145,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792291797046,
+   "ms": 1792292844666,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -153,8 +153,8 @@
    "haftaGunu": "Pazar",
    "haftaGunuNo": 0,
    "haftaSonu": true,
-   "saat": 2,
-   "dakika": 49,
+   "saat": 3,
+   "dakika": 7,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "18 Ekim 2026, Pazar"
@@ -846,15 +846,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 80,
+  "tur": 90,
   "kazanc": 0.0,
-  "servis": 640,
+  "servis": 720,
   "bahsis": 0,
   "bakiye": 109992674.18,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.1,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1792282016969
+  "ts": 1792283042369
  }
 }
