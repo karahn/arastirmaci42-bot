@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792448819257,
+   "ms": 1792449848932,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +158,7 @@
    "haftaGunuNo": 1,
    "haftaSonu": false,
    "saat": 22,
-   "dakika": 26,
+   "dakika": 44,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "19 Ekim 2026, Pazartesi"
@@ -695,15 +695,6 @@
    },
    {
     "tur": "bakkal",
-    "no": 71,
-    "toplam": 51000.0,
-    "sonuc": {
-     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
-     "insanDogrula": true
-    }
-   },
-   {
-    "tur": "bakkal",
     "no": 72,
     "toplam": 51000.0,
     "sonuc": {
@@ -722,8 +713,17 @@
    },
    {
     "tur": "bakkal",
-    "no": 75,
+    "no": 74,
     "toplam": 51000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 78,
+    "toplam": 106000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
      "insanDogrula": true
@@ -772,16 +772,6 @@
     "kira": 36000.0
    },
    {
-    "no": 71,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 51000.0,
-    "kurulum": 30000.0,
-    "kira": 8000.0
-   },
-   {
     "no": 72,
     "tur": "bakkal",
     "ad": "Bakkal",
@@ -802,7 +792,7 @@
     "kira": 18000.0
    },
    {
-    "no": 75,
+    "no": 74,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
@@ -810,6 +800,16 @@
     "toplam": 51000.0,
     "kurulum": 30000.0,
     "kira": 8000.0
+   },
+   {
+    "no": 78,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
    }
   ],
   "denemeler": [],
@@ -870,19 +870,19 @@
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 108782188.22
+  "kalan_bakiye": 108727188.22
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 89,
+  "tur": 90,
   "kazanc": 0.0,
-  "servis": 712,
+  "servis": 720,
   "bahsis": 0,
-  "bakiye": 109622188.22,
+  "bakiye": 109601608.22,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.0,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792439023440
+  "ts": 1792440055947
  }
 }
