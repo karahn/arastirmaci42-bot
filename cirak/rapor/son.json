@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 13,
   "tp": 6489,
-  "nakit_kurus": 10983067958,
+  "nakit_kurus": 10983187958,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 2690046010,
-   "nakit": 10983067958,
+   "nakit": 10983187958,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 4359700000,
+     "limit": 4359800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 6539600000,
+     "limit": 6539700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792379477270,
+   "ms": 1792380510762,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,14 +158,14 @@
    "haftaGunuNo": 1,
    "haftaSonu": false,
    "saat": 3,
-   "dakika": 11,
+   "dakika": 28,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "19 Ekim 2026, Pazartesi"
   }
  },
  "banka": {
-  "nakit": 109830679.58,
+  "nakit": 109831879.58,
   "vadesiz": 26900460.1,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -869,15 +869,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 86,
+  "tur": 95,
   "kazanc": 0.0,
-  "servis": 688,
+  "servis": 760,
   "bahsis": 0,
   "bakiye": 109831879.58,
   "siparis_toplam": 0,
   "siparis_basari": 0,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792369685054
+  "ts": 1792370705315
  }
 }
