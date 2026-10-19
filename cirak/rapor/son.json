@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 4362200000,
+     "limit": 4362300000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792388744487,
+   "ms": 1792389780873,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,8 +157,8 @@
    "haftaGunu": "Pazartesi",
    "haftaGunuNo": 1,
    "haftaSonu": false,
-   "saat": 5,
-   "dakika": 45,
+   "saat": 6,
+   "dakika": 3,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "19 Ekim 2026, Pazartesi"
@@ -654,15 +654,6 @@
   "acilanlar": [
    {
     "tur": "bakkal",
-    "no": 58,
-    "toplam": 106000.0,
-    "sonuc": {
-     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
-     "insanDogrula": true
-    }
-   },
-   {
-    "tur": "bakkal",
     "no": 62,
     "toplam": 51000.0,
     "sonuc": {
@@ -717,6 +708,15 @@
    },
    {
     "tur": "bakkal",
+    "no": 74,
+    "toplam": 51000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
     "no": 75,
     "toplam": 51000.0,
     "sonuc": {
@@ -726,16 +726,6 @@
    }
   ],
   "secenekler": [
-   {
-    "no": 58,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 106000.0,
-    "kurulum": 60000.0,
-    "kira": 18000.0
-   },
    {
     "no": 62,
     "tur": "bakkal",
@@ -795,6 +785,16 @@
     "toplam": 106000.0,
     "kurulum": 60000.0,
     "kira": 18000.0
+   },
+   {
+    "no": 74,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 51000.0,
+    "kurulum": 30000.0,
+    "kira": 8000.0
    },
    {
     "no": 75,
@@ -865,19 +865,19 @@
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 108930699.37
+  "kalan_bakiye": 108985699.37
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 86,
+  "tur": 97,
   "kazanc": 0.0,
-  "servis": 688,
+  "servis": 776,
   "bahsis": 0,
   "bakiye": 109609699.37,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.2,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1792378954684
+  "ts": 1792379965429
  }
 }
