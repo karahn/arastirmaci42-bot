@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 3380500000,
+     "limit": 3395600000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 5634200000,
+     "limit": 5659400000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 4507400000,
+     "limit": 4527500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 6761100000,
+     "limit": 6791200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792421998088,
+   "ms": 1792423048940,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,8 +157,8 @@
    "haftaGunu": "Pazartesi",
    "haftaGunuNo": 1,
    "haftaSonu": false,
-   "saat": 14,
-   "dakika": 59,
+   "saat": 15,
+   "dakika": 17,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "19 Ekim 2026, Pazartesi"
@@ -311,7 +311,8 @@
    "gr": {
     "c": "sampiyon",
     "r": "sezon",
-    "p": "kedi",
+    "b": "bl_altin2",
+    "p": "kus",
     "u": "gz_dedektif"
    }
   },
@@ -654,15 +655,6 @@
   "acilanlar": [
    {
     "tur": "bakkal",
-    "no": 58,
-    "toplam": 106000.0,
-    "sonuc": {
-     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
-     "insanDogrula": true
-    }
-   },
-   {
-    "tur": "bakkal",
     "no": 62,
     "toplam": 51000.0,
     "sonuc": {
@@ -717,6 +709,15 @@
    },
    {
     "tur": "bakkal",
+    "no": 75,
+    "toplam": 51000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
     "no": 78,
     "toplam": 106000.0,
     "sonuc": {
@@ -726,16 +727,6 @@
    }
   ],
   "secenekler": [
-   {
-    "no": 58,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 106000.0,
-    "kurulum": 60000.0,
-    "kira": 18000.0
-   },
    {
     "no": 62,
     "tur": "bakkal",
@@ -795,6 +786,16 @@
     "toplam": 106000.0,
     "kurulum": 60000.0,
     "kira": 18000.0
+   },
+   {
+    "no": 75,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 51000.0,
+    "kurulum": 30000.0,
+    "kira": 8000.0
    },
    {
     "no": 78,
@@ -865,19 +866,19 @@
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 108864288.22
+  "kalan_bakiye": 108919288.22
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 91,
+  "tur": 77,
   "kazanc": 0.0,
-  "servis": 728,
+  "servis": 616,
   "bahsis": 0,
   "bakiye": 109598288.22,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.1,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1792412221605
+  "ts": 1792413279560
  }
 }
