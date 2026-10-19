@@ -1,12 +1,12 @@
 # Çırak raporu — cerez-kontrol
 
-**Zaman:** 2026-10-19 09:04:05 UTC
+**Zaman:** 2026-10-19 09:21:46 UTC
 
 ## Oyuncu
 
 - Ad: **arastirmaci42**
 - Seviye: 13 · TP: 6549
-- Nakit: 109602298.44 ₺
+- Nakit: 109597088.22 ₺
 - Konum: Ankara / Yenimahalle / Ata Mahallesi
 
 
@@ -14,71 +14,71 @@
 
 # Çırak raporu — banka
 
-**Zaman:** 2026-10-19 09:04:05 UTC
+**Zaman:** 2026-10-19 09:21:46 UTC
 
 
 ---
 
 # Çırak raporu — havale-gonder
 
-**Zaman:** 2026-10-19 09:04:05 UTC
+**Zaman:** 2026-10-19 09:21:46 UTC
 
 
 ---
 
 # Çırak raporu — havale
 
-**Zaman:** 2026-10-19 09:04:05 UTC
+**Zaman:** 2026-10-19 09:21:46 UTC
 
 
 ---
 
 # Çırak raporu — mesaj-oku
 
-**Zaman:** 2026-10-19 09:04:05 UTC
+**Zaman:** 2026-10-19 09:21:46 UTC
 
 
 ---
 
 # Çırak raporu — oda
 
-**Zaman:** 2026-10-19 09:04:05 UTC
+**Zaman:** 2026-10-19 09:21:46 UTC
 
 
 ---
 
 # Çırak raporu — seviye-bildir
 
-**Zaman:** 2026-10-19 09:04:05 UTC
+**Zaman:** 2026-10-19 09:21:46 UTC
 
 
 ---
 
 # Çırak raporu — dukkan-yonet
 
-**Zaman:** 2026-10-19 09:04:05 UTC
+**Zaman:** 2026-10-19 09:21:46 UTC
 
 
 ---
 
 # Çırak raporu — dukkan-ac
 
-**Zaman:** 2026-10-19 09:04:05 UTC
+**Zaman:** 2026-10-19 09:21:46 UTC
 
 
 ---
 
 # Çırak raporu — bot
 
-**Zaman:** 1792400645173 UTC
+**Zaman:** 1792401706066 UTC
 
 ## Bot koşusu
 
 | Alan | Değer |
 |---|---|
 | Süre | 15.1 dk |
-| Tur | 83 |
+| Tur | 79 |
 | Kazanç | 0.0 ₺ |
-| Servis | 664 |
+| Servis | 632 |
 | Bahşiş | 0 |
 | Bakiye | 109597088.22 ₺ |
