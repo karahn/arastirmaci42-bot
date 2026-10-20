@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792535780914,
+   "ms": 1792536831384,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +158,7 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 22,
-   "dakika": 36,
+   "dakika": 53,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "20 Ekim 2026, Salı"
@@ -686,15 +686,6 @@
    },
    {
     "tur": "bakkal",
-    "no": 70,
-    "toplam": 51000.0,
-    "sonuc": {
-     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
-     "insanDogrula": true
-    }
-   },
-   {
-    "tur": "bakkal",
     "no": 72,
     "toplam": 51000.0,
     "sonuc": {
@@ -715,6 +706,15 @@
     "tur": "bakkal",
     "no": 74,
     "toplam": 51000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 78,
+    "toplam": 106000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
      "insanDogrula": true
@@ -753,16 +753,6 @@
     "kira": 36000.0
    },
    {
-    "no": 70,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 51000.0,
-    "kurulum": 30000.0,
-    "kira": 8000.0
-   },
-   {
     "no": 72,
     "tur": "bakkal",
     "ad": "Bakkal",
@@ -791,6 +781,16 @@
     "toplam": 51000.0,
     "kurulum": 30000.0,
     "kira": 8000.0
+   },
+   {
+    "no": 78,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
    }
   ],
   "denemeler": [],
@@ -851,19 +851,19 @@
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 7,
-  "kalan_bakiye": 107083276.61
+  "kalan_bakiye": 107028276.61
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 80,
+  "tur": 76,
   "kazanc": 0.0,
-  "servis": 640,
+  "servis": 608,
   "bahsis": 0,
-  "bakiye": 107872276.61,
+  "bakiye": 107875270.61,
   "siparis_toplam": 0,
   "siparis_basari": 0,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792526002273
+  "ts": 1792527037214
  }
 }
