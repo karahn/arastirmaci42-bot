@@ -25,7 +25,7 @@
    "ad": "Ata Mahallesi"
   },
   "banka": {
-   "vadesiz": 3495774350,
+   "vadesiz": 3714876605,
    "nakit": 10789244561,
    "vadeliler": [],
    "krediler": [],
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 3703300000,
+     "limit": 3718500000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 6172300000,
+     "limit": 6197500000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 4937800000,
+     "limit": 4958000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 7406700000,
+     "limit": 7437000000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -137,7 +137,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 3495774350,
+   "net": 3714876605,
    "krediNotu": {
     "puan": 1330,
     "bant": "Az riskli",
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792526278118,
+   "ms": 1792527354204,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,8 +157,8 @@
    "haftaGunu": "Salı",
    "haftaGunuNo": 2,
    "haftaSonu": false,
-   "saat": 19,
-   "dakika": 57,
+   "saat": 20,
+   "dakika": 15,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "20 Ekim 2026, Salı"
@@ -166,7 +166,7 @@
  },
  "banka": {
   "nakit": 107892445.61,
-  "vadesiz": 34957743.5,
+  "vadesiz": 37148766.05,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
@@ -874,15 +874,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 69,
+  "tur": 82,
   "kazanc": 0.0,
-  "servis": 552,
+  "servis": 656,
   "bahsis": 0,
   "bakiye": 107892445.61,
   "siparis_toplam": 0,
   "siparis_basari": 0,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792516526231
+  "ts": 1792517584599
  }
 }
