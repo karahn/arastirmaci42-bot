@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 3486300000,
+     "limit": 3486400000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 4648400000,
+     "limit": 4648500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 6972700000,
+     "limit": 6972800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792479014678,
+   "ms": 1792480021454,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,8 +157,8 @@
    "haftaGunu": "Salı",
    "haftaGunuNo": 2,
    "haftaSonu": false,
-   "saat": 6,
-   "dakika": 50,
+   "saat": 7,
+   "dakika": 7,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "20 Ekim 2026, Salı"
@@ -659,6 +659,15 @@
   "acilanlar": [
    {
     "tur": "bakkal",
+    "no": 58,
+    "toplam": 106000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
     "no": 61,
     "toplam": 212000.0,
     "sonuc": {
@@ -731,6 +740,16 @@
    }
   ],
   "secenekler": [
+   {
+    "no": 58,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
+   },
    {
     "no": 61,
     "tur": "bakkal",
@@ -869,8 +888,8 @@
   "bakiye": 107882783.4,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
-  "bos_parsel": 8,
-  "kalan_bakiye": 107097783.4
+  "bos_parsel": 9,
+  "kalan_bakiye": 106991783.4
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -881,8 +900,8 @@
   "bakiye": 107882783.4,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.1,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1792469195152
+  "ts": 1792470202060
  }
 }
