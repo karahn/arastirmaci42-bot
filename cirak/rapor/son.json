@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 13,
   "tp": 6549,
-  "nakit_kurus": 10788381761,
+  "nakit_kurus": 10789244561,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 3495774350,
-   "nakit": 10788381761,
+   "nakit": 10789244561,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 3703100000,
+     "limit": 3703300000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 6171800000,
+     "limit": 6172300000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 4937500000,
+     "limit": 4937800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 7406200000,
+     "limit": 7406700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792523031557,
+   "ms": 1792524102300,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,14 +158,14 @@
    "haftaGunuNo": 2,
    "haftaSonu": false,
    "saat": 19,
-   "dakika": 3,
+   "dakika": 21,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "20 Ekim 2026, Salı"
   }
  },
  "banka": {
-  "nakit": 107883817.61,
+  "nakit": 107892445.61,
   "vadesiz": 34957743.5,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -866,23 +866,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 107887945.61,
+  "bakiye": 107892445.61,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 107208945.61
+  "kalan_bakiye": 107213445.61
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 75,
+  "tur": 63,
   "kazanc": 0.0,
-  "servis": 600,
+  "servis": 504,
   "bahsis": 0,
   "bakiye": 107892445.61,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.1,
+  "gecen_dk": 15.2,
   "bot_versiyon": "v2",
-  "ts": 1792513271617
+  "ts": 1792514396707
  }
 }
