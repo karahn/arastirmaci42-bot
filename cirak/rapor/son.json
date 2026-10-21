@@ -25,7 +25,7 @@
    "ad": "Ata Mahallesi"
   },
   "banka": {
-   "vadesiz": 4976144502,
+   "vadesiz": 5125257556,
    "nakit": 10717844557,
    "vadeliler": [],
    "krediler": [],
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 3938800000,
+     "limit": 3939200000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 6564800000,
+     "limit": 6565300000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 5251800000,
+     "limit": 5252200000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 7877700000,
+     "limit": 7878400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -137,7 +137,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 4976144502,
+   "net": 5125257556,
    "krediNotu": {
     "puan": 1333,
     "bant": "Az riskli",
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792622917412,
+   "ms": 1792623969974,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,8 +157,8 @@
    "haftaGunu": "Çarşamba",
    "haftaGunuNo": 3,
    "haftaSonu": false,
-   "saat": 22,
-   "dakika": 48,
+   "saat": 23,
+   "dakika": 6,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "21 Ekim 2026, Çarşamba"
@@ -166,7 +166,7 @@
  },
  "banka": {
   "nakit": 107178445.57,
-  "vadesiz": 49761445.02,
+  "vadesiz": 51252575.56,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
@@ -874,15 +874,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 81,
+  "tur": 77,
   "kazanc": 0.0,
-  "servis": 648,
+  "servis": 616,
   "bahsis": 0,
-  "bakiye": 107178445.57,
+  "bakiye": 107159765.57,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.2,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1792613139836
+  "ts": 1792614188688
  }
 }
