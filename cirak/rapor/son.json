@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792553462320,
+   "ms": 1792554504892,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +158,7 @@
    "haftaGunuNo": 3,
    "haftaSonu": false,
    "saat": 3,
-   "dakika": 31,
+   "dakika": 48,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "21 Ekim 2026, Çarşamba"
@@ -677,8 +677,8 @@
    },
    {
     "tur": "bakkal",
-    "no": 62,
-    "toplam": 51000.0,
+    "no": 65,
+    "toplam": 212000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
      "insanDogrula": true
@@ -722,8 +722,8 @@
    },
    {
     "tur": "bakkal",
-    "no": 78,
-    "toplam": 106000.0,
+    "no": 75,
+    "toplam": 51000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
      "insanDogrula": true
@@ -752,14 +752,14 @@
     "kira": 36000.0
    },
    {
-    "no": 62,
+    "no": 65,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
     "kilitli": false,
-    "toplam": 51000.0,
-    "kurulum": 30000.0,
-    "kira": 8000.0
+    "toplam": 212000.0,
+    "kurulum": 120000.0,
+    "kira": 36000.0
    },
    {
     "no": 70,
@@ -802,14 +802,14 @@
     "kira": 8000.0
    },
    {
-    "no": 78,
+    "no": 75,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
     "kilitli": false,
-    "toplam": 106000.0,
-    "kurulum": 60000.0,
-    "kira": 18000.0
+    "toplam": 51000.0,
+    "kurulum": 30000.0,
+    "kira": 8000.0
    }
   ],
   "denemeler": [],
@@ -870,19 +870,19 @@
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 106917863.81
+  "kalan_bakiye": 106811863.81
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 75,
-  "kazanc": 0.0,
-  "servis": 600,
-  "bahsis": 0,
-  "bakiye": 107651863.81,
+  "tur": 97,
+  "kazanc": 50888.2,
+  "servis": 758,
+  "bahsis": 2,
+  "bakiye": 107710399.58,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.2,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1792543677313
+  "ts": 1792544704698
  }
 }
