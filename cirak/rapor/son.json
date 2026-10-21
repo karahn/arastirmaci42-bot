@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 13,
   "tp": 6729,
-  "nakit_kurus": 10715976557,
+  "nakit_kurus": 10694924785,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -26,7 +26,7 @@
   },
   "banka": {
    "vadesiz": 5125257556,
-   "nakit": 10715976557,
+   "nakit": 10694924785,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 3938600000,
+     "limit": 3929700000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 6564400000,
+     "limit": 6549600000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 5251500000,
+     "limit": 5239700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 7877300000,
+     "limit": 7859500000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -149,23 +149,23 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792627149380,
+   "ms": 1792628188097,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
-   "gunNo": 21,
-   "haftaGunu": "Çarşamba",
-   "haftaGunuNo": 3,
+   "gunNo": 22,
+   "haftaGunu": "Perşembe",
+   "haftaGunuNo": 4,
    "haftaSonu": false,
-   "saat": 23,
-   "dakika": 59,
+   "saat": 0,
+   "dakika": 16,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
-   "metin": "21 Ekim 2026, Çarşamba"
+   "metin": "22 Ekim 2026, Perşembe"
   }
  },
  "banka": {
-  "nakit": 107159765.57,
+  "nakit": 106949247.85,
   "vadesiz": 51252575.56,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
@@ -874,15 +874,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 82,
+  "tur": 61,
   "kazanc": 0.0,
-  "servis": 656,
+  "servis": 488,
   "bahsis": 0,
   "bakiye": 106949247.85,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.1,
+  "gecen_dk": 15.2,
   "bot_versiyon": "v2",
-  "ts": 1792617359981
+  "ts": 1792618463320
  }
 }
