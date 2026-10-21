@@ -25,7 +25,7 @@
    "ad": "Ata Mahallesi"
   },
   "banka": {
-   "vadesiz": 4702911477,
+   "vadesiz": 4976144502,
    "nakit": 10717688557,
    "vadeliler": [],
    "krediler": [],
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 3938300000,
+     "limit": 3938800000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 6563900000,
+     "limit": 6564700000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 5251100000,
+     "limit": 5251700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 7876700000,
+     "limit": 7877600000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -137,9 +137,9 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 4702911477,
+   "net": 4976144502,
    "krediNotu": {
-    "puan": 1334,
+    "puan": 1333,
     "bant": "Az riskli",
     "renk": "#E8C21A"
    },
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792619680905,
+   "ms": 1792620735460,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,8 +157,8 @@
    "haftaGunu": "Çarşamba",
    "haftaGunuNo": 3,
    "haftaSonu": false,
-   "saat": 21,
-   "dakika": 54,
+   "saat": 22,
+   "dakika": 12,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "21 Ekim 2026, Çarşamba"
@@ -166,12 +166,12 @@
  },
  "banka": {
   "nakit": 107176885.57,
-  "vadesiz": 47029114.77,
+  "vadesiz": 49761445.02,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
   "kredi_notu": {
-   "puan": 1334,
+   "puan": 1333,
    "bant": "Az riskli",
    "renk": "#E8C21A"
   },
@@ -695,7 +695,7 @@
    },
    {
     "tur": "bakkal",
-    "no": 70,
+    "no": 72,
     "toplam": 51000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
@@ -772,7 +772,7 @@
     "kira": 36000.0
    },
    {
-    "no": 70,
+    "no": 72,
     "tur": "bakkal",
     "ad": "Bakkal",
     "seviye": 1,
@@ -874,15 +874,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 46,
+  "tur": 58,
   "kazanc": 0.0,
-  "servis": 368,
+  "servis": 464,
   "bahsis": 0,
   "bakiye": 107176885.57,
   "siparis_toplam": 0,
   "siparis_basari": 0,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792609905926
+  "ts": 1792611004880
  }
 }
