@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 13,
   "tp": 6789,
-  "nakit_kurus": 10697750301,
+  "nakit_kurus": 10698386001,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -25,8 +25,8 @@
    "ad": "Ata Mahallesi"
   },
   "banka": {
-   "vadesiz": 5125257556,
-   "nakit": 10697750301,
+   "vadesiz": 5128922989,
+   "nakit": 10698386001,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -66,7 +66,7 @@
       6,
       12
      ],
-     "limit": 3932500000,
+     "limit": 3942700000,
      "engel": null,
      "enAz": 1000000,
      "alim": false,
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 6554300000,
+     "limit": 6571200000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 5243400000,
+     "limit": 5256900000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 7865100000,
+     "limit": 7885400000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -137,7 +137,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 5125257556,
+   "net": 5128922989,
    "krediNotu": {
     "puan": 1335,
     "bant": "Az riskli",
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792659353346,
+   "ms": 1792660367730,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,16 +157,16 @@
    "haftaGunu": "Perşembe",
    "haftaGunuNo": 4,
    "haftaSonu": false,
-   "saat": 8,
-   "dakika": 55,
+   "saat": 9,
+   "dakika": 12,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "22 Ekim 2026, Perşembe"
   }
  },
  "banka": {
-  "nakit": 106977503.01,
-  "vadesiz": 51252575.56,
+  "nakit": 106983860.01,
+  "vadesiz": 51289229.89,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
@@ -866,23 +866,23 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 106977503.01,
+  "bakiye": 106983860.01,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 106192503.01
+  "kalan_bakiye": 106198860.01
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 97,
+  "tur": 83,
   "kazanc": 0.0,
-  "servis": 776,
+  "servis": 664,
   "bahsis": 0,
   "bakiye": 106983860.01,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.0,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792649539554
+  "ts": 1792650587554
  }
 }
