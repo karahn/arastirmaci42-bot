@@ -1,17 +1,197 @@
 {
  "cerez-kontrol": {
-  "tamam": false,
-  "hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."
+  "tamam": true,
+  "oyuncu": "arastirmaci42",
+  "seviye": 13,
+  "tp": 6789,
+  "nakit_kurus": 10692846305,
+  "il": {
+   "id": 6,
+   "ad": "Ankara",
+   "nufus": 5910320,
+   "kiyi": false,
+   "buyuksehir": true,
+   "bolge": "İç Anadolu",
+   "enlem": 39.9208,
+   "ulke": "TR"
+  },
+  "ilce": {
+   "id": 1723,
+   "ad": "Yenimahalle",
+   "nufus": 721531
+  },
+  "mahalle": {
+   "id": 198209,
+   "ad": "Ata Mahallesi"
+  },
+  "banka": {
+   "vadesiz": 5130873951,
+   "nakit": 10692846305,
+   "vadeliler": [],
+   "krediler": [],
+   "vadeler": [
+    {
+     "gun": 7,
+     "ad": "1 hafta",
+     "faiz": 36
+    },
+    {
+     "gun": 30,
+     "ad": "1 ay",
+     "faiz": 40
+    },
+    {
+     "gun": 90,
+     "ad": "3 ay",
+     "faiz": 42
+    },
+    {
+     "gun": 365,
+     "ad": "1 yıl",
+     "faiz": 45
+    }
+   ],
+   "krediTurleri": [
+    {
+     "kod": "isletme",
+     "ad": "İşletme kredisi",
+     "simge": "💼",
+     "aciklama": "Stok, kira ve maaş gibi günlük ihtiyaçlar için.",
+     "faiz": 51,
+     "temelFaiz": 54,
+     "odaIndirimi": 3,
+     "seviyeIndirimi": 0,
+     "taksitler": [
+      3,
+      6,
+      12
+     ],
+     "limit": 4092500000,
+     "engel": null,
+     "enAz": 1000000,
+     "alim": false,
+     "pesinat": 0
+    },
+    {
+     "kod": "makine",
+     "ad": "Makine-teçhizat kredisi",
+     "simge": "🏭",
+     "aciklama": "Tesis kurmak ve büyütmek için; en az bir tesisin olmalı.",
+     "faiz": 44,
+     "temelFaiz": 44,
+     "odaIndirimi": 0,
+     "seviyeIndirimi": 0,
+     "taksitler": [
+      6,
+      12,
+      24
+     ],
+     "limit": 6820900000,
+     "engel": "15. seviyede açılır.",
+     "enAz": 1000000,
+     "alim": false,
+     "pesinat": 0
+    },
+    {
+     "kod": "tasit",
+     "ad": "Taşıt kredisi",
+     "simge": "🚗",
+     "aciklama": "Araba ve yat alırken kullanılır; en az %30 peşinat gerekir.",
+     "faiz": 48,
+     "temelFaiz": 48,
+     "odaIndirimi": 0,
+     "seviyeIndirimi": 0,
+     "taksitler": [
+      12,
+      24,
+      36
+     ],
+     "limit": 5456700000,
+     "engel": null,
+     "enAz": 1000000,
+     "alim": true,
+     "pesinat": 0.3
+    },
+    {
+     "kod": "konut",
+     "ad": "Konut kredisi",
+     "simge": "🏠",
+     "aciklama": "Ev ve arsa alırken kullanılır; en az %20 peşinat gerekir.",
+     "faiz": 40,
+     "temelFaiz": 40,
+     "odaIndirimi": 0,
+     "seviyeIndirimi": 0,
+     "taksitler": [
+      24,
+      36,
+      60
+     ],
+     "limit": 8185100000,
+     "engel": null,
+     "enAz": 1000000,
+     "alim": true,
+     "pesinat": 0.2
+    }
+   ],
+   "stopaj": 15,
+   "tahsis": 0.5,
+   "ekonomiGunuMs": 28800000,
+   "karaListe": 0,
+   "net": 5130873951,
+   "krediNotu": {
+    "puan": 1336,
+    "bant": "Az riskli",
+    "renk": "#E8C21A"
+   },
+   "hesapNo": "TR06 0077 7098 0600 5694 4967 03",
+   "donuk": false,
+   "masak": null,
+   "masakServet": []
+  },
+  "takvim": {
+   "ms": 1792689562754,
+   "yil": 2026,
+   "ay": 9,
+   "ayAdi": "Ekim",
+   "gunNo": 22,
+   "haftaGunu": "Perşembe",
+   "haftaGunuNo": 4,
+   "haftaSonu": false,
+   "saat": 17,
+   "dakika": 19,
+   "mevsim": "sonbahar",
+   "mevsimAdi": "Sonbahar",
+   "metin": "22 Ekim 2026, Perşembe"
+  }
  },
  "banka": {
-  "nakit": 0.0,
-  "vadesiz": 0.0,
-  "hesap_no": null,
-  "vadeliler": null,
-  "krediler": null,
-  "kredi_notu": null,
+  "nakit": 106928463.05,
+  "vadesiz": 51308739.51,
+  "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
+  "vadeliler": [],
+  "krediler": [],
+  "kredi_notu": {
+   "puan": 1336,
+   "bant": "Az riskli",
+   "renk": "#E8C21A"
+  },
   "ham_anahtarlar": [
-   "hata"
+   "vadesiz",
+   "nakit",
+   "vadeliler",
+   "krediler",
+   "vadeler",
+   "krediTurleri",
+   "stopaj",
+   "tahsis",
+   "ekonomiGunuMs",
+   "karaListe",
+   "net",
+   "krediNotu",
+   "hesapNo",
+   "donuk",
+   "masak",
+   "masakServet"
   ]
  },
  "havale-gonder": {
@@ -19,72 +199,690 @@
   "tutar": 500000.0,
   "aciklama": "Dükkan açma desteği - Arastirmaci42'den Kalfa19'a",
   "sonuc": {
-   "hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."
+   "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+   "insanDogrula": true
   },
   "basarili": false
  },
  "havale": {
-  "toplam": 0,
-  "gelenler": [],
-  "son_hareketler": [],
-  "hesap_no": null,
+  "toplam": 6,
+  "gelenler": [
+   {
+    "id": 9,
+    "kim": "Karahan",
+    "tutar": 100000.0,
+    "aciklama": null,
+    "giden": false,
+    "ts": 1791073858552
+   },
+   {
+    "id": 4,
+    "kim": "Karahan",
+    "tutar": 50000.0,
+    "aciklama": "stok yardımı",
+    "giden": false,
+    "ts": 1790933942070
+   },
+   {
+    "id": 3,
+    "kim": "Karahan",
+    "tutar": 22000.0,
+    "aciklama": null,
+    "giden": false,
+    "ts": 1790932089039
+   },
+   {
+    "id": 2,
+    "kim": "Karahan",
+    "tutar": 60000.0,
+    "aciklama": "Ortaklık Payı 😘",
+    "giden": false,
+    "ts": 1790930968873
+   }
+  ],
+  "son_hareketler": [
+   {
+    "id": 45,
+    "kim": "Karahan",
+    "tutar": 1000000.0,
+    "aciklama": "kâr payı",
+    "giden": true,
+    "ts": 1791500201842
+   },
+   {
+    "id": 38,
+    "kim": "Karahan",
+    "tutar": 1000000.0,
+    "aciklama": "Günlük kâr payı",
+    "giden": true,
+    "ts": 1791378780681
+   },
+   {
+    "id": 9,
+    "kim": "Karahan",
+    "tutar": 100000.0,
+    "aciklama": null,
+    "giden": false,
+    "ts": 1791073858552
+   },
+   {
+    "id": 4,
+    "kim": "Karahan",
+    "tutar": 50000.0,
+    "aciklama": "stok yardımı",
+    "giden": false,
+    "ts": 1790933942070
+   },
+   {
+    "id": 3,
+    "kim": "Karahan",
+    "tutar": 22000.0,
+    "aciklama": null,
+    "giden": false,
+    "ts": 1790932089039
+   },
+   {
+    "id": 2,
+    "kim": "Karahan",
+    "tutar": 60000.0,
+    "aciklama": "Ortaklık Payı 😘",
+    "giden": false,
+    "ts": 1790930968873
+   }
+  ],
+  "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "engel": null,
   "ham": {
-   "hata": "Sunucuda bir sorun oluştu. Biraz sonra tekrar dene."
+   "hesapNo": "TR06 0077 7098 0600 5694 4967 03",
+   "sinir": 1000000000,
+   "bugun": 0,
+   "engel": null
   }
  },
  "mesaj-oku": {
   "kisi": "Karahan",
-  "toplam": 0,
-  "gelen_adet": 0,
-  "son_gelen": null,
+  "toplam": 25,
+  "gelen_adet": 3,
+  "son_gelen": {
+   "id": 1449,
+   "benden": false,
+   "metin": "Yeni açılan dükkanların hepsinden aç farklı sokaklara toplam hepsinden 2 şer tane olsun",
+   "zaman": 1791656501127,
+   "gr": {
+    "c": "sampiyon",
+    "r": "sezon",
+    "b": "bl_altin2",
+    "c2": "pc_hareketli:duman",
+    "p": "kus",
+    "x": "parilti",
+    "f": "yuvarlak",
+    "kp": "sehir",
+    "u": "u_efsane"
+   }
+  },
   "cevaplanan_id": 1449,
-  "son_mesajlar": []
+  "son_mesajlar": [
+   {
+    "id": 1152,
+    "benden": true,
+    "metin": "Patron kargo + lastikçi açıldı! Kasa 12388856 TL. Sıradaki: Teknik servis = 206000 TL (0 TL daha lazım). IBAN: TR06 0077 7098 0600 5694 4967 03",
+    "zaman": 1791465130310
+   },
+   {
+    "id": 1153,
+    "benden": true,
+    "metin": "Patron, SV6 oldum! Yeni açılan dükkânlar: Emlakçı, Seyahat acentesi, Matbaa, Kebapçı",
+    "zaman": 1791465166652
+   },
+   {
+    "id": 1183,
+    "benden": true,
+    "metin": "Patron, SV7 oldum! Yeni açılan dükkânlar: Sigorta acentesi, Özel kurs, Yapı marketi, Güzellik salonu",
+    "zaman": 1791505492504
+   },
+   {
+    "id": 1240,
+    "benden": true,
+    "metin": "Patron, SV8 oldum! Yeni açılan dükkânlar: Mobilya, Optik, Spor salonu, Bar, Kreş",
+    "zaman": 1791551446859
+   },
+   {
+    "id": 1448,
+    "benden": true,
+    "metin": "Patron, SV9 oldum! Yeni açılan dükkânlar: Mali müşavir, Beyaz eşya, Elektronik mağazası, Sürücü kursu, Veteriner kliniği, Araç kiralama",
+    "zaman": 1791656298260
+   },
+   {
+    "id": 1449,
+    "benden": false,
+    "metin": "Yeni açılan dükkanların hepsinden aç farklı sokaklara toplam hepsinden 2 şer tane olsun",
+    "zaman": 1791656501127
+   },
+   {
+    "id": 1604,
+    "benden": true,
+    "metin": "Patron, SV10 oldum! Yeni açılan dükkânlar: Reklam ajansı, Kuyumcu, Oto galeri",
+    "zaman": 1791749387477
+   },
+   {
+    "id": 2507,
+    "benden": true,
+    "metin": "Patron, SV11 oldum! Yeni açılan dükkânlar: Hukuk bürosu, Disko, Diş kliniği",
+    "zaman": 1791857976447
+   },
+   {
+    "id": 2705,
+    "benden": true,
+    "metin": "Patron, SV12 oldum! Yeni açılan dükkânlar: Gümrük müşaviri, Eczane, Düğün salonu",
+    "zaman": 1791992044462
+   },
+   {
+    "id": 2830,
+    "benden": true,
+    "metin": "Patron, SV13 oldum! Yeni açılan dükkânlar: -",
+    "zaman": 1792126447083
+   }
+  ]
  },
  "oda": {
-  "odalar": [],
+  "odalar": [
+   {
+    "kod": "esnaf",
+    "ad": "Esnaf ve Sanatkârlar Odası",
+    "uye": true,
+    "aktif": true,
+    "egitimAlindi": true,
+    "aidat": 250000,
+    "borc": null,
+    "baskan": {
+     "oyuncuId": 14,
+     "ad": "Karahan",
+     "oy": 6,
+     "donem": "2026-10"
+    },
+    "kasa": 6300000,
+    "uyeler": null,
+    "tp": null
+   },
+   {
+    "kod": "ticaret",
+    "ad": "Ticaret Odası",
+    "uye": true,
+    "aktif": true,
+    "egitimAlindi": true,
+    "aidat": 1500000,
+    "borc": null,
+    "baskan": null,
+    "kasa": 450000,
+    "uyeler": null,
+    "tp": null
+   },
+   {
+    "kod": "sanayi",
+    "ad": "Sanayi Odası",
+    "uye": false,
+    "aktif": false,
+    "egitimAlindi": false,
+    "aidat": 3000000,
+    "borc": null,
+    "baskan": null,
+    "kasa": 0,
+    "uyeler": null,
+    "tp": null
+   }
+  ],
   "egitim": [],
-  "uyelikler": []
+  "uyelikler": [
+   "Esnaf ve Sanatkârlar Odası",
+   "Ticaret Odası"
+  ]
  },
  "seviye-bildir": {
-  "seviye": 0,
-  "tp": null,
+  "seviye": 13,
+  "tp": 6789,
   "onceki": 13,
   "yeni_mi": false
  },
  "dukkan-yonet": {
-  "toplam": 0,
+  "toplam": 50,
   "kasa_toplanan": 0,
   "kasa_tl": 0.0,
   "raf_doldurulan": 0,
   "oto_acilan": 0,
   "detay": [],
   "hatalar": [],
-  "debug": []
+  "debug": [
+   {
+    "id": 5522,
+    "ad": "Araştırma Şarküter",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43907,
+    "ad": "arastirmaci42 Keba",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43911,
+    "ad": "arastirmaci42 Tele",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43923,
+    "ad": "arastirmaci42 Bilg",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43925,
+    "ad": "arastirmaci42 Spor",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43928,
+    "ad": "arastirmaci42 Kuru",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 43932,
+    "ad": "arastirmaci42 Çiğ",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47822,
+    "ad": "arastirmaci42 İç g",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47824,
+    "ad": "arastirmaci42 Yapı",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47827,
+    "ad": "arastirmaci42 Halı",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47835,
+    "ad": "arastirmaci42 Hırd",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47836,
+    "ad": "arastirmaci42 Perd",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47879,
+    "ad": "arastirmaci42 Temi",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47891,
+    "ad": "arastirmaci42 Dond",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47900,
+    "ad": "arastirmaci42 Mark",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47902,
+    "ad": "arastirmaci42 Çant",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47905,
+    "ad": "arastirmaci42 Zücc",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47907,
+    "ad": "arastirmaci42 Döne",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47912,
+    "ad": "arastirmaci42 Hamb",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47921,
+    "ad": "arastirmaci42 Tavu",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47927,
+    "ad": "arastirmaci42 Akta",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47929,
+    "ad": "arastirmaci42 Kasa",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47932,
+    "ad": "arastirmaci42 Fırı",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47933,
+    "ad": "arastirmaci42 Balı",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "id": 47934,
+    "ad": "arastirmaci42 Bebe",
+    "oto_hata": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   }
+  ]
  },
  "dukkan-ac": {
   "ilce": 2034,
-  "acilanlar": [],
-  "secenekler": [],
+  "acilanlar": [
+   {
+    "tur": "bakkal",
+    "no": 58,
+    "toplam": 106000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 61,
+    "toplam": 212000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 62,
+    "toplam": 51000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 65,
+    "toplam": 212000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 70,
+    "toplam": 51000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 72,
+    "toplam": 51000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 73,
+    "toplam": 106000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
+    "no": 78,
+    "toplam": 106000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   }
+  ],
+  "secenekler": [
+   {
+    "no": 58,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
+   },
+   {
+    "no": 61,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 212000.0,
+    "kurulum": 120000.0,
+    "kira": 36000.0
+   },
+   {
+    "no": 62,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 51000.0,
+    "kurulum": 30000.0,
+    "kira": 8000.0
+   },
+   {
+    "no": 65,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 212000.0,
+    "kurulum": 120000.0,
+    "kira": 36000.0
+   },
+   {
+    "no": 70,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 51000.0,
+    "kurulum": 30000.0,
+    "kira": 8000.0
+   },
+   {
+    "no": 72,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 51000.0,
+    "kurulum": 30000.0,
+    "kira": 8000.0
+   },
+   {
+    "no": 73,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
+   },
+   {
+    "no": 78,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 106000.0,
+    "kurulum": 60000.0,
+    "kira": 18000.0
+   }
+  ],
   "denemeler": [],
-  "mevcut_turler": [],
-  "atlanan": [],
-  "bakiye": 0.0,
-  "oyuncu_seviye": 0,
-  "bos_parsel": 0,
-  "kalan_bakiye": 0.0
+  "mevcut_turler": [
+   "aktar",
+   "balikci",
+   "bebek_magazasi",
+   "bilgisayarci",
+   "bisikletci",
+   "camasirhane",
+   "cantaci",
+   "cigkofte",
+   "cilingir",
+   "dondurmaci",
+   "donerci",
+   "elektrikci",
+   "emlakci",
+   "firin",
+   "fotografci",
+   "halici",
+   "hamburgerci",
+   "hirdavat",
+   "ic_giyim",
+   "kargo",
+   "kasap",
+   "kebapci",
+   "kuafor",
+   "kurs",
+   "kuruyemis",
+   "lastikci",
+   "market",
+   "matbaa",
+   "nakliyat",
+   "oto_servis",
+   "oto_yikama",
+   "otopark",
+   "perdeci",
+   "sarkuteri",
+   "seyahat_acentesi",
+   "sigorta_acentesi",
+   "spor_magazasi",
+   "tavukcu",
+   "teknik_servis",
+   "telefoncu",
+   "temizlik_magazasi",
+   "tesisatci",
+   "yapi_marketi",
+   "yedek_parca",
+   "zuccaciye"
+  ],
+  "atlanan": [
+   "firin",
+   "donerci",
+   "hamburgerci",
+   "market"
+  ],
+  "bakiye": 106928463.05,
+  "oyuncu_seviye": 13,
+  "sokak_degistirildi": 1,
+  "bos_parsel": 8,
+  "kalan_bakiye": 106033463.05
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 100,
+  "tur": 80,
   "kazanc": 0.0,
-  "servis": 464,
+  "servis": 560,
   "bahsis": 0,
   "bakiye": 106928463.05,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.0,
+  "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792678730381
+  "ts": 1792679816675
  }
 }
