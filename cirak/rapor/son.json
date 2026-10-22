@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792671914961,
+   "ms": 1792672980994,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +158,7 @@
    "haftaGunuNo": 4,
    "haftaSonu": false,
    "saat": 12,
-   "dakika": 25,
+   "dakika": 43,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "22 Ekim 2026, Perşembe"
@@ -668,6 +668,15 @@
    },
    {
     "tur": "bakkal",
+    "no": 61,
+    "toplam": 212000.0,
+    "sonuc": {
+     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
+     "insanDogrula": true
+    }
+   },
+   {
+    "tur": "bakkal",
     "no": 62,
     "toplam": 51000.0,
     "sonuc": {
@@ -679,15 +688,6 @@
     "tur": "bakkal",
     "no": 65,
     "toplam": 212000.0,
-    "sonuc": {
-     "hata": "Devam etmeden önce kısa bir doğrulama yap.",
-     "insanDogrula": true
-    }
-   },
-   {
-    "tur": "bakkal",
-    "no": 70,
-    "toplam": 51000.0,
     "sonuc": {
      "hata": "Devam etmeden önce kısa bir doğrulama yap.",
      "insanDogrula": true
@@ -742,6 +742,16 @@
     "kira": 18000.0
    },
    {
+    "no": 61,
+    "tur": "bakkal",
+    "ad": "Bakkal",
+    "seviye": 1,
+    "kilitli": false,
+    "toplam": 212000.0,
+    "kurulum": 120000.0,
+    "kira": 36000.0
+   },
+   {
     "no": 62,
     "tur": "bakkal",
     "ad": "Bakkal",
@@ -760,16 +770,6 @@
     "toplam": 212000.0,
     "kurulum": 120000.0,
     "kira": 36000.0
-   },
-   {
-    "no": 70,
-    "tur": "bakkal",
-    "ad": "Bakkal",
-    "seviye": 1,
-    "kilitli": false,
-    "toplam": 51000.0,
-    "kurulum": 30000.0,
-    "kira": 8000.0
    },
    {
     "no": 72,
@@ -870,19 +870,19 @@
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 106189491.05
+  "kalan_bakiye": 106028491.05
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 78,
+  "tur": 77,
   "kazanc": 0.0,
-  "servis": 624,
+  "servis": 616,
   "bahsis": 0,
   "bakiye": 106923491.05,
   "siparis_toplam": 0,
   "siparis_basari": 0,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792662151393
+  "ts": 1792663214457
  }
 }
