@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792661415712,
+   "ms": 1792662450932,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +158,7 @@
    "haftaGunuNo": 4,
    "haftaSonu": false,
    "saat": 9,
-   "dakika": 30,
+   "dakika": 47,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "22 Ekim 2026, Perşembe"
@@ -874,15 +874,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 87,
+  "tur": 95,
   "kazanc": 0.0,
-  "servis": 696,
+  "servis": 760,
   "bahsis": 0,
-  "bakiye": 106983860.01,
+  "bakiye": 106922066.5,
   "siparis_toplam": 0,
   "siparis_basari": 0,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792651624551
+  "ts": 1792652650342
  }
 }
