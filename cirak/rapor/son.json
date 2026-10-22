@@ -4,7 +4,7 @@
   "oyuncu": "arastirmaci42",
   "seviye": 13,
   "tp": 6789,
-  "nakit_kurus": 10666334429,
+  "nakit_kurus": 10660982429,
   "il": {
    "id": 6,
    "ad": "Ankara",
@@ -25,8 +25,8 @@
    "ad": "Ata Mahallesi"
   },
   "banka": {
-   "vadesiz": 5893516785,
-   "nakit": 10666334429,
+   "vadesiz": 5897516343,
+   "nakit": 10660982429,
    "vadeliler": [],
    "krediler": [],
    "vadeler": [
@@ -86,7 +86,7 @@
       12,
       24
      ],
-     "limit": 6917100000,
+     "limit": 6917200000,
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
@@ -106,7 +106,7 @@
       24,
       36
      ],
-     "limit": 5533700000,
+     "limit": 5533800000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -126,7 +126,7 @@
       36,
       60
      ],
-     "limit": 8300600000,
+     "limit": 8300700000,
      "engel": null,
      "enAz": 1000000,
      "alim": true,
@@ -137,7 +137,7 @@
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
    "karaListe": 0,
-   "net": 5893516785,
+   "net": 5897516343,
    "krediNotu": {
     "puan": 1338,
     "bant": "Az riskli",
@@ -149,7 +149,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792716960197,
+   "ms": 1792718001284,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -157,16 +157,16 @@
    "haftaGunu": "Cuma",
    "haftaGunuNo": 5,
    "haftaSonu": false,
-   "saat": 0,
-   "dakika": 56,
+   "saat": 1,
+   "dakika": 13,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "23 Ekim 2026, Cuma"
   }
  },
  "banka": {
-  "nakit": 106663344.29,
-  "vadesiz": 58935167.85,
+  "nakit": 106609824.29,
+  "vadesiz": 58975163.43,
   "hesap_no": "TR06 0077 7098 0600 5694 4967 03",
   "vadeliler": [],
   "krediler": [],
@@ -866,11 +866,11 @@
    "hamburgerci",
    "market"
   ],
-  "bakiye": 106663344.29,
+  "bakiye": 106609824.29,
   "oyuncu_seviye": 13,
   "sokak_degistirildi": 1,
   "bos_parsel": 8,
-  "kalan_bakiye": 105984344.29
+  "kalan_bakiye": 105930824.29
  },
  "bot": {
   "olay": "kosu_bitti",
@@ -881,8 +881,8 @@
   "bakiye": 106609824.29,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.0,
+  "gecen_dk": 15.2,
   "bot_versiyon": "v2",
-  "ts": 1792707172248
+  "ts": 1792708223152
  }
 }
