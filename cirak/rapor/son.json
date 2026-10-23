@@ -70,7 +70,8 @@
      "engel": null,
      "enAz": 1000000,
      "alim": false,
-     "pesinat": 0
+     "pesinat": 0,
+     "oda": false
     },
     {
      "kod": "makine",
@@ -90,7 +91,8 @@
      "engel": "15. seviyede açılır.",
      "enAz": 1000000,
      "alim": false,
-     "pesinat": 0
+     "pesinat": 0,
+     "oda": false
     },
     {
      "kod": "tasit",
@@ -110,7 +112,8 @@
      "engel": null,
      "enAz": 1000000,
      "alim": true,
-     "pesinat": 0.3
+     "pesinat": 0.3,
+     "oda": false
     },
     {
      "kod": "konut",
@@ -130,12 +133,36 @@
      "engel": null,
      "enAz": 1000000,
      "alim": true,
-     "pesinat": 0.2
+     "pesinat": 0.2,
+     "oda": false
+    },
+    {
+     "kod": "oda",
+     "ad": "Esnaf odası kredisi",
+     "simge": "🧰",
+     "aciklama": "Esnaf ve Sanatkârlar Odası kefaletiyle: daha yüksek limit, uzun vade, düşük faiz. Aidatı ödenmiş oda üyelerine.",
+     "faiz": 30,
+     "temelFaiz": 30,
+     "odaIndirimi": 0,
+     "seviyeIndirimi": 0,
+     "taksitler": [
+      6,
+      12,
+      18,
+      24
+     ],
+     "limit": 8304300000,
+     "engel": null,
+     "enAz": 1000000,
+     "alim": false,
+     "pesinat": 0,
+     "oda": true
     }
    ],
    "stopaj": 15,
    "tahsis": 0.5,
    "ekonomiGunuMs": 28800000,
+   "oyunAyiMs": 864000000,
    "karaListe": 0,
    "net": 5897516343,
    "krediNotu": {
@@ -149,7 +176,7 @@
    "masakServet": []
   },
   "takvim": {
-   "ms": 1792728334912,
+   "ms": 1792729382482,
    "yil": 2026,
    "ay": 9,
    "ayAdi": "Ekim",
@@ -158,7 +185,7 @@
    "haftaGunuNo": 5,
    "haftaSonu": false,
    "saat": 4,
-   "dakika": 5,
+   "dakika": 23,
    "mevsim": "sonbahar",
    "mevsimAdi": "Sonbahar",
    "metin": "23 Ekim 2026, Cuma"
@@ -185,6 +212,7 @@
    "stopaj",
    "tahsis",
    "ekonomiGunuMs",
+   "oyunAyiMs",
    "karaListe",
    "net",
    "krediNotu",
@@ -874,15 +902,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 97,
+  "tur": 98,
   "kazanc": 0.0,
-  "servis": 768,
+  "servis": 784,
   "bahsis": 0,
-  "bakiye": 106670541.77,
+  "bakiye": 106671462.77,
   "siparis_toplam": 0,
   "siparis_basari": 0,
   "gecen_dk": 15.1,
   "bot_versiyon": "v2",
-  "ts": 1792718553137
+  "ts": 1792719602853
  }
 }
