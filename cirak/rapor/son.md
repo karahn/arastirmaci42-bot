@@ -1,76 +1,76 @@
 # Çırak raporu — cerez-kontrol
 
-**Zaman:** 2026-10-23 04:38:02 UTC
+**Zaman:** 2026-10-23 04:53:35 UTC
 
 
 ---
 
 # Çırak raporu — banka
 
-**Zaman:** 2026-10-23 04:38:02 UTC
+**Zaman:** 2026-10-23 04:53:35 UTC
 
 
 ---
 
 # Çırak raporu — havale-gonder
 
-**Zaman:** 2026-10-23 04:38:02 UTC
+**Zaman:** 2026-10-23 04:53:35 UTC
 
 
 ---
 
 # Çırak raporu — havale
 
-**Zaman:** 2026-10-23 04:38:02 UTC
+**Zaman:** 2026-10-23 04:53:35 UTC
 
 
 ---
 
 # Çırak raporu — mesaj-oku
 
-**Zaman:** 2026-10-23 04:38:02 UTC
+**Zaman:** 2026-10-23 04:53:35 UTC
 
 
 ---
 
 # Çırak raporu — oda
 
-**Zaman:** 2026-10-23 04:38:02 UTC
+**Zaman:** 2026-10-23 04:53:35 UTC
 
 
 ---
 
 # Çırak raporu — seviye-bildir
 
-**Zaman:** 2026-10-23 04:38:02 UTC
+**Zaman:** 2026-10-23 04:53:35 UTC
 
 
 ---
 
 # Çırak raporu — dukkan-yonet
 
-**Zaman:** 2026-10-23 04:38:02 UTC
+**Zaman:** 2026-10-23 04:53:35 UTC
 
 
 ---
 
 # Çırak raporu — dukkan-ac
 
-**Zaman:** 2026-10-23 04:38:02 UTC
+**Zaman:** 2026-10-23 04:53:35 UTC
 
 
 ---
 
 # Çırak raporu — bot
 
-**Zaman:** 1792730282413 UTC
+**Zaman:** 1792731215718 UTC
 
 ## Bot koşusu
 
 | Alan | Değer |
 |---|---|
-| Süre | 15.0 dk |
-| Tur | 208 |
+| Süre | 15.1 dk |
+| Tur | 228 |
 | Kazanç | 0.0 ₺ |
 | Servis | 0 |
 | Bahşiş | 0 |
