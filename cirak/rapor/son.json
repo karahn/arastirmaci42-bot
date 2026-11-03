@@ -1,7 +1,7 @@
 {
  "cerez-kontrol": {
   "tamam": false,
-  "hata": null
+  "hata": "TimeoutError: The read operation timed out"
  },
  "banka": {
   "nakit": 0.0,
@@ -76,15 +76,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 62,
+  "tur": 5,
   "kazanc": 0.0,
   "servis": 0,
   "bahsis": 0,
   "bakiye": 0.0,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 15.7,
+  "gecen_dk": 20.9,
   "bot_versiyon": "v2",
-  "ts": 1793677175760
+  "ts": 1793678933230
  }
 }

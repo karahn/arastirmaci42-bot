@@ -313092,3 +313092,11 @@
 {"olay": "gunluk", "sonuc": {"bonus": {"hata": "Bulunamadı."}}, "ts": 1793676761472}
 {"olay": "gunluk", "sonuc": {"bonus": {"hata": "Bulunamadı."}}, "ts": 1793676997619}
 {"olay": "kosu_bitti", "tur": 62, "kazanc": 0.0, "servis": 0, "bahsis": 0, "bakiye": 0.0, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 15.7, "bot_versiyon": "v2", "ts": 1793677175760}
+{"olay": "kosu_basladi", "sure_dk": 15.0, "bakiye": 0.0, "bot_versiyon": "v2_hizli_siparis", "ts": 1793677693297}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Bulunamadı."}}, "ts": 1793677899222}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Bulunamadı."}}, "ts": 1793678215016}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Bulunamadı."}}, "ts": 1793678266411}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Bulunamadı."}}, "ts": 1793678386615}
+{"olay": "gunluk", "sonuc": {"bonus": {"hata": "Bulunamadı."}}, "ts": 1793678594424}
+{"olay": "ara_ozet", "tur": 5, "kazanc": 0.0, "servis": 0, "bakiye": 0.0, "siparis": "0/0", "gecen_dk": 20.3, "ts": 1793678897301}
+{"olay": "kosu_bitti", "tur": 5, "kazanc": 0.0, "servis": 0, "bahsis": 0, "bakiye": 0.0, "siparis_toplam": 0, "siparis_basari": 0, "gecen_dk": 20.9, "bot_versiyon": "v2", "ts": 1793678933230}
