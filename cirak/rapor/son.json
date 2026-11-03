@@ -19,7 +19,7 @@
   "tutar": 500000.0,
   "aciklama": "Dükkan açma desteği - Arastirmaci42'den Kalfa19'a",
   "sonuc": {
-   "hata": "TimeoutError: The read operation timed out"
+   "hata": "Oturumun kapanmış, tekrar giriş yap."
   },
   "basarili": false
  },
@@ -76,15 +76,15 @@
  },
  "bot": {
   "olay": "kosu_bitti",
-  "tur": 22,
+  "tur": 160,
   "kazanc": 0.0,
   "servis": 0,
   "bahsis": 0,
   "bakiye": 0.0,
   "siparis_toplam": 0,
   "siparis_basari": 0,
-  "gecen_dk": 18.0,
+  "gecen_dk": 15.0,
   "bot_versiyon": "v2",
-  "ts": 1793680392555
+  "ts": 1793681595893
  }
 }
